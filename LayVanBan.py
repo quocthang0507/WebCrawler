@@ -13,17 +13,18 @@ def print_blue(x): return cprint(x, 'blue')
 
 
 def get_text(url: str):
-    # wait for load fully webpage
-    browser.get(url)
+    try:
+        # wait for load fully webpage
+        browser.get(url)
+    except:
+        return []
+
     # page_source into beautiful_soup
     soup = BeautifulSoup(browser.page_source, 'html.parser')
     # get all <div class="contentPage"> or <div class="content_62b3f161"> in current webpage
     divs = soup.find_all("div", {"class": "contentPage"})
     if len(divs) == 0:
         divs = soup.find_all("div", {"class": "content_62b3f161"})
-    if len(divs) == 0:
-        return []
-
     result = []
     for div in divs:
         _p = div.find('p')
