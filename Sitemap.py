@@ -22,7 +22,7 @@ trang_con = ['https://lamdong.gov.vn/sites/dbnd/SitePages/Home.aspx',
              'https://lamdong.gov.vn/sites/bandantoc/SitePages/Home.aspx',
              'https://lamdong.gov.vn/sites/liza/SitePages/Home.aspx']
 
-max = 300
+max = 500
 
 # get domain name
 main_domain = urlparse(trang_chu).netloc
