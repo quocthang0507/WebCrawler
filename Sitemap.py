@@ -1,6 +1,6 @@
 import os
-from termcolor import cprint
 
+from termcolor import cprint
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 from selenium import webdriver
