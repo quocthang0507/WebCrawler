@@ -30,12 +30,15 @@ def get_text(url: str):
     # if len(divs) == 0:
     #     divs = soup.find_all("div", {"class": "content_62b3f161"})
     result = []
-    p_tags = soup.find('p')
-    if p_tags != None and len(p_tags) > 0:
-        for p in p_tags:
-            text = p.text.strip()
-            if text:
-                result.append(text)
+    tags = [soup.find('p')]
+    tags.append(soup.find_all('td'))
+    tags.append(soup.find_all('th'))
+    for tag in tags:
+        if tag != None and len(tag) > 0:
+            for t in tag:
+                text = t.text.strip()
+                if text:
+                    result.append(text)
     return result
 
 

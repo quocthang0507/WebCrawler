@@ -1,4 +1,5 @@
 import os
+import time
 
 from termcolor import cprint
 from bs4 import BeautifulSoup
@@ -37,14 +38,19 @@ def print_red(x: str): return cprint(x, 'red')
 
 def get_urls_in_webpage(url: str, urls=[]):
     # wait for load fully webpage
-    browser.get(url)
+    try:
+        browser.get(url)
+    except:
+        return
+
     # page_source into beautiful_soup
     soup = BeautifulSoup(browser.page_source, 'html.parser')
+    time.sleep(1)
     # get all <a href="..."> in current webpage
     for link in soup.find_all('a'):
         url = link.get('href')
         domain = urlparse(url).netloc
-        if url not in urls and main_domain == domain and '.aspx' in url and '/video/' not in url and 'Authenticate.aspx' not in url:
+        if url not in urls and main_domain == domain and '/video/' not in url and 'Authenticate.aspx' not in url:
             urls.append(url)
             if len(urls) == max:
                 break
