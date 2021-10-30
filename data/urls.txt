@@ -1,4 +1,3 @@
-https://lamdong.gov.vn/_layouts/15/Authenticate.aspx?Source=/SitePages/Home.aspx
 https://lamdong.gov.vn/HOME/news/hotnews/SitePages/Viet-Nam-no-luc-dong-gop-cho-quan-he-doi-tac-chien-luoc-ASEAN-Nga.aspx
 https://lamdong.gov.vn/HOME/news/hotnews/SitePages/Viet-Nam-tiep-tuc-khang-dinh-duoc-vai-tro-trong-khu-vuc-qua-cac-Hoi-nghi-Cao-cap-ASEAN.aspx
 https://lamdong.gov.vn/HOME/news/hotnews/SitePages/Co-hoi-va-ky-vong-lon-tu-doi-thoai-chien-luoc-dau-tien-giua-Viet-Nam-va-WEF.aspx
