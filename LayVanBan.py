@@ -24,12 +24,15 @@ def get_text(url: str):
     if len(divs) == 0:
         return []
 
+    result = []
     for div in divs:
-        if div.find('p') != None:
-            for p in div.find('p'):
+        _p = div.find('p')
+        if _p != None and len(_p) > 0:
+            for p in _p:
                 text = p.text.strip()
                 if text:
-                    yield text
+                    result.append(text)
+    return result
 
 
 def read_urls(filepath: str):

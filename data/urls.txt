@@ -1,13 +1,3 @@
-https://lamdong.gov.vn/HOME/news/hotnews/SitePages/Viet-Nam-no-luc-dong-gop-cho-quan-he-doi-tac-chien-luoc-ASEAN-Nga.aspx
-https://lamdong.gov.vn/HOME/news/hotnews/SitePages/Viet-Nam-tiep-tuc-khang-dinh-duoc-vai-tro-trong-khu-vuc-qua-cac-Hoi-nghi-Cao-cap-ASEAN.aspx
-https://lamdong.gov.vn/HOME/news/hotnews/SitePages/Co-hoi-va-ky-vong-lon-tu-doi-thoai-chien-luoc-dau-tien-giua-Viet-Nam-va-WEF.aspx
-https://lamdong.gov.vn/HOME/news/hotnews/SitePages/THONG-BAO-KHAN-SO-75-ve-viec-tim-nguoi-co-mat-tai-cac-dia-diem-nguy-co-lien-quan-den-truong-hop-mac-COVID-19.aspx
-https://lamdong.gov.vn/HOME/news/hotnews/SitePages/Cap-nhat-tinh-hinh-dich-Covid-19-tren-dia-ban-tinh-Lam-Dong-cap-nhat-7h00-ngay-29102021.aspx
-https://lamdong.gov.vn/HOME/news/hotnews/SitePages/Ngay-2910-Quoc-hoi-thao-luan-ve-du-kien-ke-hoach-co-cau-lai-nen-kinh-te-giai-doan-2021-2025.aspx
-https://lamdong.gov.vn/HOME/news/hotnews/SitePages/Lam-Dong-chuan-bi-tiem-vac-xin-phong-benh-Covid-19-cho-tre-em.aspx
-https://lamdong.gov.vn/HOME/news/hotnews/SitePages/THONG-BAO-KHAN-SO-74-ve-viec-tim-nguoi-co-mat-tai-cac-dia-diem-nguy-co-lien-quan-den-truong-hop-mac-COVID-19.aspx
-https://lamdong.gov.vn/HOME/news/hotnews/SitePages/Sang-che-dot-pha-Khau-trang-co-kha-nang-phat-hien-SARS-CoV-2.aspx
-https://lamdong.gov.vn/HOME/news/hotnews/SitePages/Chu-tich-nuoc-se-du-phien-thao-luan-mo-cap-cao-ve-hop-tac-LHQ-va-AU.aspx
 https://lamdong.gov.vn/SitePages/chi-tiet-tin-tuc.aspx?$DocId=2312&$WebUrl=https://lamdong.gov.vn/HOME/news/tin-trong-tinh&$ListId=fbadd3d4-9d1c-407c-8c7b-b7692d4f0103
 https://lamdong.gov.vn/SitePages/chi-tiet-tin-tuc.aspx?$DocId=2311&$WebUrl=https://lamdong.gov.vn/HOME/news/tin-trong-tinh&$ListId=fbadd3d4-9d1c-407c-8c7b-b7692d4f0103
 https://lamdong.gov.vn/SitePages/chi-tiet-tin-tuc.aspx?$DocId=2308&$WebUrl=https://lamdong.gov.vn/HOME/news/tin-trong-tinh&$ListId=fbadd3d4-9d1c-407c-8c7b-b7692d4f0103
@@ -97,3 +87,13 @@ https://lamdong.gov.vn/sites/tuyentruyen/tuyentruyen/nong-thon-moi/SitePages/Qua
 https://lamdong.gov.vn/_layouts/15/Authenticate.aspx?Source=/HOME/news/hotnews/SitePages/Viet-Nam-no-luc-dong-gop-cho-quan-he-doi-tac-chien-luoc-ASEAN-Nga.aspx
 https://lamdong.gov.vn/_layouts/15/Authenticate.aspx?Source=/HOME/news/hotnews/SitePages/Viet-Nam-tiep-tuc-khang-dinh-duoc-vai-tro-trong-khu-vuc-qua-cac-Hoi-nghi-Cao-cap-ASEAN.aspx
 https://lamdong.gov.vn/_layouts/15/Authenticate.aspx?Source=/HOME/news/hotnews/SitePages/Co-hoi-va-ky-vong-lon-tu-doi-thoai-chien-luoc-dau-tien-giua-Viet-Nam-va-WEF.aspx
+https://lamdong.gov.vn/HOME/news/hotnews/SitePages/Viet-Nam-no-luc-dong-gop-cho-quan-he-doi-tac-chien-luoc-ASEAN-Nga.aspx
+https://lamdong.gov.vn/HOME/news/hotnews/SitePages/Viet-Nam-tiep-tuc-khang-dinh-duoc-vai-tro-trong-khu-vuc-qua-cac-Hoi-nghi-Cao-cap-ASEAN.aspx
+https://lamdong.gov.vn/HOME/news/hotnews/SitePages/Co-hoi-va-ky-vong-lon-tu-doi-thoai-chien-luoc-dau-tien-giua-Viet-Nam-va-WEF.aspx
+https://lamdong.gov.vn/HOME/news/hotnews/SitePages/THONG-BAO-KHAN-SO-75-ve-viec-tim-nguoi-co-mat-tai-cac-dia-diem-nguy-co-lien-quan-den-truong-hop-mac-COVID-19.aspx
+https://lamdong.gov.vn/HOME/news/hotnews/SitePages/Cap-nhat-tinh-hinh-dich-Covid-19-tren-dia-ban-tinh-Lam-Dong-cap-nhat-7h00-ngay-29102021.aspx
+https://lamdong.gov.vn/HOME/news/hotnews/SitePages/Ngay-2910-Quoc-hoi-thao-luan-ve-du-kien-ke-hoach-co-cau-lai-nen-kinh-te-giai-doan-2021-2025.aspx
+https://lamdong.gov.vn/HOME/news/hotnews/SitePages/Lam-Dong-chuan-bi-tiem-vac-xin-phong-benh-Covid-19-cho-tre-em.aspx
+https://lamdong.gov.vn/HOME/news/hotnews/SitePages/THONG-BAO-KHAN-SO-74-ve-viec-tim-nguoi-co-mat-tai-cac-dia-diem-nguy-co-lien-quan-den-truong-hop-mac-COVID-19.aspx
+https://lamdong.gov.vn/HOME/news/hotnews/SitePages/Sang-che-dot-pha-Khau-trang-co-kha-nang-phat-hien-SARS-CoV-2.aspx
+https://lamdong.gov.vn/HOME/news/hotnews/SitePages/Chu-tich-nuoc-se-du-phien-thao-luan-mo-cap-cao-ve-hop-tac-LHQ-va-AU.aspx
