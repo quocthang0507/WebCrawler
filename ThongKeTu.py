@@ -37,7 +37,7 @@ def tokenize(sentence: str, lower: bool = True, tokenizer_id: int = 1):
     return tokens
 
 
-def group_by_and_count(df: DataFrame, cols=['Vietnamese'], new_col_name='Occurences'):
+def group_by_and_count(df: DataFrame, cols=['Vietnamese'], new_col_name='Occurrences'):
     group = df.groupby(cols)
     group = group.size()
     return group.reset_index(name=new_col_name)
@@ -95,46 +95,59 @@ def filter_aligned_words(aligned_df: DataFrame, crawled_df: DataFrame):
     # Lấy các giá trị cột đầu tiên thành mảng
     crawled_arr = crawled_df.iloc[:, [0]].values
 
+    total = len(aligned_df)
     for index, row in aligned_df.iterrows():
         # Nếu từ đó có trong danh sách từ crawled_arr
         word = row[0].strip()
         if word in crawled_arr:
             l = len(df)
             df.loc[l] = row
+            print_red(f'Đã xử lý xong dòng thứ {index+1}/{total}')
+        else:
+            print_red(f'Đã bỏ qua dòng thứ {index+1}/{total}')
+
     return df
 
+
 # Khai báo các đường dẫn và các biến
-data_folder = os.path.join(os.getcwd(), 'data')
-text_file = os.path.join(data_folder, 'crawled_text.txt')
-tokens_file = os.path.join(data_folder, 'vi_tokens.txt')
-align_file = os.path.join(data_folder, 'SongNgu_GiongTu_Cần kiểm tra.xlsx')
+crawl_data_folder = os.path.join(os.getcwd(), 'data')
+excel_folder = r'C:\Users\La Quoc Thang\OneDrive - dlu.edu.vn\CONGVIEC\TuDienKHoChuru\Dữ liệu'
+
+text_file = os.path.join(crawl_data_folder, 'crawled_text.txt')
+tokens_file = os.path.join(crawl_data_folder, 'vi_tokens.txt')
+align_file = os.path.join(excel_folder, 'SongNgu_GiongTu_Cần kiểm tra.xlsx')
 align_sheet_name = 'Dot 1+2+3'
-filtered_align_file = os.path.join(data_folder, '')
+filtered_align_file = os.path.join(excel_folder, 'SongNgu_GiongTu_Đã lọc.xlsx')
 
 # Dataframe lưu kết quả
 result_df = pd.DataFrame(columns=['Vietnamese'])
 
 # Tách từ từ dữ liệu
 with open(text_file, 'r', encoding='utf8') as reader:
-    len_text = len(reader)
-    print_red('Số dòng trong file text là ' + len_text)
     count = 0
     for line in reader:
         count += 1
         line = line.strip()
         if line:
             tokens = tokenize(line, lower=True, tokenizer_id=2)
-            len_df = len(result_df)
-            result_df.loc[len_df] = tokens
-        print_red('Đã xử lý dòng thứ ' + count + '/'+len_text)
+            for token in tokens:
+                len_df = len(result_df)
+                result_df.loc[len_df] = token
+
+        print_red(f'Đã xử lý dòng thứ {count}')
     print('Đã đọc xong file text')
 
 # Gom nhóm và thêm số đếm
+print(result_df)
 result_df = group_by_and_count(result_df)
 result_df = sort(result_df)
+print(result_df)
+print(f'Kích thước dữ liệu {len(result_df)}')
 export_file(result_df, tokens_file)
+print_red('Đã xuất danh sách các từ đã thu thập được')
 
 # Lọc các từ đã gióng dựa trên các từ đã thu thập được
 aligned_df = read_excel(align_file, align_sheet_name)
 result_df = filter_aligned_words(aligned_df, result_df)
 export_df_to_excel(result_df, filtered_align_file, align_sheet_name)
+print_red('Đã xuất danh sách các từ đã gióng')

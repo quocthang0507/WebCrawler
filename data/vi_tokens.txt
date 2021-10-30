@@ -1,0 +1,1791 @@
+Vietnamese	Occurrences
+#	1
+&	38
+=	3
+a	2
+aci	4
+ai	2
+an dân	1
+an lành	1
+an ninh	16
+an sinh	3
+an toàn	12
+and	2
+android	1
+anh	6
+app	1
+arbidol	1
+asean	6
+awards	1
+b	1
+ba	1
+ban	30
+ban chấp hành	1
+ban hành	22
+bao	1
+bao gồm	1
+bao nhiêu	1
+bcstnmt	3
+bcttr	1
+bcttttn	1
+bcđ	2
+biên chế	2
+biên lai	3
+biên soạn	3
+biết	8
+biển	1
+biểu mẫu	2
+biện pháp	3
+bm	2
+bn	1
+boris	1
+bounty	1
+bug	1
+bugrank	1
+buôn	1
+buôn lậu	2
+buôn ma thuột	1
+buổi	4
+bà	1
+bài	3
+bài bản	1
+bài toán	1
+bàn	2
+bàn giao	2
+bác bỏ	1
+bám	1
+bán	2
+báo	5
+báo chí	1
+báo cáo	9
+báo giá	1
+bãi	1
+bé	1
+bén duyên	1
+bên	4
+bình luận	4
+bình minh	2
+bình thường	2
+bình đẳng	4
+bí thư	5
+bích	1
+bùn	1
+bùng nổ	1
+bưu chính	3
+bưu điện	1
+bước	2
+bạc liêu	1
+bạn đọc	2
+bản	2
+bản án	1
+bảng	1
+bảo an	1
+bảo hiểm	9
+bảo hộ	3
+bảo lâm	1
+bảo lộc	3
+bảo mật	2
+bảo tồn	1
+bảo vệ	6
+bảo đảm	3
+bấm	1
+bất kỳ	1
+bất ngờ	1
+bầu cử	4
+bẫy	1
+bắc	2
+bắc bộ	1
+bắt	3
+bắt buộc	1
+bằng	6
+bến tre	1
+bền vững	4
+bệnh	3
+bệnh nhân	1
+bị	11
+bị can	1
+bị cáo	1
+bị thương	1
+bỏ	2
+bố trí	1
+bối cảnh	4
+bồi dưỡng	5
+bổ nhiệm	1
+bổ nhiệm chức vụ	1
+bổ sung	2
+bổ trợ	1
+bộ	31
+bộ máy	2
+bộ phận	1
+bộ trưởng	8
+bởi	1
+b’ri	2
+c	1
+ca	4
+cam kết	3
+can	2
+cao	16
+cao cấp	1
+cao điểm	1
+catp	1
+cesti	1
+chi hội	1
+chi nhánh	1
+chi phí	1
+chi tiết	17
+chia	1
+chia sẻ	4
+china	1
+chinhphuvn	2
+chiêu	1
+chiếm	1
+chiếm đoạt	2
+chiến	1
+chiến lược	2
+chiều	7
+cho	33
+chu	1
+chu kỳ	1
+chu tri	1
+chung	11
+chuyên gia	1
+chuyên môn	2
+chuyên ngành	6
+chuyên đề	2
+chuyển	1
+chuyển dịch	1
+chuyển giao	2
+chuyển đổi	31
+chuẩn	3
+chuẩn bị	3
+chuẩn hóa	1
+chuối	1
+chuỗi	2
+chánh	4
+chánh án	1
+cháy	1
+châu á	1
+chí minh	5
+chính	3
+chính phủ	25
+chính sách	7
+chính thức	2
+chính trị	3
+chính xác	4
+chú trọng	1
+chúc mừng	2
+chăm lo	1
+chăm sóc	2
+chưa	3
+chương trình	25
+chấm bài	1
+chấp nhận	3
+chấp thuận	1
+chất	3
+chất lượng	3
+chất vấn	1
+chậm chạp	1
+chặng	1
+chặt chẽ	1
+chế biến chế tạo	1
+chế tạo	2
+chế độ	1
+chết	3
+chỉ	3
+chỉ huy	1
+chỉ thị	5
+chỉ tiêu	1
+chỉ đạo	14
+chịu	4
+chống	2
+chống phá	1
+chợ	1
+chục	1
+chủ chốt	1
+chủ nhiệm	1
+chủ trì	12
+chủ trương	4
+chủ tịch	19
+chủ yếu	5
+chủ đề	2
+chủ động	3
+chức danh	1
+chức năng	8
+chứng chỉ	12
+chứng kiến	1
+chứng minh	1
+chứng nhận	4
+chữa	3
+citation	1
+cm	1
+cn	5
+cntt	2
+coi	2
+collins	1
+comvill	2
+con	1
+con người	1
+corona	1
+covid	33
+cp	1
+cptpp	3
+cttu	2
+cung cấp	2
+cung ứng	1
+cuối	7
+cuốn	5
+cuộc	12
+cuộc sống	1
+cvtu	1
+cvv	1
+cá nhân	16
+các	131
+cách	7
+cách chức	1
+cách thức	1
+cán bộ	7
+cát	2
+cát tiên	4
+câu	2
+còn	8
+có	60
+có mặt	2
+có thể	3
+cô	1
+công	1
+công an	19
+công bố	7
+công chức	3
+công cộng	1
+công dân	2
+công nghiệp	5
+công nghệ	54
+công nghệ cao	1
+công nghệ sinh học	1
+công nhận	1
+công thương	14
+công trình	2
+công ty	4
+công tác	42
+công tư	1
+công việc	1
+công văn	2
+cùng	14
+cúm hn	1
+căn	1
+cđs	1
+cũ	2
+cũng	6
+cơ	2
+cơ bản	5
+cơ cấu	5
+cơ hội	4
+cơ quan	66
+cơ quan chuyên môn	1
+cơ sở	17
+cư trú	3
+cả	5
+cải cách	1
+cải tiến	1
+cảnh báo	1
+cảnh sát	2
+cấm	1
+cấp	33
+cấp độ	1
+cấp ủy	1
+cầm đầu	1
+cần	5
+cầu	1
+cầu giấy	1
+cầu nối	1
+cẩn thận	1
+cẩn trọng	1
+cận	1
+cập nhật	1
+cố vấn	1
+cốt lõi	1
+cổ phần	1
+cổ truyền	1
+cổng	39
+cộng hòa xã hội chủ nghĩa việt	1
+cộng đồng	5
+cộp	2
+cụ thể	3
+cục	5
+cụm	1
+của	154
+củng cố	1
+cử tri	2
+cửa	1
+cửa hàng	1
+dakruco	1
+dang	1
+danh lam	19
+danh mục	2
+danh sách	29
+de	1
+dect	1
+di chuyển	1
+di linh	2
+di lý phạm	1
+di động	2
+diễn	4
+diễn biến	1
+diễn đàn	2
+diện	1
+diệu	2
+dlcorp	1
+dn	1
+do	12
+do đó	1
+doanh nghiệp	23
+don	1
+download	8
+dtts	6
+du lịch	31
+dung dịch	2
+duy trì	1
+duyên hải	1
+dvkt	1
+dài	1
+dài hạn	1
+dân	9
+dân số	1
+dân sự	1
+dân tộc	17
+dân tộc thiểu số	5
+dây	2
+dù	1
+dùng	4
+dư luận	1
+dương	6
+dưới	4
+dược	13
+dạng	1
+dấu	1
+dần	1
+dẫn đầu	1
+dậy	2
+dị	1
+dịch	13
+dịch bệnh	4
+dịch vụ	4
+dịp	3
+dọc	2
+dồn	1
+dữ liệu	15
+dự	2
+dự kiến	6
+dự phòng	1
+dự thảo	3
+dự toán	1
+dự tuyển	1
+dự án	9
+dựa	2
+em	1
+engineering	1
+evfta	4
+fax	1
+fludon	1
+g	2
+gdp	1
+ghi chép	1
+gia	1
+gia tăng	1
+gia viễn	1
+gia đình	4
+giai đoạn	15
+giam giữ	1
+gian hàng	1
+gian khó	1
+gian lận	2
+giao dịch	1
+giao thông	23
+giao tiếp	1
+giun	1
+giá cả	1
+giá trị	3
+giám khảo	1
+giám sát	1
+giám định	2
+giám đốc	13
+giáng sinh	2
+giáo dục	6
+giãn	1
+giúp	7
+giả	2
+giải pháp	9
+giải quyết	6
+giải thưởng	2
+giải trình	1
+giảm	2
+giấp	1
+giấy phép	3
+giết	1
+giọng	1
+giới	6
+giới thiệu	5
+giờ	1
+giữa	7
+gplxgovvn	1
+gs	1
+gtvt	2
+gái	1
+gánh vác	1
+gây	3
+gây rối	1
+gì	1
+góc	1
+góc độ	1
+gói	1
+góp phần	6
+góp ý	1
+gấp	1
+gần	2
+gần gũi	1
+gắn	2
+gặp	4
+gọi	3
+gọi là	1
+gồm	1
+gởi	1
+gỡ	1
+gửi	1
+h	1
+ha	1
+hai	13
+hdbtgtu	1
+hien	2
+hiếu	1
+hiển	1
+hiểu	2
+hiểu biết	1
+hiện	2
+hiện nay	5
+hiện đại	1
+hiệp	4
+hiệp hội	1
+hiệp thương	1
+hiệp định	5
+hiệu lực	1
+hiệu quả	9
+hiệu suất	1
+hiệu trưởng	2
+hn	1
+hoa	1
+hoach	4
+hoà bình	1
+hoài niệm	1
+hoàn cảnh	1
+hoàn thiện	2
+hoàn toàn	2
+hoàn tất	1
+hoạt động	25
+hoặc	4
+hpd	1
+httpdigitalknowledgehubvnueduvn	1
+httpsbaomoicomlaodongtudonaoolamdongduochotrokhokhancepiutm_source	1
+httpsbugrankiouserncscpolicy	1
+httpshcmohagovvn	1
+httpslamdonggovvnlistsqunlvnbnattachmentstbpdf	1
+httpssnvlamdonggovvn	1
+htv	1
+huy động	1
+huyện	34
+huyện ủy	2
+huỳnh	2
+hà	7
+hà nội	3
+hàn	1
+hàng	7
+hàng hóa	1
+hàng đầu	2
+hành chính	8
+hành khách	1
+hành nghề	13
+hãng	1
+hình sự	5
+hình thành	2
+hình thức	4
+hòa bình	1
+hòa bắc	1
+hòa lạc	1
+hòn	1
+hóa	2
+hóa dược	1
+hót	1
+hđba	2
+hđnd	5
+hơn	8
+hương	2
+hướng	2
+hướng dẫn	5
+hại	1
+hạn	1
+hạn chế	1
+hạnh phúc	1
+hải	1
+hảo	2
+hầu hết	1
+hậu	1
+hết	1
+hệ sinh thái	2
+hệ thống	4
+họ	2
+học	2
+học tập	1
+học viên	3
+học viện	1
+họp	17
+hỏa hoạn	2
+hỏi	3
+hồ	5
+hồ sơ	1
+hồng	5
+hỗ trợ	17
+hộ	6
+hộ sản xuất	1
+hội	7
+hội nghị	14
+hội nhập	1
+hội thảo	5
+hội trường	3
+hội tụ	1
+hội đồng	11
+hội đồng nhân dân	4
+hợp	2
+hợp lý	1
+hợp tác	2
+hủy hoại	1
+i	2
+iapp	1
+ict	1
+ii	1
+in	3
+index	1
+internet	1
+ios	1
+ispeed	1
+james	1
+johnson	1
+journal	2
+kdvt	1
+ke	4
+kh	7
+khai báo	2
+khai mạc	2
+khai thác	3
+khai trương	1
+khcn	1
+khen thưởng	1
+khhđbcqg	1
+khi	10
+khiếu nại	9
+khoa	2
+khoa học	49
+khoáng sản	1
+khoản	1
+khoảng	1
+khoảng cách	1
+khstnmt	2
+khsyt	2
+khu công nghiệp	2
+khu vực	3
+khubnd	6
+khuyến cáo	1
+khuyến nghị	1
+khuôn khổ	2
+khác	7
+khác biệt tự	1
+khách hàng	1
+khách sạn	1
+khám	2
+khí hậu	1
+khí tượng	2
+khó	2
+khó khăn	8
+khóa	10
+khô	1
+không	16
+không gian	3
+khả năng	1
+khả thi	1
+khẩu hiệu	1
+khẩu trang	1
+khắc phục	1
+khắp	1
+khẳng định	2
+khỏi	2
+khối	4
+khởi nghiệp	1
+khởi tố	1
+khởi đầu	2
+khởi động	1
+kinh doanh	8
+kinh nghiệm	1
+kinh phí	1
+kinh tế	19
+kinh tếxã	1
+kiến nghị	3
+kiến thức	2
+kiểm soát	2
+kiểm tra	6
+kiểu	1
+kiểu mẫu	1
+klttr	3
+ky	1
+kèm	1
+kéo dài	1
+kê khai	1
+kêt	1
+kích	1
+ký	2
+kế hoạch	27
+kế hoạch hóa	1
+kết	2
+kết cấu hạ tầng	1
+kết luận	11
+kết nối	5
+kết quả	12
+kết thúc	3
+kịp thời	2
+kỳ	12
+kỳ vọng	1
+kỷ niệm	1
+kỷ yếu	1
+kỹ năng	3
+lan	5
+lang	1
+lao động	7
+lhq	2
+linh	2
+linh hoạt	4
+linnaeus	1
+liêm	1
+liên chi hội	1
+liên doanh	1
+liên hợp	1
+liên kết hợp tác	1
+liên minh châu	1
+liên quan	11
+liên tiếp	2
+liêng	1
+liền	1
+lo	1
+loài	1
+loại	7
+luân phiên	1
+luôn	4
+luận	1
+luận điệu	1
+luật	13
+là	44
+làm	25
+làm chủ	1
+làm việc	13
+làng	2
+lành	3
+lá	2
+lái xe	2
+lâm	161
+lâm hà	1
+lâu	1
+lãnh thổ	1
+lãnh đạo	8
+lê	2
+lê minh	1
+lê trí dũng	1
+lên	5
+lòng	1
+lúc	2
+lý giải quyết	5
+lđ	9
+lĩnh vực	7
+lương thực	1
+lượng	1
+lại	9
+lạt	17
+lần	17
+lần lượt	1
+lẫn	1
+lậu	2
+lắk	3
+lắp	1
+lắp đặt	2
+lễ	3
+lệ phí	1
+lệch lạc	1
+lịch	1
+lọt	1
+lốc	1
+lồng ghép	2
+lỗ hổng	1
+lộ	1
+lộn	1
+lớn	4
+lớp	1
+lời	1
+lỡ hẹn	1
+lợi thế	1
+lợi ích	4
+lừa đảo	4
+lực	1
+lực lượng	2
+ma	1
+ma hương	1
+ma thuật	1
+ma túy	3
+mai	2
+make	1
+mang	1
+micgovvn	5
+micro	1
+minh	3
+minh châu	1
+minh chứng	1
+minh tâm	1
+miên man	1
+miếng	1
+miền	4
+mong muốn	3
+mong đợi	1
+most	1
+mt	1
+mtqg	1
+mttq	3
+mtv	1
+mua bán	1
+mua sắm	1
+mà	6
+mà còn	2
+màu	1
+mái	1
+máy	4
+máy bay	1
+máy tính	1
+mã	1
+mê man	1
+mình	3
+món	1
+mô hình	1
+môi trường	9
+mùa	3
+mũi	1
+mưa bão	1
+mượn	1
+mạng	8
+mạnh	1
+mạnh mẽ	2
+mất	1
+mấy	1
+mầu	1
+mẫu	2
+mật	1
+mắc	3
+mặc	1
+mặt	1
+mặt trận	2
+mọi	5
+mỗi	2
+một	17
+một cách	2
+một số	10
+mới	23
+mời	1
+mở	4
+mục	1
+mục sư	1
+mục tiêu	10
+mục đích	1
+mức độ	1
+mỹ	2
+mỹ phẩm	2
+nai	3
+nala	1
+nam	35
+nam giới	1
+nam trung tâm	1
+narongrit	1
+nay	3
+ncsc	2
+ngay	2
+nghe	1
+nghiêm túc	1
+nghiên cứu	10
+nghiệm thu	3
+nghiện	4
+nghiệp vụ	2
+nghèo	7
+nghìn	1
+nghề	1
+nghề nghiệp	1
+nghị quyết	11
+nghị định	2
+ngiệp	2
+ngoài	2
+ngoại thương	1
+ngoạn mục	1
+nguy cơ	4
+nguyễn	3
+nguyễn hải nam	1
+nguyễn hồng	1
+nguyễn hữu kiểm	1
+nguyễn khắc định	1
+nguyễn ngọc ánh	1
+nguyễn tạo	1
+nguyễn văn đình	1
+nguyện vọng	1
+nguồn	6
+nguồn lực	2
+ngành	9
+ngày	102
+ngày càng	1
+ngày nay	2
+ngân hàng	2
+ngân sách	5
+người	30
+người dân	2
+người thân	1
+ngọc	2
+nha	1
+nhanh	4
+nhau	1
+nhi đồng	1
+nhiem	1
+nhiều	20
+nhiễm	1
+nhiễu	1
+nhiệm kỳ	3
+nhiệm vụ	32
+nhu cầu	3
+nhà	4
+nhà khoa học	3
+nhà máy	1
+nhà nước	12
+nhà sản xuất	1
+nhà tầng	1
+nhà xuất bản	1
+nhâm	1
+nhân	1
+nhân dân	22
+nhân dân doanh nghiệp	1
+nhân dân tối cao	1
+nhân dịp	3
+nhân lực	3
+nhân quyền	2
+nhân sự	1
+nhãn hiệu	4
+nhìn	4
+nhìn nhận	1
+nhóm	3
+như	12
+nhưng	4
+nhạt	2
+nhấn mạnh	3
+nhất	12
+nhầm	1
+nhận	2
+nhận diện	1
+nhận lời	1
+nhận thức	3
+nhập	2
+nhật	1
+nhằm	12
+nhỏ	2
+nhỏ nhắn	1
+những	17
+niềm	1
+nlct	2
+no	1
+noel	1
+nq	2
+nqcp	9
+ntm	3
+nudus	1
+nuôi	1
+nuôi cấy	1
+nào	1
+này	19
+nâng	9
+nâu	1
+nét	1
+nên	1
+nêu	1
+nóng	1
+nông dân	5
+nông nghiệp	7
+nông sản	1
+nông thôn	6
+núi	1
+năm	88
+năng lực	4
+nđ	1
+nđcp	1
+nơi	3
+nước	7
+nước ngoài	2
+nước rút	1
+nạn nhân	1
+nắm	3
+nặng	2
+nặng nề	1
+nền	4
+nền tảng	5
+nổi bật	10
+nổi tiếng	1
+nội	3
+nội bộ	1
+nội dung	21
+nội tạng	1
+nội vụ	6
+nội địa	1
+nộp	3
+nợ	1
+nữ	2
+nữa	4
+of	2
+online	10
+pccovid	1
+pdf	1
+pha	1
+phan	1
+phieu	1
+phiên	7
+phiếu	1
+phong cách	1
+phong phú	1
+pháp chế	3
+pháp luật	12
+pháp lý	8
+pháp nhân	1
+pháp y	2
+phát biểu	3
+phát hiện	2
+phát huy	6
+phát hành	2
+phát thanh	1
+phát triển	32
+phát động	2
+phân	1
+phân bổ	1
+phân lập	1
+phân tích	1
+phân định	1
+phép	1
+phê duyệt	8
+phí	1
+phía	3
+phím	1
+phòng	6
+phòng bệnh	1
+phòng chống	23
+phòng khám	1
+phòng thí nghiệm	1
+phó	11
+phó chủ tịch	1
+phó hiệu trưởng	1
+phó thủ tướng	1
+phó trưởng đoàn	1
+phù hợp	2
+phùng đức	1
+phơi	1
+phương	1
+phương hướng	1
+phương pháp	1
+phương thức	3
+phương tiện	3
+phương án	3
+phường	3
+phạm	8
+phạm vi	3
+phạt	2
+phải	4
+phản bác	1
+phản ánh	1
+phản ảnh	1
+phần	2
+phần mềm	1
+phối hợp	12
+phổ biến	2
+phụ nữ	2
+phụ trách	1
+phục	2
+phục hồi	2
+phục vụ	5
+phức tạp	2
+postmartvn	1
+ptnt	4
+qh	2
+qua	13
+quan hệ	1
+quan lạn	1
+quan trọng	5
+quan tâm	5
+quan điểm	1
+quanh	1
+qui định	1
+quy	2
+quy chế	2
+quy hoạch	5
+quy mô	1
+quy phạm pháp luật	3
+quy trình	1
+quy định	14
+quyết	1
+quyết định	29
+quyền	4
+quyền hạn	4
+quyền sở hữu trí tuệ	1
+quà	3
+quá	1
+quá trình	4
+quán triệt	2
+quân đội	1
+quý khách	1
+quả tang	1
+quản lý	91
+quản trị	3
+quảng bá	1
+quảng cáo	1
+quảng ninh	1
+quảng trị	1
+quận	1
+quận ủy	1
+quốc	1
+quốc gia	18
+quốc gia giảm	1
+quốc hội	27
+quốc khánh	2
+quốc phòng	1
+quốc tế	7
+quốc tịch	1
+quỹ	2
+qđ	1
+qđbnv	4
+qđskhcn	1
+qđttg	2
+qđubnd	13
+ra	22
+ra mắt	1
+ra viện	1
+riêng	1
+rà soát	4
+rách	1
+rông	5
+rõ	5
+rõ ràng	2
+rùa	1
+rất	5
+rằng	2
+rồi	4
+rộng	2
+rừng	1
+rửa	2
+s	1
+sai trái	1
+san	1
+sarscov	1
+sau	16
+science	2
+security	1
+series	2
+share	1
+shtt	1
+sinh hoạt	1
+sinh sản	1
+sinh thái học	1
+sipunculidae	1
+sipunculus	2
+skhcnqlkh	1
+so	2
+sombatsompop	1
+sp	1
+stanford	1
+summit	1
+suất	2
+sàn	1
+sá	6
+sách	10
+sáng	15
+sáng chế	1
+sáng tạo	4
+sáp nhập	1
+sát	1
+sát khuẩn	2
+sâu	1
+sâu sắc	1
+sét	1
+sóng	1
+sùng	6
+sơ kết	2
+sơ thẩm	1
+sơ thẩm xét xử	1
+sơ đồ	1
+sơn la	1
+sơn điền	1
+sản phẩm	7
+sản xuất	6
+sấy	1
+sập	1
+sẵn sàng	1
+sẻ	1
+sẽ	13
+số	107
+số hoá	1
+số liệu	1
+số lượng	1
+sốp	2
+sở	138
+sở hữu trí tuệ	4
+sợi	2
+sức	4
+sức khỏe	3
+sức mạnh	2
+sức ép	2
+sử dụng	14
+sửa đổi	7
+sửu	2
+sự	19
+sự kiện	4
+sự nghiệp	2
+ta	2
+tamiflu	1
+tay	3
+tbskhcn	1
+tbsyt	2
+tbtu	1
+tbubnd	1
+tdp	1
+techfest	1
+techmart	3
+technology	2
+tecste	1
+telecom	1
+tem	10
+test	2
+text	1
+tgpl	1
+tham dự	5
+tham gia	6
+tham khảo	1
+tham mưu	2
+tham nhũng	7
+thanh niên	1
+thanh toán	2
+thanh tra	21
+thanh tùng	1
+thay mặt	2
+thay đổi	2
+theo	28
+theo dõi	1
+thi	11
+thi hành	2
+thi đua	1
+thiên tai	1
+thiết bị	6
+thiết kế	2
+thiết thực	1
+thiết yếu	2
+thiếu	1
+thiếu niên	1
+thiện	1
+thiệt hại	1
+thon	1
+thu hoạch	1
+thu hút	1
+thu hẹp	1
+thu hồi	1
+thuc	2
+thuê	2
+thuế	1
+thuốc	2
+thuộc	30
+thuỷ triều	1
+thành công	2
+thành lập	1
+thành phố	12
+thành tựu	1
+thành viên	6
+thành đạt	1
+thách thức	3
+thái bình dương	1
+tháng	18
+tháo gỡ	3
+thân	5
+thêm	3
+thì	7
+thích hợp	1
+thích ứng	3
+thôn xã	1
+thông báo	12
+thông minh	1
+thông qua	2
+thông suốt	1
+thông tin	78
+thông tin dữ liệu	1
+thông tư	3
+thù địch	1
+thùy	1
+thúc đẩy	2
+thăm	3
+thư	2
+thư viện	3
+thương binh	4
+thương hiệu	3
+thương mại	7
+thương mại hóa	1
+thương mại điện tử	2
+thường	4
+thường niên	1
+thường trực	5
+thường vụ	6
+thường xuyên	1
+thảo	1
+thảo luận	12
+thấy	1
+thẩm quyền	5
+thập niên	1
+thắng cảnh	19
+thắng lợi	2
+thẻ	2
+thế	1
+thế giới	4
+thế lực	1
+thềm	1
+thể chế	2
+thể hiện	1
+thể thao	10
+thị	3
+thị hiếu	1
+thị trường	5
+thị trấn	1
+thống kê	3
+thống nhất	4
+thời gian	4
+thời sự	2
+thời điểm	1
+thụ	5
+thụ hưởng	1
+thủ tướng	11
+thủ tục	1
+thủ đoạn	2
+thủ đô	1
+thủy điện	2
+thứ	18
+thứ trưởng	1
+thử nghiệm	1
+thực chất	1
+thực hiện	50
+thực phẩm	2
+thực tiễn	1
+thực trạng	1
+tin	7
+tin cậy	2
+tin lành	1
+tin tưởng	1
+tin tức	43
+tinh kỳ	2
+tinh thần	2
+tinh trùng	1
+tinh vi	1
+tiêm	1
+tiêu chuẩn	3
+tiêu chí	1
+tiêu cực	1
+tiêu dùng	1
+tiêu thụ	1
+tiến	1
+tiến bộ	1
+tiến hành	5
+tiến trình	1
+tiến độ	3
+tiếng	2
+tiếp	2
+tiếp nhận	3
+tiếp thu	1
+tiếp tục	14
+tiềm năng	1
+tiềm ẩn	1
+tiền	5
+tiền mặt	2
+tiểu ban	1
+tiểu khu	1
+tiện	2
+tmcp	1
+tn	1
+tnhh	1
+to	1
+top	1
+toàn	4
+toàn cầu	1
+toàn diện	1
+toàn quốc	3
+toàn thể	1
+toàn văn	1
+toạ đàm	1
+tp	6
+tra	1
+tra cứu	1
+trang	5
+trang bị	1
+trang phục	1
+trang thiết bị	1
+trao	2
+trao tặng	1
+trao đổi	1
+travel	1
+tri thức	1
+trinh sát	2
+triển khai	19
+triển khai chiến lược	1
+triển lãm	3
+trong	100
+trung	1
+trung hòa	1
+trung quốc	1
+trung thực	1
+trung tâm	24
+trung ương	8
+truy cập	2
+truy nã	1
+truy tìm	1
+truy tố	1
+truyền hình	1
+truyền thông	19
+truyền thống	2
+tràn	1
+trách nhiệm	6
+trái	2
+trái phép	1
+trên	43
+trình	3
+trình độ	2
+trí thức	1
+trí tuệ	3
+trò	2
+tròn	1
+trú	3
+trăm	1
+trước	11
+trường	7
+trường hợp	4
+trưởng	7
+trưởng phòng	2
+trưởng đoàn	2
+trạm	1
+trả lời	3
+trần	10
+trần phú	1
+trần đình	1
+trật tự	13
+trẻ	2
+trẻ em	2
+trị giá	1
+trọng	2
+trọng thể	1
+trọng tâm	4
+trốn	1
+trộm	1
+trở thành	4
+trở về	1
+trợ giúp	8
+trụ sở	1
+trực	1
+trực thuộc	1
+trực tiếp	2
+trực tuyến	17
+ts	4
+tstt	4
+tt	4
+ttbkhcn	1
+ttbtp	1
+ttbtttt	1
+tttts	2
+tu tra	1
+tuy nhiên	2
+tuyên	1
+tuyên giáo	2
+tuyên phạt	1
+tuyên truyền	11
+tuyển chọn	1
+tuyệt đối	1
+tuấn	1
+tuổi	4
+tuổi đời	1
+tvs	3
+ty	1
+tài chính	15
+tài khoản	2
+tài liệu	1
+tài nguyên	7
+tài sản	7
+tác dụng	1
+tác giả	2
+tác động	1
+tái	1
+tám	1
+tâm thần	1
+tân	2
+tân lộc	2
+tây nguyên	2
+tên	6
+tìm	2
+tìm hiểu	6
+tìm kiếm	3
+tình hình	7
+tình trạng	4
+tích cực	4
+tích hợp	13
+tín dụng	1
+tín đồ	1
+tính	1
+tòa án	3
+tôi	8
+tôn	1
+tôn giáo	2
+tăng cường	6
+tăng trưởng	1
+tư cách	1
+tư pháp	8
+tư tưởng	1
+tương thân	1
+tương tự	2
+tương ái	1
+tước	1
+tường	2
+tại	75
+tạm thời	2
+tạo	6
+tạo dựng	1
+tạp chí	4
+tải	58
+tấn công	2
+tất cả	1
+tầm	2
+tần số	3
+tầng	1
+tận dụng	1
+tập huấn	4
+tập trung	1
+tậpcác	1
+tắt	1
+tặng	2
+tẻh	8
+tết	1
+tết nguyên đán	3
+tỉnh	161
+tỉnh thành phố	1
+tỉnh ủy	15
+tỉnh ủy viên	1
+tỏa	5
+tố cáo	1
+tốc	1
+tốc độ	1
+tối	1
+tốt	2
+tốt đẹp	1
+tồn tại	1
+tổ	2
+tổ chức	48
+tổ quốc	2
+tổ quốc việt	1
+tổng cục	2
+tổng hợp	5
+tổng kết	2
+tổng số	1
+tổng thanh tra	1
+tổng thể	1
+tổng đài	3
+tội	4
+tội phạm	3
+tới	7
+tờ	1
+tụ điểm	1
+từ	20
+từng	3
+tử vong	1
+tự	3
+tự do	1
+tự giác	1
+tự động	2
+tỷ	1
+tỷ trọng	1
+ubbc	3
+ubnd	44
+ubndkh	2
+ubndmt	1
+ubndth	1
+ubndđc	1
+utm_campaign	1
+utm_medium	1
+va	2
+vai trò	3
+vay	1
+ve	2
+vi phạm	1
+video	1
+vietcombank	1
+vietnam	4
+vimexpo	2
+vinh danh	1
+virus	3
+viên	1
+viên chức	2
+viết	3
+viễn thông	3
+việc	32
+việc làm	2
+viện	2
+viện kiểm sát nhân dân tối cao	1
+viện trưởng	1
+việt	30
+vjste	1
+vn	1
+vnnic	1
+vnulic	1
+vu	1
+vui	1
+và	219
+vào	24
+vân	1
+vân đồn	1
+vì	1
+vô sinh	1
+vô tuyến	4
+võ	6
+vùng	4
+vùng sâu	1
+vùng đất	1
+văn	9
+văn bản	21
+văn hoàng	2
+văn hóa	16
+văn lộc	2
+văn phòng	3
+vũ khí	1
+vướng mắc	3
+vượt	1
+vấn đề	4
+vẫn	2
+vận hành	1
+vận tải	23
+vật chất	1
+vậy	1
+vắc xin	1
+về	107
+vị thế	1
+vịnh	1
+với	50
+vụ	5
+vụ việc	1
+vụ án	1
+vừa	4
+vững chắc	1
+vững mạnh	1
+vực	2
+website	1
+wlan	1
+world	1
+xa	1
+xem xét	2
+xi	1
+xiii	1
+xin	2
+xiv	1
+xoáy	1
+xu hướng	2
+xuat	1
+xuyên	1
+xuyên tạc	1
+xuân phúc	2
+xuân đài	1
+xuất bản	4
+xuất bản in	2
+xuống	1
+xv	9
+xác định	7
+xây dựng	18
+xã	8
+xã hội	22
+xã thôn	1
+xét	2
+xét duyệt	2
+xét xử	1
+xúc tiến	1
+xảy	4
+xếp hạng	1
+xếp loại	1
+xử lý	3
+xử lý do	1
+y dược	1
+y khoa	1
+y tế	41
+yersin	1
+yêu	1
+yêu cầu	7
+yếu tố	1
+zalo	1
+zalomsg	1
+zanamivir	1
+án	1
+áp dụng	1
+âm mưu	1
+âu	1
+ông	10
+ý kiến	4
+ý nghĩa	2
+ý thức	2
+ý tưởng	1
+ăn	1
+đ	1
+đa khoa	1
+đa phương	1
+đa phần	1
+đam	7
+đang	31
+đbqh	3
+đem	1
+đh	1
+đi	5
+đinh	1
+điêu đứng	1
+điều	1
+điều chỉnh	3
+điều hành	3
+điều kiện	5
+điều tra	6
+điều trị	1
+điểm	5
+điện	4
+điện thoại	5
+điện tử	47
+điệp	1
+đo	1
+đoàn	7
+đoàn kết	1
+đuối	1
+đà	17
+đàm phán	4
+đào	1
+đào tạo	3
+đáng kể	1
+đánh	1
+đánh giá	5
+đáp ứng	3
+đây	44
+đã	67
+đình chỉ	2
+đình trung	1
+đó	18
+đói	1
+đón	3
+đóng góp	2
+đông	1
+đông đảo	1
+đùm	1
+đúng	1
+đăng	1
+đăng ký	2
+đơn	5
+đơn giản hóa bộ	1
+đơn vị	8
+đưa	6
+đường bộ	1
+đường dây	1
+đường dây nóng	1
+được	62
+đạ	8
+đại biểu	12
+đại diện	7
+đại dịch	11
+đại học	9
+đại học viện	1
+đại hội	2
+đại đoàn kết	1
+đạo đức	1
+đạt	5
+đảm bảo	8
+đảng	4
+đảng bộ	2
+đảng viên	2
+đảng ủy	2
+đảo	1
+đất	6
+đất cát	1
+đất nước	3
+đất đai	3
+đầm	1
+đầu	6
+đầu tiên	3
+đầu tư	8
+đầy đủ	1
+đẩy	2
+đẩy mạnh	4
+đập	1
+đắk	3
+đặc biệt	4
+đặc sản	1
+đặc trưng	1
+đặt	1
+đến	24
+đề	3
+đề bài	1
+đề bạt	1
+đề cương	1
+đề nghị	3
+đề tài	3
+đề xuất	2
+đề án	6
+đều	2
+để	37
+địa bàn	27
+địa chỉ	6
+địa phương	12
+địa điểm	2
+định hướng	2
+đọc	1
+đối ngoại	1
+đối thoại	1
+đối tác	5
+đối tượng	6
+đối với	14
+đồng	161
+đồng bào	5
+đồng bộ	2
+đồng chí	11
+đồng hành	2
+đồng lòng	1
+đồng lần	1
+đồng nhất	1
+đồng thuận	1
+đồng thời	6
+đồng tình	1
+đồng ý	1
+đổi mới	3
+độ	2
+độc	1
+đội	1
+đội ngũ	2
+động viên	1
+đột kích	1
+đời sống	4
+đợt	12
+đủ	3
+đức	4
+đứng	3
+ảnh	5
+ảnh hưởng	3
+ống	1
+ổn định	1
+ở	20
+ủy	1
+ủy ban	23
+ủy quyền	1
+ủy viên	3
+ứng cử	1
+ứng dụng	8
+ứng phó	1
+​	14
+’	1
+“	29
+”	28
