@@ -25,10 +25,11 @@ def get_text(url: str):
         return []
 
     for div in divs:
-        for p in div.find('p'):
-            text = p.text.strip()
-            if text:
-                yield text
+        if div.find('p') != None:
+            for p in div.find('p'):
+                text = p.text.strip()
+                if text:
+                    yield text
 
 
 def read_urls(filepath: str):
