@@ -1,5 +1,6 @@
 import os
 import datetime
+import time
 
 from termcolor import cprint
 from bs4 import BeautifulSoup
@@ -19,6 +20,7 @@ def get_text(url: str):
     try:
         # wait for load fully webpage
         browser.get(url)
+        # time.sleep(0.2)
     except:
         return []
 
@@ -30,7 +32,7 @@ def get_text(url: str):
     # if len(divs) == 0:
     #     divs = soup.find_all("div", {"class": "content_62b3f161"})
     result = []
-    tags = [soup.find('p')]
+    tags = [soup.find_all('p')]
     tags.append(soup.find_all('td'))
     tags.append(soup.find_all('th'))
     for tag in tags:

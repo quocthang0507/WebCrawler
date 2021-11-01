@@ -1,5 +1,4 @@
 import os
-import time
 
 from termcolor import cprint
 from bs4 import BeautifulSoup
@@ -23,7 +22,7 @@ trang_con = ['https://lamdong.gov.vn/sites/dbnd/SitePages/Home.aspx',
              'https://lamdong.gov.vn/sites/bandantoc/SitePages/Home.aspx',
              'https://lamdong.gov.vn/sites/liza/SitePages/Home.aspx']
 
-max = 500
+max = 1000
 
 # get domain name
 main_domain = urlparse(trang_chu).netloc
@@ -31,6 +30,8 @@ main_domain = urlparse(trang_chu).netloc
 # open browser
 browser = webdriver.Edge(executable_path=os.path.join(
     os.getcwd(), 'webdrivers', 'msedgedriver.exe'))
+
+browser.set_page_load_timeout(60)
 
 
 def print_red(x: str): return cprint(x, 'red')
@@ -45,7 +46,7 @@ def get_urls_in_webpage(url: str, urls=[]):
 
     # page_source into beautiful_soup
     soup = BeautifulSoup(browser.page_source, 'html.parser')
-    time.sleep(1)
+    
     # get all <a href="..."> in current webpage
     for link in soup.find_all('a'):
         url = link.get('href')
