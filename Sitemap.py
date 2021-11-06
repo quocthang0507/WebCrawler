@@ -6,7 +6,12 @@ from urllib.parse import urlparse
 from selenium import webdriver
 
 trang_chu = 'https://lamdong.gov.vn/SitePages/Home.aspx'
-trang_con = ['https://lamdong.gov.vn/sites/dbnd/SitePages/Home.aspx',
+trang_con = ['https://lamdong.gov.vn/HOME/news/hotnews/SitePages/Home.aspx',
+             'https://lamdong.gov.vn/HOME/news/chuyen-doi-so/SitePages/Home.aspx',
+             'https://lamdong.gov.vn/HOME/news/tintrongnuoc/SitePages/Home.aspx',
+             'https://lamdong.gov.vn/HOME/news/tin-quoc-te/SitePages/Home.aspx',
+             'https://lamdong.gov.vn/HOME/news/tin-trong-tinh/SitePages/Home.aspx',
+             'https://lamdong.gov.vn/sites/dbnd/SitePages/Home.aspx',
              'https://lamdong.gov.vn/sites/vpubnd/SitePages/Home.aspx',
              'https://lamdong.gov.vn/sites/snv/SitePages/Home.aspx',
              'https://lamdong.gov.vn/sites/stc/SitePages/Home.aspx',
@@ -46,7 +51,7 @@ def get_urls_in_webpage(url: str, urls=[]):
 
     # page_source into beautiful_soup
     soup = BeautifulSoup(browser.page_source, 'html.parser')
-    
+
     # get all <a href="..."> in current webpage
     for link in soup.find_all('a'):
         url = link.get('href')

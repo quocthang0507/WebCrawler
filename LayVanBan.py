@@ -32,15 +32,23 @@ def get_text(url: str):
     # if len(divs) == 0:
     #     divs = soup.find_all("div", {"class": "content_62b3f161"})
     result = []
-    tags = [soup.find_all('p')]
-    tags.append(soup.find_all('td'))
-    tags.append(soup.find_all('th'))
-    for tag in tags:
-        if tag != None and len(tag) > 0:
-            for t in tag:
-                text = t.text.strip()
-                if text:
-                    result.append(text)
+    blacklist = [
+        '[document]',
+        'noscript',
+        'header',
+        'html',
+        'meta',
+        'head',
+        'input',
+        'script',
+        'style'
+        # there may be more elements you don't want, such as "style", etc.
+    ]
+    text = soup.find_all(text=True)
+    # print(set([t.parent.name for t in text]))
+    for t in text:
+        if t.parent.name not in blacklist:
+            result.append(t)
     return result
 
 
