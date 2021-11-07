@@ -5,7 +5,7 @@ import xlsxwriter
 
 from pandas.core.frame import DataFrame
 from pyvi import ViTokenizer
-from underthesea import word_tokenize, sent_tokenize
+from underthesea import word_tokenize
 from termcolor import cprint
 
 
@@ -35,10 +35,6 @@ def tokenize(sentence: str, lower: bool = True, tokenizer_id: int = 1):
         tokens = word_tokenize(sentence)
 
     return tokens
-
-
-def sentence_tokenize(text: str):
-    return sent_tokenize(text)
 
 
 def group_by_and_count(df: DataFrame, cols=['Vietnamese'], new_col_name='Occurrences'):
