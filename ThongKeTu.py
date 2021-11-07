@@ -43,6 +43,13 @@ def group_by_and_count(df: DataFrame, cols=['Vietnamese'], new_col_name='Occurre
     return group.reset_index(name=new_col_name)
 
 
+def load_text_file(filename: str, sep='\t'):
+    if not os.path.exists(filename):
+        raise FileNotFoundError('File not found')
+    df = pd.read_csv(filename, index_col=False, sep=sep)
+    return df
+
+
 def read_excel(filename: str, sheet_name: str):
     if os.path.exists(filename):
         return pd.read_excel(filename, sheet_name, index_col=False)
@@ -111,7 +118,7 @@ def filter_aligned_words(aligned_df: DataFrame, crawled_df: DataFrame):
 
 # Khai báo các đường dẫn và các biến
 crawl_data_folder = os.path.join(os.getcwd(), 'data')
-excel_folder = r'C:\Users\La Quoc Thang\OneDrive - dlu.edu.vn\CONGVIEC\TuDienKHoChuru\Dữ liệu'
+excel_folder = r'C:\Users\La Quoc Thang\OneDrive - dlu.edu.vn\CÔNG VIỆC\TuDienKHoChuru\Dữ liệu'
 
 text_file = os.path.join(crawl_data_folder, 'crawled_text.txt')
 tokens_file = os.path.join(crawl_data_folder, 'vi_tokens.txt')
@@ -119,6 +126,7 @@ align_file = os.path.join(excel_folder, 'SongNgu_GiongTu_Cần kiểm tra.xlsx')
 align_sheet_name = 'Dot 1+2+3'
 filtered_align_file = os.path.join(excel_folder, 'SongNgu_GiongTu_Đã lọc.xlsx')
 
+'''
 # Dataframe lưu kết quả
 result_df = pd.DataFrame(columns=['Vietnamese'])
 
@@ -145,6 +153,9 @@ print(result_df)
 print(f'Kích thước dữ liệu {len(result_df)}')
 export_file(result_df, tokens_file)
 print_red('Đã xuất danh sách các từ đã thu thập được')
+'''
+
+result_df = load_text_file(tokens_file)
 
 # Lọc các từ đã gióng dựa trên các từ đã thu thập được
 aligned_df = read_excel(align_file, align_sheet_name)
