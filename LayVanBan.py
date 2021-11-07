@@ -16,7 +16,7 @@ browser.set_page_load_timeout(60)
 def print_blue(x): return cprint(x, 'blue')
 
 
-def get_text(url: str):
+def get_text(url: str, full_text: bool = True):
     try:
         # wait for load fully webpage
         browser.get(url)
@@ -27,28 +27,33 @@ def get_text(url: str):
     # page_source into beautiful_soup
     soup = BeautifulSoup(browser.page_source, 'html.parser')
 
-    # get all <div class="contentPage"> or <div class="content_62b3f161"> in current webpage
-    # divs = soup.find_all("div", {"class": "contentPage"})
-    # if len(divs) == 0:
-    #     divs = soup.find_all("div", {"class": "content_62b3f161"})
     result = []
-    blacklist = [
-        '[document]',
-        'noscript',
-        'header',
-        'html',
-        'meta',
-        'head',
-        'input',
-        'script',
-        'style'
-        # there may be more elements you don't want, such as "style", etc.
-    ]
-    text = soup.find_all(text=True)
-    # print(set([t.parent.name for t in text]))
-    for t in text:
-        if t.parent.name not in blacklist and t.strip():
-            result.append(t.strip())
+    if full_text:
+        # get all <div class="contentPage"> or <div class="content_62b3f161"> in current webpage
+        divs = soup.find_all("div", {"class": "contentPage"})
+        if len(divs) == 0:
+            divs = soup.find_all("div", {"class": "content_62b3f161"})
+        for p in divs.find_all('p'):
+            if p != None and p.get_text().strip():
+                result.append(p.get_text().strip())
+    else:
+        blacklist = [
+            '[document]',
+            'noscript',
+            'header',
+            'html',
+            'meta',
+            'head',
+            'input',
+            'script',
+            'style'
+            # there may be more elements you don't want, such as "style", etc.
+        ]
+        text = soup.find_all(text=True)
+        # print(set([t.parent.name for t in text]))
+        for t in text:
+            if t.parent.name not in blacklist and t.strip():
+                result.append(t.strip())
     return result
 
 
