@@ -47,8 +47,8 @@ def get_text(url: str):
     text = soup.find_all(text=True)
     # print(set([t.parent.name for t in text]))
     for t in text:
-        if t.parent.name not in blacklist:
-            result.append(t)
+        if t.parent.name not in blacklist and t.strip():
+            result.append(t.strip())
     return result
 
 

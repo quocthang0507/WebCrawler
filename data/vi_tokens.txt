@@ -1,2207 +1,2612 @@
 Vietnamese	Occurrences
-#	25
-&	515
-=	56
-[	43
-]	43
-_sncnvgsw	2
-a	161
+#	36
+&	943
+=	32
+[	12
+]	12
+_de	1
+_sncnvgsw	1
+_uoc	1
+a	190
+a hoàng diệu	3
 a mú sung	1
-abds	2
+abc	4
+abdulrazak	1
+aboard	1
 abtpbttpcc	1
 abtpbttpgđtp	2
-abtpbttphgtm	2
+abtpbttphgtm	1
 abtpbttplstn	1
 abtpbttpqltlts	1
 abtpbttptttm	1
 abtpbttpđgts	1
-accenture	6
-aci	10
-aciscopus	1
+abuse	1
+access	1
+acer	8
+action	1
+actiso	2
+actively	1
+activities	2
+adb	4
+additional	1
 address	1
-admin	3
+adfdiexceladdininstaller	1
+adhanom	1
+adjustment	1
+admin	2
+against	1
+agencies	2
 agency	1
-aggricultural	2
 agricultural	2
-ai	28
+agriculture	1
+ai	63
+aids	1
 aiii	2
-al	2
-alikhan	2
+air	1
+airway	1
+airways	1
+alhamad	1
+alkhaled	1
+all	1
+allowed	2
+alpha	2
+alsabah	1
+alt	3
 alumin	1
-america	2
+aluminum	1
+always	1
+am hiểu	2
+ambassador	1
+amdonggovvn	1
+amelie	2
+amending	1
+amount	1
+amounts	1
 amphetamine	2
-an	47
-an bình	10
+an	355
+an bình	5
 an cư yên tâm	1
-an dân	3
+an dương vương	2
+an giang	123
+an hiệp	2
 an lành	1
-an lộc	2
+an lộc	1
 an nhiên	1
-an nhơn	47
-an ninh	89
-an ninh an toàn	2
-an phú	2
-an sinh	22
+an nhơn	23
+an ninh	118
+an ninh an toàn	4
+an phú	1
+an sinh	35
 an thành phố	1
-an toàn	156
-an toàn lao động	3
-and	18
-andersen	6
-anh	103
-anh chị em	2
-anh em	4
-anh hùng	5
+an toàn	330
+an toàn lao động	5
+an táng	3
+analytics	1
+and	33
+android	2
+angrist	1
+anh	108
+anh chị	1
+anh chị em	1
+anh dũng	2
+anh em	7
+anh hùng	8
 anh hùng ca	1
 anhchị	5
-anhnnlamdonggovvn	2
+anhnnlamdonggovvn	1
 ankroet	3
 ankroet thác	1
-antoangiaothonglamdonggovvn	2
-antt	2
+antoangiaothonglamdonggovvn	1
+antq	1
 antónio	1
 anvui	2
-ao	4
-ao ước	1
+ao	2
+apec	1
 apex	1
-app	2
-ar	2
+app	34
+apple	6
+appolo	1
+approves	1
+approving	2
+apps	1144
+ar	1
 arapmaoh	1
+archeological	1
+architecture	1
 archives	2
-arthur	4
-asarwriblmfriqdx_r	2
-asean	28
-aspects	2
-aspirin	2
+ardem	1
+are	1
+area	1
+areas	2
+arrangement	1
+arria	1
+arts	1
+arvr	1
+as	1
+asarwriblmfriqdx_r	1
+asean	15
+aseantrung	6
+asia	1
+asks	1
+assessing	1
 astcvp	1
-at	2
-atisô	1
-atrptnlbi	2
-autm	2
-avbtplbl	6
-awi	4
-ayunpa	2
-ađkvb	4
-b	109
-ba	48
-ba gác	1
+at	4
+atgt	90
+atiso	1
+atisô	4
+atm	7
+atrptnlbi	1
+attention	1
+attitude	1
+ausinnovation	3
+australia	19
+auto	1
+avbtplbl	3
+ay	5
+ayunpa	1
+ađkvb	2
+b	532
+ba	103
+ba kỳ	18
 ba lá	1
-ba mươi	2
-ba đình	2
+ba mươi	5
+ba đình	1
+bac	2
+back	573
 balcon	1
-ban	422
-ban bí thư	4
-ban chấp hành	20
-ban giám hiệu	2
-ban hành	244
-ban ngành	8
+bamboo	2
+ban	1551
+ban bí thư	5
+ban chấp hành	40
+ban chỉ huy	1
+ban giám hiệu	1
+ban hành	369
+ban hành trình tự	1
+ban ngành	13
 ban ngày	1
 ban tặng	3
-ban đêm	1
-ban đầu	15
-bandantoclamdonggovvn	12
-bao	11
-bao bì	9
+ban đầu	4
+banbientapvpublamdonggovvn	20
+bandantoclamdonggovvn	7
+bank	1
+banking	4
+bao	18
+bao bì	6
 bao bọc	1
-bao che	6
-bao giờ	14
-bao gói	1
-bao gồm	54
+bao che	4
+bao giờ	5
+bao gói	5
+bao gồm	52
 bao la	1
-bao nhiêu	3
-bao quát	2
+bao lam	1
+bao nhiêu	2
 bao tiêu	1
-bao trùm	2
-baolamdongvn	28
+bao trùm	3
+bao vây	1
+baochinhphuvn	2
+baoclicknet	1
+baolamdongvn	39
 bar	2
+basin	2
 bauxit	1
-bauxite	3
-bay	3
+bauxite	4
+bay	5
 bazan	1
 bbq	1
-bbstp	1
-bbtlamdonggovvn	97
+bbt	237
+bbtlamdonggovvn	136
 bbtpbttpgđtp	2
-bc	41
+bc	43
+bcbch	1
+bcc	2
 bcctlđo	1
-bch	1
-bchqslamdonggovvn	2
-bckcn	17
-bcskhcn	4
-bcslđtbxh	1
+bcg	1
+bch	2
+bchqslamdonggovvn	1
+bckcn	16
+bcskhcn	5
+bcslđtbxh	2
 bcstc	2
-bcstnmt	3
-bcstp	10
+bcstnmt	4
 bct	1
-bcttr	7
+bcttr	3
 bcubnd	10
-bcđ	11
+bcvt	66
+bcxb	22
 bcđpcd	1
+bd	1
+bdsc	111
 bdt	6
-bdtlamdonggovvn	14
-bdvtulamdonggovvn	2
-bechamel	2
+bdtlamdonggovvn	8
+bdvtulamdonggovvn	1
 being	1
+belarus	1
+benjamin	1
 bentonit	1
 bentonite	2
 bentoxit	1
-best	2
-bhxhlamdonggovvn	2
-bhytlamdonggovvn	2
-bi	3
+bessac	1
+better	1
+bhxh	3
+bhxhlamdonggovvn	1
+bhytlamdonggovvn	1
+bi	1
 bi tráng	1
 bian	11
 biang	1
 bianðà	1
-bidoup	2
-biduop	2
-bidv	1
-binh chủng	1
+biden	3
+bidoup	44
+biduop	1
+bidv	2
+biet	2
+bieu	1
+big	1
+binh	1
+binuh	1
 bio	1
-biodevelopmentsinternational	2
 biogas	1
 bioorganic	3
-biên	3
-biên bản	23
-biên chế	22
-biên dịch	4
-biên giới	9
+bit	1
+biên	132
+biên bản	31
+biên chế	86
+biên giới	11
 biên hoà	1
 biên lai	9
-biên soạn	3
-biên tập	64
+biên soạn	4
+biên tập	68
+biên tập viên	13
 biêng	1
 biêng thác	1
 biếc	2
-biến	9
-biến chuyển	1
-biến chủng	3
+biến	7
+biến chủng	6
+biến cố	1
 biến thiên	1
-biến thể	3
+biến thể	13
 biến áp	8
-biến đổi	15
-biến động	1
-biết	106
+biến đổi	40
+biến động	2
+biết	309
 biết bao	1
 biết mấy	1
-biển	36
+biển	37
 biển hồ	1
-biển số	1
-biểu	24
-biểu diễn	9
-biểu hiện	10
-biểu mẫu	14
-biểu quyết	2
+biểu	23
+biểu diễn	7
+biểu dương	7
+biểu hiện	22
+biểu mẫu	117
+biểu quyết	11
 biểu thuế	4
-biểu tình	3
-biểu tượng	1
-biểu đạt	2
-biểu đồ	7
+biểu tượng	2
+biểu đồ	9
 biễu	1
-biện pháp	97
-biện pháp vũ trang	5
-biệt	3
+biện pháp	133
+biệt	2
 biệt phái	1
-biệt thự	1
+biệt thự	2
+bk	9
+bl	1
 blao	1
 blaodi	1
-bldlamdonggovvn	2
+bldlamdonggovvn	1
+bleepingcomputer	1
 bling	1
+bloomberg	1
+bluezone	2
 bluzone	1
+blốc	4
+bm	1
+bo	1
 boie	1
+bombay	1
 bonsai	1
-borge	1
+bonus	3
+books	2
 boris	1
-bot	1
-bounty	3
 bpttglamdonggovvn	1
-bql	4
-bqldavhttlamdonggovvn	2
-bqlkcnlamdonggovvn	49
-bqlkdlhtllamdonggovvn	2
-brand	2
-brazil	2
-brcđ	3
-brdđ	2
-brende	1
+bq	1
+bql	39
+bqldavhttlamdonggovvn	1
+bqlgt	1
+bqlkcnlamdonggovvn	45
+bqlkdlhtllamdonggovvn	1
+bqppl	2
+brcđ	6
+brdđ	4
+bridge	4
+broadcast	1
 brơtel	1
-bs	2
 bscki	2
-btc	2
-btcb	1
-btctulamdonggovvn	2
-btgtulamdonggovvn	2
-btkchtgt	2
-btv	1
-btổ	1
-bug	3
-bugrank	4
+btc	1
+btctulamdonggovvn	1
+btgtulamdonggovvn	1
+btnmt	2
+bts	4
+btt	44
+bttttcts	2
+btv	2
+btđkt	1
+budget	2
 bung	1
-business	2
-buôn	4
-buôn bán	2
-buôn làng	3
-buôn lậu	16
-buông lỏng	1
+buu	1
+buôn	6
+buôn bán	14
+buôn làng	124
+buôn lậu	60
+buôn ma thuột	1
+buông lỏng	2
 buồm	2
-buổi	92
-buộc	6
+buồn	1
+buổi	93
+buộc	10
+buộc tội	1
+bvcste	3
 bvmt	21
-bvnmnn	1
-bvntd	3
-by	2
-bà	84
-bà con	29
+by	9
+byte	1
+bà	183
+bà con	24
 bà hoàng	1
-bà rịa	2
-bà triệu	2
-bài	43
-bài bản	9
-bài giảng	20
-bài học	15
-bài toán	14
+bà rịa	125
+bà triệu	4
+bài	751
+bài bản	4
+bài giảng	17
+bài học	12
+bài toán	8
 bài trừ	1
 bài tập	1
-bàn	6
-bàn bạc	8
-bàn ghế	1
-bàn giao	16
+bàn	18
+bàn bạc	9
+bàn giao	59
 bàn tay	4
-bàn ăn	2
-bào chế	1
+bàn tròn	1
+bào	1
 bào chữa	2
 bàu	5
 bày	1
 bày biện	1
-bày tỏ	11
-bá	12
-bá tánh	4
-bác	12
-bác sĩ	12
-bách	2
-bách khoa	4
-bám	16
-bán	93
-bán hoa	1
-bán lẻ	4
+bày tỏ	23
+bá	208
+bá tánh	2
+bác	87
+bác sĩ	10
+bách khoa	3
+bám	15
+bán	129
+bán chạy	1
+bán kết	3
+bán lẻ	2
 bán đấu giá	1
-bánh	7
-bánh mì	1
-bánh xe	7
-bánh xe máy cày	1
-báo	41
-báo chí	8
-báo cáo	365
-báo cáo cấp	1
-báo cáo trình	3
-báo cáo viên	6
-báo giá	1
+bánh	12
+bánh canh	2
+bánh tráng	3
+bánh xe	1
+bánh xèo	1
+báo	1486
+báo an toàn	1
+báo chí	306
+báo chí mạng	1
+báo cáo	678
+báo cáo trình	2
+báo cáo viên	8
+báo công an	1
+báo công thương	1
+báo giá	3
 báo gấm	1
 báo thù	1
+báo điện tử	2
+báo động	1
 bát xát	1
-báu	11
+báu	8
 báu vật	1
-bân	2
+bân	1
 bâng khuâng	1
 bây giờ	6
 bãi	1
-bãi biển	1
-bãi bỏ	3
+bãi bỏ	5
 bãi cỏ	1
-bão	3
-bè	2
+bão	21
 bèn	1
-bé	4
-bép	1
-bê tông	3
-bên	110
-bên cạnh	14
-bênh	1
-bình	37
+bé	12
+bê tông	4
+bên	121
+bên cạnh	12
+bì	1
+bình	54
 bình an	2
 bình bầu	1
-bình chọn	2
-bình diện	1
-bình dương	2
-bình luận	1
-bình minh	3
+bình chọn	1
+bình dương	124
+bình luận	2
+bình minh	2
 bình nguyên	1
-bình phước	3
-bình quân	9
-bình sơn	1
+bình phước	127
+bình quân	11
 bình sơn nguyên	1
-bình thuận	4
-bình thường	14
-bình thạnh	1
+bình thuận	127
+bình thường	15
+bình tĩnh	1
 bình xét	1
-bình yên	3
-bình đẳng	19
-bình định	2
-bí	3
+bình yên	2
+bình đẳng	51
+bình định	124
+bìnhnăm	1
+bí	5
 bí hiểm	1
-bí mật	6
+bí mật	17
 bí thơ	1
-bí thư	51
+bí thư	132
 bí thư xã	1
-bí đỏ	2
 bí ẩn	2
-bích	14
-bích thuỷ	2
+bích	19
+bích thuỷ	1
 bích đào	2
-bò	7
-bò thịt	3
+bò	106
+bò sát	2
 bò tót	2
-bóc	1
 bóng	7
-bóng chuyền	1
-bóng đá	1
-bóp	2
+bóng chuyền	2
+bóng đá	2
+bôi	10
+bôi đen	1
 bông	1
 bù giá	1
+bù trừ	1
 bù đăng	2
-bù đắp	2
-bùi	36
-bùi quang	2
-bùi thị mai	1
-bùi thị xuân	6
+bù đắp	4
+bùi	24
+bùi hải	1
+bùi thị xuân	12
 bùn	1
-bùng	4
-bùng nổ	9
-bùng phát	4
+bùng	1
+bùng nổ	4
+bùng phát	11
+búa liềm	3
+bún	1
+bún bò	2
+bún chả	1
+bún thang	1
+bút	1
 băn khoăn	2
-băng	12
+băng	56
+băng nhóm	1
+bđ	6
 bđkh	14
-bđkvb	2
-bơ	9
+bđkvb	1
+bơ	3
 bơi	4
-bưu	2
-bưu chính	5
-bưu điện	6
-bước	94
-bước tiến	1
-bước đi	1
+bưu chính	90
+bưu điện	14
+bước	101
 bước đầu	8
-bưởi	2
-bạc	1
-bạc màu	1
-bạch	4
+bưởi	1
+bạc liêu	123
+bạch	2
 bạch sam	1
-bạch đằng	2
-bạn	99
-bạn bè	2
-bạn đọc	5
-bạo loạn	2
-bạo lực	9
-bạt	1
+bạch đằng	1
+bạn	230
+bạn bè	4
+bạn đọc	6
+bạo lực	12
 bạt ngàn	3
-bản	48
-bản chính	4
-bản chất	2
-bản làng	3
+bả vai	1
+bản	403
+bản chính	3
+bản chất	1
+bản làng	2
+bản lĩnh	3
 bản phác thảo	1
-bản quyền	35
-bản sao	11
-bản sắc	4
-bản thân	7
-bản tin	2
+bản quyền	80
+bản sao	9
+bản sắc	3
+bản thân	9
+bản tin	3
 bản vẽ	1
 bản xã	1
-bản án	3
-bản địa	14
-bản đồ	26
-bảng	12
+bản án	5
+bản địa	16
+bản đồ	2287
+bảng	163
 bảng số liệu	1
-bảo	15
-bảo an	1
+bảnhai	1
+bảntrang	27
+bảo	20
+bảo an	23
 bảo dưỡng	2
-bảo hiểm	141
-bảo hộ	62
-bảo lâm	48
+bảo hiểm	184
+bảo hộ	34
+bảo lâm	254
 bảo lâm học sinh	1
+bảo lãnh	1
 bảo lưu ý kiến	6
-bảo lộc	1231
-bảo mật	14
+bảo lộc	1158
+bảo mật	10
 bảo quản	20
 bảo thuận	1
 bảo thuận phước	1
-bảo thọ	3
+bảo thọ	2
 bảo toàn	1
-bảo trì	4
-bảo trợ	4
-bảo tàng	4
-bảo tồn	22
-bảo vệ	205
+bảo trì	88
+bảo trợ	9
+bảo tàng	6
+bảo tồn	79
+bảo vệ	413
 bảo đại	3
-bảo đảm	145
-bảy	9
-bấm	4
+bảo đảm	169
+bảy	118
+bấm	11
 bấp	1
 bấp bênh	1
-bất	1
-bất an	1
+bất	5
+bất bình	2
 bất bình đẳng	1
-bất cập	15
-bất cứ	3
-bất hợp pháp	1
-bất khuất	1
+bất chấp	1
+bất cập	10
+bất cứ	10
+bất khuất	2
 bất khả xâm phạm	1
-bất kỳ	5
+bất kỳ	4
+bất kỳ hình thức	3
+bất mãn	1
 bất ngờ	4
 bất trắc	1
 bất tín	1
-bất tận	1
+bất tận	2
 bất tử	1
-bất định	1
-bất động sản	12
-bất ổn	3
+bất động sản	10
+bất ổn	2
 bấy giờ	1
 bấy lâu nay	1
-bầm	1
-bầu	12
-bầu cử	36
+bầu	24
+bầu cử	113
 bầu trời	1
 bẫy	1
-bậc	16
+bậc	28
 bận	1
+bận rộn	1
 bật	3
-bắc	47
-bắc giang	29
-bắc ninh	2
+bắc	157
+bắc giang	191
+bắc kạn	123
+bắc ninh	125
 bắcnam	1
+bắcsau	1
 bắn	3
-bắp	3
-bắt	18
-bắt buộc	5
+bắp	1
+bắt	157
+bắt buộc	15
 bắt bớ	1
-bắt giữ	5
-bắt gặp	2
+bắt chước	1
+bắt giữ	130
+bắt gặp	3
 bắt làm	1
-bắt tay	1
-bắt đầu	27
-bằng	142
-bằng chứng	5
-bằng cấp	8
-bằng hành động	3
-bằng khen	5
-bằng lòng	1
-bằng phẳng	2
-bế	2
-bế mạc	6
-bế tắc	1
-bến	19
-bến xe	2
+bắt tay	2
+bắt đầu	44
+bằng	209
+bằng chứng	1
+bằng cấp	6
+bằng hành động	1
+bằng khen	2
+bằng phẳng	1
+bế	1
+bế mạc	10
+bến	146
+bến xe	201
 bếp núc	1
 bề dày	1
-bề mặt	2
-bề thế	1
-bền	2
-bền bỉ	1
+bề rộng	1
+bền	1
 bền nhiệt cơ	1
-bền vững	72
-bện	1
-bệnh	26
+bền vững	66
+bệ phóng	2
+bện	2
+bệnh	18
 bệnh dịch	1
-bệnh nhân	11
-bệnh truyền nhiễm	1
-bệnh tật	7
-bệnh viện	22
-bị	131
-bị can	2
-bị cáo	11
+bệnh nhân	23
+bệnh tật	18
+bệnh viện	8
+bị	276
+bị can	132
+bị cáo	4
 bị thương	2
-bị động	1
-bịa đặt	2
+bị động	4
+bịa đặt	1
 bọn	2
 bọt	3
-bỏ	25
-bỏ phiếu	2
+bỏ	155
+bỏ phiếu	6
 bỏ qua	3
-bỏ quên	1
+bỏ rơi	1
 bỏ sót	1
-bố cục	5
-bố mẹ	2
-bố trí	32
-bối cảnh	59
-bối cảnh tình hình	1
-bốn	11
+bố cục	2
+bố mẹ	6
+bố trí	26
+bốc	1
+bối cảnh	63
+bốn	12
 bốn mùa	1
-bồ	4
-bồi dưỡng	103
-bồi thường	44
+bồ	2
+bồi dưỡng	144
+bồi thường	42
 bồng	1
 bồng bềnh	1
 bồng lai	1
-bổ nhiệm	95
-bổ nhiệm chức vụ	1
-bổ sung	208
-bổ trợ	9
-bổ túc	1
+bổ nhiệm	71
+bổ sung	423
+bổ trợ	165
+bổ ích	2
 bổn phận	1
-bỗng	1
-bộ	447
-bộ luật	10
+bỗng	2
+bộ	3098
+bộ chuyển đổi	1
+bộ luật	20
 bộ luật dân sự	1
 bộ lạc	1
-bộ máy	11
-bộ phận	21
-bộ trưởng	91
+bộ máy	274
+bộ môn	3
+bộ mặt	12
+bộ phận	24
+bộ trưởng	96
 bộ tộc	4
 bộ tộc người	1
-bộ đội	3
-bộc lộ	3
+bộ đội	2
+bộc	2
+bộc lộ	1
+bội chi	1
 bội nghĩa	1
 bội thề	1
-bộnhà	1
-bột	1
-bớt	1
-bờ	8
-bởi	38
-bởi lẽ	1
-bởi vì	1
-bởi vậy	5
+bột	2
+bớt	3
+bờ	7
+bởi	56
+bởi vậy	2
 bỡi	1
-bụi	1
+bụi	3
 bụi trần	1
-bức	20
-bức xúc	6
-bức xạ	1
-bứt phá	5
+bức	31
+bức bách	1
+bức xúc	14
+bức xạ	12
+bứt	1
+bứt phá	4
 bừng	1
-bửu	2
-bữa	3
+bửu	1
+bữa	4
 bực bội	1
-b’lao	7
-c	106
-ca	12
+b’kọ	1
+b’lao	5
+c	339
+ca	46
 ca hát	1
 ca khúc	1
 ca múa	1
 ca múa nhạc	1
+ca ngợi	2
+cac	2
 café	2
-cai	9
-cai nghiện	3
+cai	132
+cai nghiện	84
 cai quản	1
-calamdonggovvn	2
-call	1
-cam	17
-cam go	2
-cam kết	52
-cambride	2
+cake	1
+calamdonggovvn	1
+calling	1
+cam	14
+cam go	1
+cam kết	62
+cam ranh	2
 camdioxin	1
-camellia	1
-camera	6
+camera	4
 camly	2
-campuchia	1
+campina	2
+campuchia	6
 can	4
 can phạm	2
-can thiệp	7
+can thiệp	6
 can đảm	1
 canh	4
+canh gác	1
 canh nông	3
-canh tác	15
+canh tác	4
 cano	1
 canô	1
-cao	349
-cao bằng	2
+cao	600
+cao bằng	123
+cao chương trình	1
+cao cả	3
 cao cấp	9
 cao lanh	3
 cao lớn	1
-cao nguyên	14
-cao nhân tài	2
+cao nguyên	64
 cao su	3
+cao sản	2
 cao thành tựu	1
-cao thủ tục	2
-cao tuổi	1
-cao tăng	1
-cao tốc	2
+cao tốc	3
 cao vút	1
-cao điểm	12
-cao đẳng	46
+cao áp	1
+cao điểm	5
+cao đẳng	88
 cao đẹp	1
-capacities	2
+cao độ	1
 carbon	2
+card	1
+carolyn	4
+carplay	1
+carrier	1
+carrying	1
 carton	3
-catholic	2
-catp	1
-cb	5
-cbcc	1
-cbccvc	7
-cc	55
-cchc	3
-cchnls	4
-cckllamdonggovvn	2
-cct	44
-ccông	2
+castex	8
+cay	3
+cb	11
+cbcc	5
+cbccvc	98
+cbcnv	102
+cbcnvc	1
+cc	57
+cchc	90
+cchnls	2
+cckllamdonggovvn	1
+cct	22
+ccvc	48
+ccvp	1
+ccvtlt	1
+ccông	1
+cd	1
+cdc	1
+cdnn	5
 center	1
-cesti	1
-ch	1
-cha	2
-cha mẹ	3
+central	1
+centre	1
+certificatepassport	1
+ch	4
+cha	5
+cha anh	1
+cha mẹ	4
+cha đẻ	1
 chai	1
-chat	1
-che phủ	4
-check	4
+chais	6
+changing	1
+chanh	1
+chaos	9
+charles	1
+chdc	5
+che giấu	2
+che phủ	1
+check	8
 chen	1
 chen chúc	1
 cheo leo	1
-chi	25
-chi bộ	23
-chi bộ trưởng	1
-chi chí	2
-chi cục	2
-chi hội	2
-chi lăng	3
-chi nhánh	123
+chi	40
+chi bằng	1
+chi bộ	35
+chi chí	1
+chi cục	176
+chi cục trưởng	2
+chi hội	10
+chi hội trường học	1
+chi lăng	2
+chi nhánh	118
 chi phí	25
 chi phí sản xuất	2
-chi tiêu	3
-chi tiết	96
+chi tiêu	2
+chi tiết	143
 chi trả	8
-chi viện	2
-chi ủy	1
-chia	21
+chi uỷ	1
+chi đoàn	6
+chia	26
+chia cắt	2
 chia lìa	1
-chia lửa	2
-chia sẻ	49
+chia sẻ	131
 chia tay	2
-chicago	2
+chiasẻ	1
 chil	2
+children	1
+chile	1
 chill	3
-chim	10
+chim	12
 chim bay	1
-chindlamdonggovvn	2
-chinh	12
+china	12
+chindlamdonggovvn	1
+chinh	11
 chinh phục	7
-chinhphuvn	6
+chinh_signedpdf	1
+chinhdoc	1
+chinhphuvn	86
+chip	2
 chiêm ngưỡng	4
+chiên	1
 chiêng	1
-chiêu	2
-chiếc	10
-chiếm	88
-chiếm đoạt	13
-chiến	14
-chiến dịch	1
-chiến lược	60
-chiến sĩ	4
-chiến thắng	9
-chiến tranh	4
-chiến trường	3
-chiến đấu	2
-chiếu	5
+chiêu	1
+chiêu đãi	2
+chiếc	12
+chiếm	84
+chiếm đoạt	11
+chiến	7
+chiến dịch	3
+chiến lược	224
+chiến sĩ	13
+chiến thuật	1
+chiến thắng	10
+chiến tranh	6
+chiến trường	2
+chiến đấu	14
+chiếu	4
+chiếu lệ	2
 chiếu rọi	1
-chiếu sáng	1
-chiều	108
-chiều cao	1
-chiều hướng	2
-chiều tối	1
-chiểu	6
+chiếu sáng	2
+chiều	116
+chiều hướng	1
+chiều tối	2
+chiểu	4
 chi’ll	5
-cho	1061
-cho cùng	1
-cho nên	2
-cho phép	28
+cho	1864
+cho dù	1
+cho nên	1
+cho phép	22
+chong	2
 choáng ngợp	2
 choẹt	1
-chqs	2
-chu	5
+chu	4
 chu kỳ	3
-chu trinh	5
-chu trình	10
-chu văn an	4
-chu đáo	11
+chu trinh	3
+chu trình	2
+chu văn an	2
+chu đáo	10
 chum	1
-chung	109
-chung cư	4
+chung	569
+chung cư	6
+chung kết	63
 chung quanh	1
-chung sống	1
 chung thủy	1
-churu	10
-chuyên	5
-chuyên biệt	1
-chuyên canh	1
-chuyên dùng	8
-chuyên dụng	1
-chuyên gia	43
-chuyên gia bảo mật	1
+churu	5
+chuyên	9
+chuyên dùng	22
+chuyên dụng	4
+chuyên gia	36
+chuyên gia tâm huyết	1
 chuyên khoa	1
-chuyên môn	93
-chuyên mục	1
-chuyên nghiệp	15
-chuyên ngành	14
-chuyên quyền	3
-chuyên sâu	8
-chuyên trách	30
+chuyên môn	232
+chuyên mục	15
+chuyên nghiệp	9
+chuyên ngành	193
+chuyên quyền	1
+chuyên sâu	7
+chuyên trách	17
 chuyên viên	105
-chuyên đề	27
-chuyến	8
-chuyển	68
-chuyển biến	7
-chuyển dịch	7
-chuyển giao	17
-chuyển hóa	2
-chuyển hướng	1
-chuyển khoản	1
+chuyên án	1
+chuyên đề	70
+chuyến	37
+chuyển	131
+chuyển biến	12
+chuyển dịch	4
+chuyển giao	57
+chuyển hóa	12
 chuyển mình	1
-chuyển nhượng	8
-chuyển tiếp	5
-chuyển đổi	246
-chuyện	6
-chuông	1
-chuẩn	28
-chuẩn bị	54
-chuẩn hóa	2
-chuẩn mực	2
-chuẩn xác	1
-chuối	2
-chuồng trại	10
-chuỗi	14
-chxhcn	2
+chuyển nhượng	25
+chuyển tiếp	2
+chuyển tải	1
+chuyển đổi	476
+chuyển động	21
+chuyện	13
+chuông	2
+chuẩn	178
+chuẩn bị	63
+chuẩn hóa	1
+chuẩn mực	3
+chuẩn y	2
+chuối	3
+chuồng trại	1
+chuỗi	24
+chuộc	5
+chxhcnvn	2
 chà nưa	1
 chàm	3
 chàng	8
-chào hàng	1
-chào mừng	7
-chào đón	1
-chánh	59
+chành	1
+chào	1
+chào hàng	25
+chào mừng	40
+chánh	54
+chánh văn phòng	1
 chánh án	1
-chát	1
-cháy	13
-chân	19
-chân tay	1
-chân thành	1
+cháo lòng	3
+chát	2
+cháu	14
+cháy	116
+chân	23
+chân chính	1
+chân dung	1
 chân thác	1
-châu	8
-châu phi	1
-châu á	4
-châu âu	7
-chè	5
+chân thực	2
+châu	136
+châu con	1
+châu giang	2
+châu phi	4
+châu á	5
+châu âu	53
+chè	9
+chèn	1
 chèo	4
 ché	2
-chém	2
-chênh lệch	6
+chém	11
+chép	2
 chênh vênh	1
-chìa khóa	2
+chìa khóa	7
 chìm	1
-chí	2
-chí minh	60
-chí minh chủ trì	1
-chí minh phủ nhận	1
-chín	2
+chí	1
+chí minh	228
+chí thành	2
 chín suối	1
-chính	213
-chính phủ	285
-chính phủ việt	5
-chính quy	5
-chính quyền	76
-chính sách	184
-chính sách xã hội	2
-chính thống	1
-chính thức	33
-chính trị	103
-chính tâm	4
+chính	442
+chính phủ	565
+chính phủ việt	6
+chính quy	3
+chính quyền	176
+chính sách	592
+chính sách xã hội	124
+chính thống	2
+chính thức	100
+chính trị	431
+chính trị quốc phòng	1
+chính trị sở	1
+chính tâm	2
 chính tâm hồn	1
-chính xác	43
-chính đáng	2
+chính xác	58
+chính đáng	10
+chính đề nghị	1
 chòi	1
 chòm	1
-chùa	1
+chùa	2
 chùa chiền	1
+chùm	58
 chùn bước	1
-chùng	1
-chú trọng	26
-chú ý	11
+chú	1
+chú trọng	61
+chú ý	5
 chúa sơn lâm	1
 chúa tể	1
-chúc	5
-chúc mừng	2
-chúng	10
-chúng em	1
+chúc	8
+chúc mừng	6
+chúc thọ	1
+chúng	9
+chúng em	2
 chúng ta	45
-chúng tôi	21
+chúng tôi	26
 chút	3
+chăc	1
 chăm	3
-chăm lo	8
-chăm sóc	39
-chăn nuôi	32
-chăn thả	7
-chơi	7
-chưa	253
-chưa thể	1
+chăm chỉ	1
+chăm lo	17
+chăm sóc	20
+chăn nuôi	129
+chơi	19
+chưa	260
+chưa thể	3
 chương	17
-chương trình	296
-chươngmục	1
-chạm	2
-chạy	21
+chương trình	786
+chạm	3
+chạm mặt	1
+chạy	139
 chạy nhảy	1
-chạy đua	1
+chạy đua	5
 chảy	12
-chấm	8
-chấm dứt	20
-chấn chỉnh	11
+chấm	13
+chấm dứt	47
+chấn chỉnh	13
+chấn thương	1
+chấn động	121
+chấp	1
 chấp chới	1
-chấp hành	46
+chấp hành	57
 chấp hành sự	6
 chấp kinh tế	1
-chấp nhận	8
-chấp thuận	5
-chất	17
-chất lượng	147
-chất thải	19
-chất vấn	2
+chấp nhận	6
+chấp thuận	10
+chất	21
+chất hữu cơ	5
+chất lượng	531
+chất thải	15
+chất vấn	4
 chất đốt	1
 chất độc	3
 chầm chậm	1
-chẩn đoán	3
-chậm	27
-chậm trễ	2
+chẩn đoán	4
+chậm	29
 chập chùng	2
-chắc	3
+chắc	4
 chắc chắn	2
-chắn	1
+chắn	15
 chắn ngang	1
-chằn	2
 chằng chịt	3
 chẳng	5
-chẳng hạn	6
-chặn	3
-chặng	5
-chặt	2
-chặt chẽ	32
-chế	15
-chế biến	39
-chế tài	2
-chế tạo	4
-chế độ	69
-chết	12
-chỉ	120
-chỉ dẫn	5
+chẳng hạn	2
+chặn	6
+chặn đứng	14
+chặng	26
+chặt	7
+chặt chẽ	30
+chế	5
+chế biến	43
+chế biến chế tạo	1
+chế phẩm	1
+chế tài	5
+chế tạo	6
+chế độ	124
+chết	14
+chết đói	1
+chỉ	134
+chỉ dẫn	2
 chỉ huy	10
-chỉ huy trưởng	1
-chỉ số	21
-chỉ thị	28
-chỉ tiêu	58
-chỉ điểm	1
-chỉ đạo	239
+chỉ huy trưởng	2
+chỉ số	36
+chỉ thị	94
+chỉ tiêu	80
+chỉ đạo	1090
 chỉ đạo cụ thể	1
 chỉ đạo giáo viên	2
+chỉ đạo nhân	2
 chỉ định	3
-chỉnh	1
-chỉnh lý	4
-chỉnh thể	1
+chỉnh	12
+chỉnh lý	3
 chỉnh trang	3
-chỉnh đốn	6
-chị	20
-chịu	318
+chỉnh đốn	7
+chị	17
+chị em	12
+chị gái	1
+chịu	408
+chịu chơi	1
 chịu lửa	1
-chịu thua	1
-chọn	22
-chọn lọc	1
-chọn lựa	2
+chọn	66
+chọn lọc	2
 chọn ngày	1
 chốn	4
-chống	43
+chống	68
 chống hạn	1
-chống lao	2
-chống đỡ	1
+chống phá	7
 chốt	7
-chồng	6
-chồng chéo	8
+chồng	8
+chồng chéo	4
 chồng chất	1
 chồng con	1
-chỗ	17
-chờ	9
+chỗ	16
+chờ	12
 chờ đợi	2
-chở	7
-chở che	1
-chợ	14
+chở	5
+chợ	3
 chục	4
-chụp	9
-chủ	44
-chủ chốt	8
-chủ lực	5
-chủ nghĩa	3
-chủ nghĩa mác	4
-chủ nhiệm	18
-chủ nhật	1
+chụp	14
+chủ	37
+chủ chốt	15
+chủ lực	4
+chủ nghĩa	1
+chủ nghĩa mác	1
+chủ nghĩa xã hội	3
+chủ nhiệm	26
+chủ nhân	3
+chủ nhật	22
 chủ nợ	2
-chủ quan	5
+chủ quan	9
 chủ quyền	3
-chủ quản	2
-chủ sở hữu	4
-chủ sở hữu quyền	4
+chủ quản	5
+chủ sở hữu	1
+chủ sở hữu quyền	1
 chủ sở hữu tài sản	1
-chủ thể	11
-chủ trì	103
-chủ trương	52
+chủ thể	4
+chủ trì	237
+chủ trương	97
+chủ trương định hướng	1
 chủ tài khoản	8
-chủ tịch	157
-chủ yếu	59
-chủ đạo	6
-chủ đề	29
-chủ động	68
-chủ động phòng chống	1
-chủng	4
-chủng loại	1
-chứ	5
+chủ tịch	367
+chủ yếu	32
+chủ đạo	2
+chủ đề	21
+chủ động	94
+chủ động phòng chống	3
+chủng	21
+chủng loại	2
+chứ	8
 chứa	13
-chứa đựng	2
-chức	10
-chức danh	12
-chức năng	95
-chức sắc	2
+chứa đựng	1
+chức	15
+chức danh	31
+chức năng	516
+chức sắc	3
 chức trách	3
 chức trách nhiệm vụ	1
-chức vụ	21
+chức việc	1
+chức vụ	16
+chứccá	1
 chứng	2
-chứng bệnh	1
-chứng chỉ	29
+chứng chỉ	27
 chứng cứ	5
-chứng kiến	1
+chứng khoán	1
+chứng khoán sản xuất	1
+chứng kiến	6
 chứng minh	5
-chứng nhận	101
+chứng nhận	347
 chứng thực	16
-chứng tỏ	1
-chứng từ	10
-chứngbồi	2
+chứng từ	9
+chứngbồi	1
 chứngvăn	1
-chừng	8
-chữ	5
-chữ ký	4
-chữ thập đỏ	2
-chữa	10
+chừng	7
+chữ	416
+chữ ký	31
+chữ số	1
+chữ thập đỏ	17
+chữa	48
 chữa trị	2
-cill	1
 cisco	1
-citation	1
-city	18
-click	1
-clip	6
+cites	14
+city	53
+civil	1
+ck	4
+cl	223
+classification_of_digital_learning_resources	1
+classroom	1
+clicknet	1
+clickvn	1
+clip	11
 cloud	1
-cm	1
-cmcn	6
+club	4
+cmcn	2
 cmnd	1
-cmt	1
-cn	132
-cnkt	12
-cntp	4
-cntt	35
-co	2
-code	2
-coffee	2
-coi	16
-coi trọng	2
-communications	3
-comvill	12
-con	61
+cn	439
+cnc	486
+cnkt	7
+cntp	2
+cntt	184
+co	1
+code	6
+coi	12
+coi trọng	3
+collection	1
+college	1
+colleges	1
+colombia	5
+commune	1
+communication	1
+communications	2
+company	1
+competence	1
+competitiveness	1
+comvill	1
+con	71
 con cháu	2
 con cái	1
 con dấu	4
-con giống	1
-con gái	4
-con người	17
-con nuôi	12
-con số	4
+con em	1
+con gái	6
+con người	19
+con nhỏ	1
+con nuôi	11
+con số	6
 con trai	2
 con trẻ	1
 con voi	1
-conference	2
-cong	3
-congancomvn	1
-congbaolamdonggovvn	2
-congchunglamdonglamdonggovvn	1
-consulting	2
-container	1
-coop	1
-corona	2
-coronavirus	1
-covid	274
-covivac	1
-cp	25
+confident	1
+cong	6
+congbaolamdonggovvn	1
+congchunglamdonglamdonggovv	1
+congo	5
+congress	1
+construction	1
+contact	1
+content	1
+contents	175
+continues	1
+contributions	1
+cop	13
+cormann	1
+coronavac	1
+costs	1
+council	2
+covax	4
+covid	744
+cp	72
 cpcn	1
+cpi	1
 cptm	1
-cptpp	13
-cpvt	2
-cpđt	2
-credit	1
-cruz	2
+cptpp	14
+cptđ	25
+cpvt	1
+cpđt	1
+cqvp	60
+crew	2
+criteria	1
 crăm	1
-csdl	5
+cs	5
+csdl	3
 csgt	17
-csgttt	1
-csđt	1
-ct	7
-ctklamdonggovvn	2
+csiro	2
+ct	4
+ctcp	1
+ctgdpt	11
+ctklamdonggovvn	1
+cttn	1
 cttncn	2
-ctttg	9
-cttw	2
-cty	13
-cucthuelamdonggovvn	2
-cung	11
-cung cấp	129
-cung cấp số	3
+ctttg	4
+cttu	1
+cttw	10
+cty	7
+cua	2
+cucthuelamdonggovvn	1
+cung	13
+cung cấp	282
+cung cấp số	14
 cung cầu	12
-cung ứng	10
-cung ứng tác động	1
-cuongndlamdonggovvn	2
-cuốc	1
-cuối	48
+cung ứng	16
+cuonghklamdonggovvn	1
+cuongndlamdonggovvn	1
+currency	1
+customs	1
+cuôc	1
+cuối	117
 cuối cùng	6
-cuốn hút	3
+cuốn	1
+cuốn chiếu	1
+cuốn hút	4
 cuồn cuộn	2
-cuộc	127
-cuộc chiến	1
-cuộc chơi	2
-cuộc sống	22
-cuộc đời	2
+cuộc	375
+cuộc chơi	1
+cuộc sống	43
+cuộc đời	3
 cuội	1
-cv	14
+cv	22
 cvbcđ	1
-cà phê	20
-cài đặt	11
+cvc	17
+cvp	1
+cvttr	1
+cvtu	1
+cxs	3
+cyberpurify	1
+cà mau	123
+cà phê	26
+cài	1
+cài đặt	14
 càn	1
 càng	33
 càng ngày càng	2
 cành	2
-cá	13
+cá	17
 cá biệt	1
 cá lóc	1
-cá nhân	180
+cá nhân	694
 cá nhân khẩu trang	1
+cá nhân nghĩa vụ	1
 cá sấu	1
 cá thể	2
-cá tầm	2
-các	3500
-cách	115
+cá thể hoá	1
+cá tầm	1
+các	6736
+cách	120
 cách chức	8
-cách ly	18
-cách mạng	30
+cách ly	34
+cách mạng	36
 cách nhiệt	1
-cách thức	23
-cách điệu	4
-cái	26
-cán	2
-cán bộ	222
-cán sự	6
-cánh	13
-cánh tay	2
-cáo	1
+cách thức	11
+cái	32
+cám	1
+cán	1
+cán bộ	384
+cán sự	9
+cánh	9
+cáo buộc	1
 cáo trạng	3
-cáp	1
+cáp	6
 cáp treo	1
-cát	12
-cát tiên	61
+cát	9
+cát linh	3
+cát tiên	202
 cân	3
-cân bằng	9
-cân nhắc	4
-cân đối	3
-câu	23
-câu chuyện	4
-câu lạc bộ	6
-câu thơ	2
-cây	67
-cây công nghiệp	6
-cây cảnh	1
-cây cảnh quan	1
+cân bằng	36
+cân đối	19
+câp	1
+câu	31
+câu chuyện	20
+câu hỏi	7
+câu lạc bộ	12
+câu lạc bộ chiến sĩ	1
+câu thơ	3
+cây	120
+cây công nghiệp	5
 cây cỏ	1
-cây trồng	32
-cây xanh	10
-cây xăng	1
-cây ăn quả	1
-cây ăn trái	4
+cây gỗ	8
+cây trồng	39
+cây viết	1
+cây xanh	12
+cây xăng	5
 cò	2
-còn	277
-có	1659
+còn	491
+có	2213
 có khi	3
-có lẽ	5
-có mặt	9
-có mặt nước	6
-có thể	162
+có lẽ	4
+có mặt	107
+có mặt nước	8
+có thể	183
 có thể thức	2
 có vẻ	2
-cô	13
-cô giang	2
-cô giáo	3
+cô	23
+cô giang	1
+cô giáo	4
 cô quạnh	1
 côn trùng	1
-công	95
-công an	148
-công báo	2
+công	412
+công an	404
+công báo	176
 công bằng	13
-công bố	65
-công chúa	2
-công chúng	3
-công chức	78
-công chứng	239
+công bố	2150
+công chúa	1
+công chúng	5
+công chức	197
+công chứng	471
 công chứng giám định	3
-công chứng viên	70
-công cuộc	11
-công cộng	19
-công cụ	26
-công dân	41
+công chứng viên	65
+công cuộc	15
+công cộng	33
+công cụ	32
+công du	1
+công dân	483
 công dân số	1
-công khai	30
+công dụng	2
+công khai	737
 công khai thông tin	2
 công lao	1
-công lý	1
-công lập	15
+công lý	124
+công lập	19
 công lập trình	1
-công minh	2
-công nghiệp	140
-công nghiệp hoá	1
-công nghệ	322
-công nghệ cao	51
+công minh	1
+công nghiệp	175
+công nghệ	1180
+công nghệ cao	27
 công nghệ cao công an	1
-công nghệ cao công nghệ	1
 công nghệ cao tân phú	3
 công nghệ sinh học	3
-công nghệ thông tin	45
-công nhân	24
-công nhận	9
-công nông	12
-công phu	5
-công quyền	14
+công nghệ thông tin	86
+công nhân	86
+công nhân viên chức	2
+công nhận	18
+công nhận cảm tình	1
+công nông	2
+công phu	2
+công pháp	2
+công quyền	7
+công quốc gia	2
 công quỹ	1
-công suất	17
-công sơn	2
-công thương	27
+công suất	15
+công sơn	1
+công sản	4
+công sở	3
+công sức	1
+công thương	162
 công thức	1
-công trình	89
-công ty	252
-công tác	624
-công tác nghiệp vụ	1
-công tâm	1
-công tư	13
-công viên	2
+công trình	225
+công ty	784
+công tác	1759
+công tác hợp tác	1
+công tác nhân	7
+công tâm	2
+công tư	1
+công viên	5
 công viên chức	1
-công việc	119
-công văn	16
-công vụ	26
-công ích	1
+công việc	139
+công văn	65
+công vụ	21
+công ích	3
 công ăn việc làm	1
 công điện	2
-công đoàn	2
-công đoàn viên chức	2
-công đoạn	3
+công đoàn	49
+công đoàn khối	1
+công đoàn viên chức	1
+công đoạn	2
+công đồng bộ	1
+công ước	7
 côngnghiệp	1
-côngtư	2
 cõi	1
 cõi tiên	1
-cù	14
+cù	16
 cùi chỏ	1
-cùng	192
-cùng cục	1
-cùng với	2
-cú	4
-cúc	4
+cùng	274
+cùng với	11
+cú	1
+cúc	2
 cúng	4
+cúp	43
 căm giận	1
-căn	17
-căn bản	4
+căn	16
+căn bản	10
 căn cơ	1
 căn cơ mà	1
-căn cước	1
-căn cứ	37
-căng	1
-căng thẳng	3
-cđ	10
-cđs	15
+căn cước	2
+căn cứ	41
+căn dặn	3
+căn hộ	1
+căng	2
+căng thẳng	2
+cđ	346
+cđs	40
 cđsp	1
-cđttg	2
-cđvpcp	1
+cđttg	1
 cũ	16
-cũ kỹ	2
 cũa	1
-cũng	319
-cơ	3
-cơ bản	93
-cơ bản xã	1
-cơ chế	45
-cơ cấu	93
-cơ giới	10
-cơ ho	1
-cơ hội	36
-cơ khí	26
+cũng	333
+cơ	4
+cơ bản	67
+cơ chế	127
+cơ cấu	344
+cơ giới	27
+cơ học	2
+cơ hội	66
+cơ khí	22
 cơ khí hoá	1
-cơ quan	718
-cơ quan chuyên môn	18
-cơ quan chức năng	20
-cơ quan hành chính	1
+cơ quan	1208
+cơ quan chuyên môn	30
+cơ quan chức năng	26
+cơ quan hành chính	13
 cơ quan phòng	1
 cơ quan quyền lực	1
-cơ quan thuế	3
-cơ quan trường học	1
-cơ quan tài chính	4
-cơ sở	220
-cơ sở hạ tầng	10
-cơ sở vật chất	8
-cơ thể	2
-cơ động	31
+cơ quan thuế	4
+cơ quan tài chính	3
+cơ quan văn phòng	30
+cơ sở	933
+cơ sở hạ tầng	18
+cơ sở trường hợp	1
+cơ sở vật chất	7
+cơ đồ	1
+cơ động	10
+cơm	10
 cơm lam	1
-cơm tấm	1
+cơm tấm	2
+cơn	2
 cư dân	2
 cư ngụ	2
 cư sĩ	1
-cư trú	13
+cư trú	59
 cưng	1
-cương	1
-cương lĩnh	3
-cương quyết	1
-cương vị	1
-cước	11
-cưới	2
-cướp	3
-cướp giật	1
-cường	8
+cương quyết	7
+cương vị	3
+cước	19
+cưới	1
+cướp	1
+cười	1
+cường	7
 cường quyền	1
-cường độ	1
+cường độ	2
 cưỡi	3
 cưỡng chế	1
-cạn kiệt	1
-cạnh	54
-cạnh tranh	26
-cả	128
-cải cách	41
-cải thiện	31
-cải tiến	4
-cải tạo	10
+cạn kiệt	6
+cạnh	63
+cạnh tranh	72
+cả	149
+cải cách	113
+cải thiện	17
+cải tiến	128
+cải tạo	100
+cảm biến	1
 cảm giác	13
-cảm hứng	4
-cảm nhận	3
-cảm thông	1
-cảm thấy	1
-cảm tình	1
-cảm xúc	6
-cảm ơn	8
-cảm ứng	1
-cản trở	3
-cảng	6
-cảng hàng không	2
-cảnh	10
-cảnh báo	8
+cảm hứng	17
+cảm nhận	5
+cảm thông	4
+cảm tình	2
+cảm xúc	4
+cảm ơn	16
+cản trở	8
+cảng	5
+cảng hàng không	1
+cảnh	26
+cảnh báo	50
+cảnh bị	1
 cảnh cáo	1
-cảnh giác	11
-cảnh quan	13
-cảnh sát	51
+cảnh giác	22
+cảnh quan	10
+cảnh sát	47
 cảnh sắc	2
 cảnh vật	2
-cấm	17
-cấn	1
-cấp	437
-cấp bách	7
-cấp bộ	1
-cấp cứu	6
+cảnh vệ	1
+cấm	29
+cấm vận	1
+cấn	2
+cấp	1492
+cấp bách	3
 cấp nước	11
-cấp phát	3
+cấp phát	5
 cấp phí	3
-cấp thiết	8
-cấp uỷ	1
-cấp độ	11
-cấp ủy	20
+cấp phối hợp	2
+cấp thiết	2
+cấp trên	3
+cấp uỷ	2
+cấp độ	34
+cấp ủy	76
 cấp ủy thủ trưởng	1
-cấp ủy viên	1
 cất	1
 cất cánh	2
-cất giấu	1
+cất giấu	2
 cất giữ	2
 cất tiếng	1
-cấu thành	7
-cấu trúc	17
-cấy	1
-cầm	2
+cấu	1
+cấu hình	3
+cấu trúc	4
+cầm	3
+cầm quyền	1
 cầm tay	4
-cầm đầu	1
-cần	206
+cầm đầu	2
+cần	632
 cần câu	1
+cần cù	1
 cần cấp	1
 cần sa	1
-cần thiết	52
-cần thơ	4
-cầu	31
+cần thiết	42
+cần thơ	125
+cầu	75
+cầu diễn	1
 cầu giấy	1
-cầu nối	5
+cầu lông	1
+cầu nối	9
+cầu thị	2
 cầu treo	4
-cầu truyền hình	1
+cầu truyền hình	2
 cầu vượt	1
 cầu vồng	1
 cầu đất	1
-cẩm	2
+cẩm	1
 cẩm lệ	4
-cẩm nang	1
-cẩm tú	3
+cẩm nang	7
 cẩm vân	1
+cẩn	1
 cẩn thận	3
-cận	28
-cập	3
+cẩn trọng	1
+cận	17
+cập	13
 cập kê	1
-cập nhật	35
+cập nhật	185
 cậu	2
-cắm	4
+cắm	1
 cắm mốc	2
 cắm mốc giới	1
 cắm trại	6
-cắt	4
+cắt	2
 cắt giảm	3
-cặn kẽ	1
+cặp	7
+cọ xát	2
 cọc	1
 cọp	8
-cỏ	14
-cố	3
-cố gắng	10
-cố tình	1
-cố định	6
-cống	1
-cống hiến	2
-cốt	2
-cốt lõi	7
+cỏ	15
+cố	4
+cố gắng	7
+cố tình	4
+cố định	12
+cống	2
+cốp pha	1
+cốt	1
+cốt lõi	6
 cồ	1
+cồn	1
 cồng chiêng	8
 cổ	8
 cổ kính	1
-cổ phần	19
-cổ phần hóa	1
+cổ phần	112
+cổ phần hóa	2
 cổ thụ	3
-cổ truyền	2
+cổ truyền	1
 cổ tích	1
+cổ vũ	1
 cổ xưa	1
-cổ động	2
-cổng	45
-cộng	9
-cộng hòa xã hội chủ nghĩa việt	10
+cổ động	1
+cổng	664
+cộng	58
+cộng hoà	63
+cộng hòa xã hội chủ nghĩa việt	8
 cộng sản	1
-cộng sự	6
-cộng tác	28
-cộng tác viên	10
-cộng đồng	55
-cộp	6
+cộng sản pháp	2
+cộng sự	4
+cộng tác	14
+cộng tác viên	11
+cộng đồng	202
 cột	5
+cớ	1
+cờ	3
 cởi	1
-cởi mở	1
+cỡ	414
 cụ	4
-cụ thể	123
+cụ thể	118
 cụ thể hoá	1
-cụ thể hóa	10
+cụ thể hóa	12
 cụ thể hóa nghị quyết	3
-cục	81
-cục bộ	3
-cục trưởng	1
+cụ thể hóa thành	1
+cục	104
+cục bộ	4
+cục trưởng	6
 cụcviễn	2
-cụm	16
+cụm	13
 củ	2
-của	3132
+của	5313
 củi lửa	2
 củng	1
-củng cố	16
-cứ	6
-cứng	4
-cứng nhắc	1
-cứu	6
-cứu chữa	1
-cứu trợ lực lượng	1
-cứuvạn	1
+củng cố	23
+cứ	5
+cứng	3
+cứng rắn	1
+cứu	20
+cứu hộ	9
+cứu hộ bộ	1
+cứu trợ	1
 cừu	1
-cử	10
+cử	8
 cử nhân	4
-cử tri	23
-cửa	11
-cửa biển	1
+cử tri	89
+cửa	146
+cửa hàng	2
 cửa khẩu	1
-cửa ngõ	2
-cửu long	1
+cửa ngõ	1
+cửa sổ	1
+cửu long	2
 cửđồng	1
 cực kỳ	1
-cựu chiến binh	3
-d	70
-da	8
+cực đoan	1
+cựu	1
+cựu chiến binh	35
+d	94
+da	10
 da cam	2
-da đầu tư	2
-dahuoai	2
+da đầu tư	1
+dac	2
+dahuoai	1
+dakruco	1
+dalat	39
+dalatdocx	1
+dalatmilk	2
 dambri	2
 damour	1
-danang	1
 dang	1
 dang dở	1
 dangcongsanvn	1
-danh	3
-danh bạ	1
-danh hiệu	11
-danh lam	20
-danh mục	42
-danh sách	96
+danh	27
+danh bạ	500
+danh dự	1
+danh hiệu	10
+danh lam	19
+danh mục	313
+danh sách	1226
+danh sách đen	1
 danh thác	1
 danh thắng	1
-danh tiếng	3
 danh từ	1
+danh định	1
 dankia	4
 dankiasuối	1
-dao	4
+dao	7
 dao động	3
-data	8
+data	15
 datanla thác	1
-date	1
-datnqlamdonggovvn	2
-daugialamdonglamdonggovvn	1
-daunvlamdonggovvn	2
+date	2
+dated	1
+datnqlamdonggovvn	1
+dau	1
+daugialamdongl	1
+daunvlamdonggovvn	1
 dautudoanhnghiepkcngmailcom	1
-davis	2
-davos	3
-dbndlamdonggovvn	9
-dbqhlamdonggovvn	2
-de	3
+david	3
+daylatrangluadaoclick	1
+dbndlamdonggovvn	14
+dbqhlamdonggovvn	1
+de	5
 deadline	1
+dec	5
+decision	6
 decoux	1
 deep	1
 dell	1
-delta	2
+delta	7
+demands	1
 department	2
-development	2
-di	9
-di chuyển	13
+departments	1
+deputies	1
+desktop	2
+destroyer	1
+developing	1
+development	6
+dh	4
+di	158
+di chuyển	9
+di chúc	1
 di cư	1
-di dời	7
-di linh	90
-di linh tính toán	1
+di dân	2
+di dời	12
+di linh	166
 di lý phạm	1
-di sản	4
-di tích	4
-di động	18
+di sản	2
+di tích	3
+di động	51
 diatomit	4
 diatomite	2
 dic	1
-digital	3
-dignity	6
-dinh	5
-dinh dưỡng	2
+dich	2
+dien	1
+dieu	2
+digital	9
+dinh	4
 director	1
-diên	2
+disabilities	1
+district	2
+diên	3
 diêzen	1
-diễm	2
-diễn	29
-diễn biến	36
-diễn biến dịch	3
+diễm	1
+diễn	42
+diễn biến	69
+diễn biến dịch	1
 diễn tả	1
-diễn tập	20
+diễn tập	37
 diễn viên	1
 diễn văn	2
 diễn văn nghệ	1
-diễn đàn	13
-diễn đạt	1
-diệ	2
-diện	29
-diện mạo	4
-diện tích	100
-diệp	2
-diệt	1
-diệu	21
+diễn đàn	19
+diệm	1
+diện	34
+diện mạo	5
+diện tích	58
+diệp	4
+diệt	22
+diệu	40
 diệu kỳ	1
-dl	10
-dlcorp	8
-dn	8
+dl	31
+dlcorp	4
+dlr	5
+dm	1
+dmitry	1
+dn	53
 dnnn	1
 dnnvv	1
-dntn	10
-do	265
-do vậy	11
-do đó	45
-doanh	3
-doanh nghiệp	532
-doanh thu	24
+dntn	5
+do	494
+do vậy	10
+do đó	26
+doanh	4
+doanh nghiệp	946
+doanh nhân	16
+doanh số	2
+doanh thu	39
 doanh trại	1
-doi	1
+doc	9
+docdocxxlsxlsxpptpptxrtftxtpdfjpgpnggif	1
+docorg	1
+documents	76
+documentspage	1
 doing	1
+dole	1
 domaine	1
+donald	1
+dong	169
+dongtkv	1
+dormhouse	1
 doumer	1
-download	11
-doãn	2
-dp	1
-dptthlamdonggovvn	2
-dran	4
+down	1
+download	82
+doãn	1
+doạt	1
+dp	2
+dptthlamdonggovvn	1
+dran	3
 ds	1
-dtts	52
+dtts	67
 dttsmn	1
+du	2
 du canh	1
 du cư	1
-du khách	67
-du lịch	219
+du khách	65
+du lịch	496
 du ngoạn	2
-du nhập	1
 du thuyền	1
 du xuân	1
-duc	1
-dukccqlamdonggovvn	2
-dukdnlamdonggovvn	2
+dua	2
+dukccqlamdonggovvn	1
+dukdnlamdonggovvn	1
 dung	22
-dung dịch	9
-dung lượng	1
+dung dịch	4
+dung lượng	3
 dung nhan	1
+dunggiaodoc	1
+dunggiaosignedpdf	1
 duongdaynonglamdonggovvn	1
+duonglhtlamdonggovvn	1
 duthác	1
-duy	10
-duy linh	2
-duy nhất	11
-duy trì	24
+duy	17
+duy hoàng	3
+duy linh	1
+duy nhất	4
+duy thắng	1
+duy trì	44
 duy tu	2
-duy tân	3
-duyên	9
+duyên	8
 duyên dáng	1
 duyên hải	10
-duyến	2
-duyệt	5
+duyến	1
+duyệt	6
 duẩn	1
 duẫn	1
-dv	10
-dvkt	1
-dvvt	20
-dài	35
+dv	30
+dvbt	4
+dvkt	4
+dvvt	35
+dysoxylum	8
+dài	40
 dài hơi	1
-dài hạn	7
-dàn dựng	2
-dàn trải	1
-dành	20
+dài hạn	6
+dàn dựng	1
+dành	22
 dày đặc	1
-dám	17
-dán	6
-dáng	2
+dá	6
+dám	15
+dán	5
+dán mắt	1
+dáng	3
 dáng vẻ	1
-dân	280
-dân chủ	12
-dân chủ trí tuệ	2
-dân cư	39
-dân cử	1
-dân dụng	4
-dân gian	3
-dân nguyện	1
-dân phố	6
-dân quân	5
-dân sinh	1
-dân số	15
-dân sự	14
-dân trí	3
-dân tộc	175
-dân tộc thiểu số	95
-dân vận	8
+dân	466
+dân ca	1
+dân chủ	23
+dân chủ trí tuệ	1
+dân cư	31
+dân cử	2
+dân dã	2
+dân dụng	2
+dân gian	4
+dân nguyện	15
+dân phố	4
+dân quân	2
+dân sinh	2
+dân số	16
+dân sự	13
+dân trí	125
+dân tộc	380
+dân tộc thiểu	1
+dân tộc thiểu số	152
+dân vận	177
 dâncăn	1
-dâu	5
-dâu tây	2
-dâu tằm	5
-dây	9
-dây chuyền	1
+dâng	14
+dâu	2
+dâu tây	40
+dâu tằm	2
+dây	15
+dây chuyền	4
 dây leo	2
+dây nóng	1
 dã	1
+dã chiến	2
 dã ngoại	2
-dãy	3
+dãy	2
 dê	1
 dìu dịu	1
 dò la	1
-dòng	43
-dòng chảy	6
+dòng	35
+dòng chảy	5
 dòng thác	2
+dòngtrang	2
 dôi dư	1
-dù	18
-dùng	69
+dù	20
+dùng	149
 dĩ vãng	1
-dũng	16
-dũng cảm	2
+dũng	12
+dũng cảm	4
 dũng mãnh	1
 dũng sĩ	3
 dơ	2
 dơi	1
-dư luận	5
+dơng	2
+dư luận	9
 dư nợ	1
 dư thừa	1
-dư địa chí	2
-dưa hấu	2
-dương	172
+dư địa	3
+dư địa chí	1
+dưa	2
+dưa hấu	1
+dương	817
 dương thác	1
-dương tính	2
-dương đình	6
-dưới	46
+dương tính	18
+dương đình	3
+dưới	82
+dưới luật	1
 dường như	2
-dưỡng	4
-dược	15
-dược học	3
-dược liệu	1
-dược phẩm	2
-dược sĩ	2
-dạ	1
+dưỡng	2
+dược	11
+dược chất	1
+dược liệu	21
+dược phẩm	1
+dược sĩ	1
 dại	2
-dạng	6
-dạng thức	4
+dạng	8
+dạng thức	3
 dạo	4
 dạo gót	1
-dạy	13
-dạy học	35
-dạy học việc	1
-dấu	10
-dấu hiệu	12
+dạy	25
+dạy học	72
+dạy học việc	2
+dạyhọc	1
+dải yếm	1
+dấu	9
+dấu cộng	1
+dấu hiệu	9
 dấu hỏi	1
 dấu vết	1
-dấu ấn	3
+dấu ấn	6
 dấy binh	1
-dần	17
-dần dần	4
-dầu	9
+dần	13
+dần dần	5
+dầu	20
 dầu khí	2
+dầu khí hóa	4
 dầu mỡ	1
-dẩn	1
-dẫn	32
-dẫn chứng	2
-dẫn dắt	5
+dẫn	34
+dẫn dắt	16
 dẫn đầu	10
-dẫu	1
-dậy	10
+dập	1
+dậy	16
 dắt dây	1
 dặm	1
 dẻ	1
-dễ	35
+dẻo	4
+dễ	31
 dễ chịu	2
-dễ dàng	9
-dệt	20
-dệt may	3
+dễ dàng	17
+dệt	15
+dệt may	6
 dệtmay	1
 dị	1
-dịch	195
-dịch bệnh	118
+dịch	362
+dịch bệnh	197
 dịch chuyển	2
 dịch thuật	3
-dịch thể tích	1
-dịch tả	1
-dịch tễ	2
-dịch vụ	201
-dịp	16
-dịu	4
+dịch tễ	7
+dịch vụ	564
+dịp	20
+dịu	2
 dịu dàng	1
 dịệu	1
-dọc	1
+dọc	5
 dọn dẹp	1
 dốc	13
-dồi dào	2
-dồn	1
+dồi dào	4
+dồn ép	1
 dột nát	1
+dở	1
 dỡ	2
-dụng	8
-dụng cụ	4
+dụ dỗ	1
+dụng	7
+dụng cụ	2
 dứt	2
-dứt điểm	10
-dừa	1
-dừng	14
-dữ	3
+dứt điểm	7
+dừng	112
+dữ	2
 dữ dội	1
-dữ liệu	194
-dự	38
-dự báo	12
-dự kiến	50
-dự luật	1
-dự phòng	2
-dự thảo	127
-dự toán	39
+dữ liệu	371
+dự	97
+dự báo	18
+dự bị	3
+dự kiến	91
+dự phòng	1
+dự thảo	252
+dự toán	570
 dự trù	4
-dự trữ	1
-dự tuyển	2
-dự án	246
-dự đoán số	6
-dự định	2
-dựa	38
-dựng	7
+dự trữ	3
+dự tuyển	40
+dự án	867
+dự đoán	1
+dựa	35
+dựng	9
 dựng ngược	1
 dựng đứng	3
+dựngdự	1
 d’amour	1
 d’ramour	1
-d’ran	8
-e	33
-e ngại	2
+d’ran	1
+e	29
 e ấp	1
+easy	1
 ebook	1
-ecũ	2
-education	2
-electronic	1
-em	13
-email	452
-encryption	1
-engineering	1
-enhancing	2
-enterprises	2
-ep	1
-epo	6
-epr	1
-eras	5
-et	2
-euipo	6
-evfta	8
-evidence	2
-executive	2
-f	10
-facebook	24
-fanpage	2
+ec	2
+econtract	1
+ecũ	1
+edinburgh	1
+edit	1
+education	1
+educational	1
+efficiently	1
+el	1
+elearning	5
+electronic	2
+elsa	2
+em	18
+email	594
+emdp	59
+emis	1
+emmanuel	22
+employees	2
+encouragement	1
+encouraging	1
+end	1
+energy	1
+enhancing	1
+enterprises	4
+epidemic	1
+eps	1
+eras	11
+eu	5
+euro	5
+event	1
+evfta	10
+evipa	1
+ews	1
+excel	2
+expenditure	1
+expenditures	1
+experiences	1
+expert	1
+exploitation	1
+f	13
+fabien	1
+facebook	34
+fanpage	3
 farm	3
-fax	401
-fb	1
-fd	2
-fdi	11
-fed	2
+farms	1
+fax	511
+fb	17
+fcc	6
+fdi	5
+feed	1
+fees	1
+ferrand	3
 fi	1
-file	1
-finôm	2
-fiocruz	2
-first	1
-follow	2
+file	4
+final	2
+fintech	47
+finôm	1
+first	2
+fisu	2
+flashsmsussd	1
+follow	1
+follower	1
+foods	1
 foody	1
-for	10
-format	2
-foundation	4
-fpt	16
-francisco	2
-from	2
+footer	8
+for	20
+force	2
+foreign	2
+forest	1
+forestry	1
+format	1
+forms	1
+fortiguard	2
+found	4
+fourth	1
+fpt	53
+french	1
+friesland	2
+from	5
+frp	1
+fta	9
 ftth	1
-futabuslines	2
-future	2
-g	50
-ga	1
-gam	5
+ftuw	1
+fulltime	1
+fumio	6
+futabuslines	1
+future	5
+g	69
+ga	16
+gam	3
+game	1
 gan góc	1
-gap	2
-gci	2
-gcn	4
+gb	1
+gc	1
+gci	3
+gcn	42
 gcnqsdđ	8
 gd	3
-gdnn	3
-gdp	11
+gdbđ	53
+gdnn	348
+gdnngdtx	57
+gdp	25
+gdtx	78
+gdtxgdnn	104
 gdvl	4
-gdđt	5
-gen	5
-gene	1
-geneva	2
-ghi	392
+gdđt	22
+gen	57
+geographic	1
+geography	1
+get	15
+gg	1
+ghebreyesus	1
+ghi	468
 ghi chép	10
-ghi chú	12
+ghi chú	16
 ghi danh	1
-ghi hình	2
+ghi hình	5
 ghi hình ảnh	1
-ghi nhận	26
-ghi nhớ	8
-ghi âm	1
+ghi nhận	43
+ghi nhớ	17
+ghi âm	7
 ghi điểm	1
-ghé	5
+ghé	6
+ghép	1
+ghét	1
 ghập	1
+ghế	1
+ghề	1
 ghềnh	1
-gia	59
+gia	231
 gia chánh	1
-gia cầm	1
-gia dụng	2
+gia cầm	3
 gia hòa xã	1
-gia hạn	15
-gia nhập	7
-gia phát	2
-gia súc	4
-gia tăng	65
-gia đình	78
+gia hạn	21
+gia nhập	2
+gia phát	1
+gia súc	5
+gia tăng	92
+gia đình	209
+giahà	9
 giai điệu	1
-giai đoạn	181
-giam	6
-giam giữ	1
+giai đoạn	246
+giam	9
+giam giữ	122
 gian	1
 gian dối	1
-gian hàng	3
+gian hàng	4
 gian khó	1
 gian lao	2
-gian lận	16
+gian lận	60
 gian nan	2
-giang	19
-giao	160
-giao ban	9
+giang	398
+giangttxvn	1
+giao	217
+giao ban	7
 giao ban sơ kết	1
-giao diện	3
-giao dịch	55
-giao khoán	3
+giao diện	4
+giao dịch	69
 giao kết	1
-giao lưu	1
+giao lưu	3
 giao nhận	3
-giao nộp	7
-giao thông	136
-giao thông hành lang	1
+giao nộp	3
+giao phó	1
+giao quân	1
+giao thông	785
 giao thông qua	2
-giao thương	1
+giao thương	4
 giao thời gian	1
 giao tiếp	4
-giao ước	1
+giao ước	3
 gieo mình	1
-gieo trồng	3
-già	7
-già cỗi	1
+gieo trồng	2
+gina	1
+già	9
 già làng	3
-giàu	6
+giàn giáo	1
+giành	1
+giàu	12
 giàu mạnh	2
-giày	1
-giày da	6
-giá	56
-giá cả	6
+giày	3
+giày da	4
+giá	240
+giá cả	9
 giá mua	1
-giá thành	3
-giá trị	144
-giám	3
-giám hiệu	2
-giám khảo	4
-giám sát	56
-giám định	47
-giám định viên	9
-giám đốc	461
-gián tiếp	2
+giá thành	4
+giá trị	182
+giác độ	1
+giám	1
+giám hiệu	3
+giám khảo	20
+giám sát	231
+giám định	91
+giám định viên	6
+giám đốc	746
+gián tiếp	4
+gián đoạn	2
 giáng sinh	3
 giáo	3
-giáo dục	105
-giáo sư	15
+giáo dục	506
+giáo dục phổ thông	13
+giáo sư	1
 giáo trình	2
-giáo viên	36
+giáo viên	96
+giáo xứ	1
+giáp	3
 giáp ranh	1
-giây	6
-giâylần	1
+giáy	10
+giây	14
 giã	1
-giãn	12
+giãn	17
 giêng	2
-gió	8
+gió	10
 gió lộng	1
 gió mùa	1
-giúp	151
-giúp sức	1
-giúp việc	10
-giúp đỡ	19
+giúp	186
+giúp sức	2
+giúp việc	12
+giúp đỡ	22
 giăng	1
 giương	1
-giả	35
-giả danh	1
-giả mạo	2
+giả	22
+giả danh	7
+giả mạo	3
+giả như	1
 giả thiết	1
 giả thuyết	3
-giả định	4
-giải	12
-giải ngân	32
-giải pháp	131
-giải pháp định giá	2
-giải phóng	18
-giải quyết	233
-giải thích	11
-giải thưởng	1
-giải thể	16
-giải trình	21
-giải trình tự	1
+giả định	3
+giải	123
+giải ngân	16
+giải pháp	236
+giải phóng	15
+giải quyết	608
+giải thích	10
+giải thưởng	15
+giải thể	18
+giải trình	17
 giải trí	15
-giải trí mạng	2
-giải tán	1
-giải tỏa	2
-giải viên	21
-giải đáp	4
-giảm	106
-giảm giá	1
+giải trí mạng	1
+giải trừ	5
+giải tỏa	3
+giải viên	17
+giải đáp	9
+giảm	141
 giảm phát	1
-giảm thiểu	13
-giản	2
-giảng	15
-giảng dạy	5
-giảng viên	9
+giảm sút	1
+giảm thiểu	10
+giản	1
+giản dị	3
+giảng	14
+giảng dạy	8
+giảng viên	14
 giấc ngủ	1
 giấp	1
 giấu	1
-giấy	107
-giấy phép	30
-giấy tờ	20
+giấy	367
+giấy phép	648
+giấy tờ	17
 giầu	1
 giầy	1
+giật	1
 giật mình	1
 giặc	8
 giếng	1
-giết	3
+giết	4
 giọng	3
 giọt	1
-giỏi	8
-giống	37
-giới	33
-giới hạn	6
+giỏi	12
+giống	74
+giỗ	1
+giới	60
+giới hạn	3
 giới luật	1
-giới thiệu	57
-giới tính	3
+giới thiệu	990
+giới tính	2
 giớivà	1
-giờ	47
+giờ	61
 giờ giấc	1
-giờ phút	3
+giờ phút	5
 giờ ăn	1
-giờ đây	1
-giữ	58
+giờ đây	2
+giờ địa phương	5
+giữ	67
 giữ gìn	18
-giữa	155
-globalgap	4
+giữa	180
+glasgow	3
+globalgap	1
+glê	2
 gm	1
+gmskhcn	1
 gmslđtbxh	1
-gmstp	3
-gmyaxneidq	2
-gnpvp	1
-golf	4
-gom	2
-google	6
+gmyaxneidq	1
+go	96
+goals	1
+golf	3
+gom	1
+good	1
+google	10
+gop	2
+got	2
 gou	2
+government	1
+gp	59
 gplxgovvn	1
 gpmb	5
-gps	2
-gpxd	2
+gps	1
+gpubnd	1
+gpxd	14
+gq	11
 granit	1
+granted	1
 granít	1
 grdp	1
 grenouillère	1
-group	2
-gs	1
+group	1
+groups	2
+growth	1
+gs	2
 gsktxlstt	2
-gtvt	11
-guidance	1
-guide	4
+gt	18
+gtvt	59
+gui	1
+guidelines	1
+guido	1
+guigopylamdonggovvn	1
+gurnah	1
 guterres	1
-gv	5
+gv	15
 gxnkcn	4
-gà	11
-gái	8
-gán ghép	1
-gánh	2
+gym	1
+gà	12
+gái	10
+gán ghép	2
+gánh	3
 gánh chịu	1
-gánh vác	3
-gân tay	1
-gây	57
-gây dựng	1
-gây rối	5
+gây	54
+gây rối	9
 gây án	1
 gãy	1
-gì	26
-gìn giữ	5
+gérard	3
+gì	24
+gìn giữ	4
 gò	2
-góc	5
-góc độ	3
-gói	11
-góp	25
-góp mặt	1
-góp phần	72
-góp sức	4
-góp ý	60
+góc	4
+góc độ	7
+gói	15
+góp	199
+góp phần	131
+góp ý	116
 gôn	1
-gõ	1
+gõ	2
 gõ cửa	1
 gùi	1
-gđkhđ	5
-gương	8
-gương mẫu	1
+gđ	1
+gđkhđ	3
+gương	9
+gương mẫu	11
 gượng	1
 gạc	1
 gạch	6
-gạo	3
-gạt	1
-gấp	3
+gạo	7
+gạt	2
+gấm	4
+gấp	7
 gấu	1
 gấu chó	1
 gầm	2
 gầm thét	1
-gần	76
-gần gũi	2
+gần	240
+gần gũi	3
 gẫy	1
 gập ghềnh	2
-gắn	83
-gắn bó	4
-gắn kết	7
-gặp	41
-gặp gỡ	2
-gặp mặt	1
+gắn	88
+gắn bó	7
+gắn kết	4
+gắn máy	1
+gặp	70
+gặp gỡ	4
+gặp mặt	17
 gỉải	1
-gọi	57
-gọi là	12
+gọi	138
+gọi là	8
 gọn	7
 gọn gàng	1
-gốc	9
+gốc	15
 gốc rễ	1
-gồm	70
-gỗ	10
-gỗ tạp	2
+gồm	96
+gỗ	130
 gỗ ván	2
+gội	2
 gờn gợn	1
-gởi	1
-gỡ	2
+gởi	31
+gỡ	7
 gợi	2
-gợi cảm giác	2
-gợi ý	1
-gục	1
-gửi	67
-h	47
-ha	114
-habeco	2
+gửi	412
+h	244
+ha	71
+habits	1
 hacker	1
-hai	119
-hamline	2
+hai	157
+hainhà	9
+hair	2
+haiti	6
 han	1
-handbook	2
+handicraft	1
 hang	5
-hang cọp	9
+hang cọp	11
 hang động	3
-hangdttlamdonggovvn	2
+hangdttlamdonggovvn	1
+hangpttlamdonggovvn	1
 hanh hao	1
-hanoimoicomvn	2
-hantbqllamdonggovvn	2
-harvesting	2
-hauvvlamdonggovvn	3
-hay	44
+hanoimoicomvn	4
+hantbqllamdonggovvn	1
+harvesting	1
+hauvvlamdonggovvn	2
+hay	71
 hay là	2
+hb	1
 hc	1
-hcm	20
-hdh	2
-hdi	2
-hdndbaolamlamdonggovvn	2
-hdndbaoloclamdonggovvn	2
-hdndcattienlamdonggovvn	2
-hdnddahuoailamdonggovvn	2
-hdnddalatlamdonggovvn	2
-hdnddamronglamdonggovvn	2
-hdnddatehlamdonggovvn	2
-hdnddilinhlamdonggovvn	2
-hdnddonduonglamdonggovvn	2
-hdndductronglamdonggovvn	2
-hdndlacduonglamdonggovvn	2
-hdndlamdonggovvn	11
-hdndlamhalamdonggovvn	2
+hcm	14
+hcsn	2
+hd	2
+hdbtctu	6
+hdbtctw	7
+hdh	1
+hdhu	6
+hdndbaolamlamdonggovvn	1
+hdndbaoloclamdonggovvn	1
+hdndcattienlamdonggovvn	1
+hdnddahuoailamdonggovvn	1
+hdnddalatlamdonggovvn	1
+hdnddamronglamdonggovvn	1
+hdnddatehlamdonggovvn	1
+hdnddilinhlamdonggovvn	1
+hdnddonduonglamdonggovvn	1
+hdndductronglamdonggovvn	1
+hdndlacduonglamdonggovvn	1
+hdndlamdonggovvn	15
+hdndlamhalamdonggovvn	1
+hdndubnd	1
 hdsxd	2
-health	8
-healthcare	2
+hdtw	1
+hdđuctđ	4
 hecta	2
-heo	14
+helicopter	1
+help	572
+heroin	2
 hg	1
-hien	1
-hientvlamdonggovvn	2
-hieptranvanlamdonggovvn	2
-hitb	1
-hiên	2
-hiếm	3
-hiếm hoi	2
-hiến	3
+hh	1
+hi vọng	1
+hien	9
+hientvlamdonggovvn	1
+hieptranvanlamdonggovvn	1
+hieudak	1
+highlight	1
+hinhphuvn	2
+history	1
+hiv	20
+hivaids	103
+hiên	1
+hiếm	2
+hiếm hoi	1
+hiến	15
 hiến chương	1
-hiến pháp	1
-hiếp	2
-hiếu	14
-hiền	18
+hiến pháp	14
+hiếu	13
+hiền	12
+hiền hoà	1
 hiền hòa	1
-hiền tài	2
+hiền ty	2
 hiểm nghèo	1
 hiểm trở	2
-hiển	6
-hiểu	22
-hiểu biết	16
-hiện	56
-hiện diện	2
-hiện hành	22
-hiện nay	97
+hiển	4
+hiển thị	4
+hiểu	30
+hiểu biết	4
+hiện	83
+hiện bộ	1
+hiện diện	1
+hiện hành	17
+hiện nay	100
 hiện thực	1
-hiện thực hóa	4
+hiện thực hóa	7
 hiện thực hóa nghị quyết	1
-hiện trường	17
-hiện trạng	6
-hiện tượng	2
-hiện tại	18
-hiện đại	26
+hiện trường	10
+hiện trạng	268
+hiện tại	13
+hiện vật	1
+hiện đại	33
 hiện đại hoá	1
 hiện đại hóa	5
-hiện đại hội nhập	1
-hiệp	36
-hiệp hội	10
-hiệp thạnh	2
-hiệp định	21
-hiệu	29
-hiệu lực	46
-hiệu quả	192
-hiệu suất	3
+hiệp	54
+hiệp hội	4
+hiệp thương	2
+hiệp thạnh	3
+hiệp định	32
+hiệu	74
+hiệu lực	412
+hiệu quả	292
+hiệu suất	2
+hiệu thuốc	1
 hiệu triệu	1
-hiệu trưởng	8
-hiệu ứng	1
+hiệu trưởng	7
+hiệu ứng	2
 hkhắc	1
 hn	1
-hnhà	2
-ho	2
-hoa	56
-hoa hồng	1
-hoa lan	1
+hngày	1
+hntt	2
+ho	1
+hoa	48
+hoa chúc mừng	3
+hoa hồng	2
+hoa kỳ	1
 hoa lá	1
 hoa mai	1
-hoa màu	3
-hoa sen	3
+hoa màu	1
+hoa sen	2
 hoa viên	1
-hoach	3
-hoan	2
-hoan nghênh	1
+hoach	21
+hoai	118
+hoan	1
+hoan nghênh	8
 hoang	1
-hoang dã	5
+hoang dã	18
 hoang dại	1
-hoang mang	9
+hoang mang	8
 hoang mạc	1
-hoang sơ	9
-hoang sơ kỳ	1
+hoang sơ	10
+hoang sơ kỳ	2
 hoang vu	1
 hoang vắng	1
 hoanggiang	1
 hoat	1
 hoaviệt	1
+hocmaivn	1
+hoi	2
 holạch	1
-hong	2
-hongkong	1
+home	349
+honcó	1
+hongkong	2
 hongày	1
-hooasarwriblmfriqdx_r	10
-hot	2
-hoà	1
+hooasarwriblmfriqdx_r	5
+hosts	1
+hot	1
+hoà	124
 hoà bình	1
+hoà bình trung đông	1
 hoà thượng	1
-hoài	7
-hoài bão	1
-hoài nghi	1
+hoài	6
+hoài nghi	2
 hoài niệm	1
-hoàn chỉnh	5
-hoàn cảnh	15
+hoàn	2
+hoàn chỉnh	132
+hoàn cảnh	22
 hoàn hảo	1
-hoàn thiện	73
-hoàn thành	75
-hoàn toàn	25
+hoàn thiện	120
+hoàn thành	103
+hoàn toàn	20
 hoàn trả	7
-hoàn tất	1
-hoàng	99
-hoàng anh	2
-hoàng diệu	6
+hoàn tất	4
+hoàng	68
+hoàng anh	1
+hoàng diệu	3
+hoàng gia	1
 hoàng hôn	1
 hoàng kim	1
-hoàng mai	2
-hoàng oanh	2
-hoàng phi	2
+hoàng kim cương	2
+hoàng liên	2
+hoàng mai	1
+hoàng oanh	1
+hoàng tử	1
 hoành hành	1
 hoành tráng	2
 hoá chất	4
-hoá đơn	3
+hoá đơn	4
 hoáxã	1
-hoãn	4
+hoãn	3
 hoăc	1
-hoạch	3
-hoạch định	6
+hoạc	1
+hoạch	6
 hoạchtư	1
 hoạhình	1
-hoạn	1
+hoạn	3
 hoạt	2
-hoạt hình	2
+hoạt hình	1
 hoạt hóa	1
-hoạt động	525
+hoạt động	1787
 hoạt động phòng	3
-hoạt động phòng chống	2
-hoặc	286
-hqdllamdonggovvn	2
+hoạt động phòng chống	3
+hoặc	314
+hq	2
+hqdllamdonggovvn	1
 hrê	1
-ht	2
-htmh	1
-httpbaolamdongvn	3
-httpbaolamdongvnchinhtribaiduthigiaibaochivietvexaydungdanglanthuvihienthuchoanghiquyetoxanongthonmoinangcao	1
-httpbaolamdongvnkinhtephattrienlangnghetretamvongtolan	1
+hs	1
+hssv	2
+ht	19
+htkt	1
 httpdigitalknowledgehubvnueduvn	2
 httpebookbusinessgovvn	1
+httpkhoinghieplamdonggovvn	6
+httpsbaochinhphuvn	1
 httpsbaomoicomlamdongnhanviendulichkhongcohopdongduochotrocepiutm_source	1
 httpsbaomoicomlaodongtudonaoolamdongduochotrokhokhancepiutm_source	1
-httpsbugrankiouserncscpolicy	1
-httpscdndalatedumysharepointcomfgpersonaltkbgttlamdong_cdndalat_edu_vnehicafluktzhmxezubfykrktmuepqeveab_dna	2
-httpscdndalatedumysharepointcomfgpersonaltkbgttlamdong_cdndalat_edu_vnehiskgyojbhbugtxmoablgyntbktpsk_ktlqgka	2
-httpscdndalatedumysharepointcomfgpersonaltkbgttlamdong_cdndalat_edu_vnehlpkopzxpdifmeodpymkkbsnotidydstfgkxhvng	2
-httpscdndalatedumysharepointcomfgpersonaltkbgttlamdong_cdndalat_edu_vnelwymanbxhqfpaxpfrbobtavqmuwnyifetzdezge	2
-httpscdnhubspotnethubfsextensispariahburkebrandstyleguidepdf	2
+httpsdalatcityorgstoremobile	16
+httpsdalatcityorgvitours	16
 httpsdautunuocngoaigovvn	1
 httpsdichvuconglamdonggovvn	1
 httpsdrivegooglecomdrivefolderscpaojeeaisoguqriyaveyyqph	1
@@ -2210,435 +2615,510 @@ httpsdrivegooglecomdrivefoldersjrruymycpxxlvivxszqotevq_mf	1
 httpsdrivegooglecomdrivefoldersjtkhajjozorebud_fdo_dm	2
 httpsdrivegooglecomfiledacdnmxf_dwxtdijrkecemfmvkpviewusp	1
 httpsdrivegooglecomfiledodmhmvtmrcwzwiknwhpyciesviewusp	1
-httpseuipoeuropaeuknowledgecourseviewphpid	2
-httpsfabrikbrandscomrebrandingvsbrandrefreshwhatsthedifference	2
+httpsfbcomdalatcityorg	16
 httpsfdigovvn	1
+httpsflexiblelearningaucklandacnzlearning_technologies_onlinehtmlcourse_files_html	1
+httpshcmohagovvn	1
+httpshcsngsogovvn	1
 httpsispeedvn	3
-httpskhcnlamdonggovvn	1
+httpskhcnlamdonggovvn	6
 httpslamdonggovvnlistsqunlvnbnattachmentstbpdf	1
 httpslamdonggovvnsitesvpubndlistsqunlvnbnchoattachmentstb_hp_signedpdf	1
 httpslamdonggovvnsitesvpubndlistsqunlvnbnchoattachmentstbpdf	4
 httpsldtbxhlamdonggovvn	16
-httpslizalamdonggovvn	42
+httpslizalamdonggovvn	39
 httpsmbaochinhphuvnstoryaspxdid	3
+httpssctlamdonggovvn	1
+httpssnvlamdonggovvn	1
 httpsspeedtestvn	3
 httpstclamdonggovvn	1
-httpstepinoffcrosiercompdfthepowerofbrandingpdf	2
 httpsthuvienphapluatvnvanbanbomayhanhchinhthongtuttbtpquydinhvehoatdongthongkecuanganhtuphapaspx	1
-httpstnmtlamdonggovvn	62
-httpswwwignytebrandscomrefreshorrebrand	2
-httpswwwyoutubecomwatchv	12
-httpsyoutubecomplaylistlist	4
+httpstietkiemnangluongcomvn	1
+httpstnmtlamdonggovvn	59
+httpswwwresearchgatenetpublication_how_to_evaluate_the_quality_of_digital_learning_resources	1
+httpswwwresearchgatenetpublication_research_on_the_evolution_and	1
+httpswwwyoutubecomwatchv	6
+httpsyoutubecomplaylistlist	2
 httpubmttqvnlamdonggovvn	1
 httpvntagovvn	2
-httpwwwbaovinhphuccomvn	1
+httpwwwbaovinhphuccomvn	2
 httpwwwcsgtvntracuuphuongtienviphamhtml	1
 htttqg	1
-htv	1
-htx	34
+htv	4
+htx	17
+hu	2
 huaicát	1
-hub	1
-hubaolamlamdonggovvn	2
-hucattienlamdonggovvn	2
-hudahuoailamdonggovvn	2
-hudamronglamdonggovvn	2
-hudatehlamdonggovvn	2
-hudilinhlamdonggovvn	2
-hudonduonglamdonggovvn	2
-huductronglamdonggovvn	2
-hulacduonglamdonggovvn	2
-hulamhalamdonggovvn	2
+huawei	3
+hub	2
+hubaolamlamdonggovvn	1
+hucattienlamdonggovvn	1
+hudahuoailamdonggovvn	1
+hudamronglamdonggovvn	1
+hudatehlamdonggovvn	1
+hudilinhlamdonggovvn	1
+hudonduonglamdonggovvn	1
+huductronglamdonggovvn	1
+hulacduonglamdonggovvn	1
+hulamhalamdonggovvn	1
+hun	1
 hun hút	2
+hun đúc	1
 hung dữ	2
-hung khí	1
-huoai	31
-huoshenshan	1
-huunvanlamdonggovvn	2
-huvện	2
-huy	9
+hung khí	3
+huoai	50
+huong	2
+husbandry	2
+huunvanlamdonggovvn	1
+huy	5
 huy chương	1
-huy động	37
-huyendtolamdonggovvn	2
-huylmlamdonggovvn	2
+huy động	36
+huyendtolamdonggovvn	1
+huylmlamdonggovvn	1
 huynh	1
-huypklamdonggovvn	2
-huyên	2
+huypklamdonggovvn	1
+huyên	1
+huyến	1
 huyết	1
 huyết thống	3
-huyền	11
+huyền	6
 huyền bí	1
-huyền diệu	3
+huyền diệu	2
 huyền hoặc	1
 huyền nhiệm	1
 huyền thoại	5
-huyền vi	2
-huyện	587
+huyện	2525
 huyện lỵ	1
 huyện đoàn	2
 huyện ủy	57
 huyện ủy ban	1
 huyệnthành	2
-huân	3
-huân chương	1
+huân	2
+huân chương	5
 huấn	1
 huấn luyện	2
-huấn luyện viên	1
-huế	4
-huệ	7
+huế	126
+huệ	27
 huổi	1
-huỳnh	144
-hy	2
-hy sinh	2
-hy vọng	5
-hà	169
-hà châu	4
-hà nội	13
-hài	5
+huỳnh	172
+huỳnh đường	8
+huỷ bỏ	2
+huỷ hoại	122
+hy	1
+hy sinh	6
+hy vọng	8
+hydro	2
+hà	770
+hà châu	2
+hà nội	26
+hài	2
+hài cốt	3
 hài hoà	2
 hài hòa	5
-hài lòng	2
-hàm	6
-hàn	4
+hài lòng	3
+hàm	3
+hàm lượng	2
+hàn	8
 hàn huyên	1
-hàn lâm	3
-hàng	196
-hàng hoá	14
-hàng hóa	31
-hàng hóa bất	1
-hàng không	6
-hàng loạt	4
+hàn lâm	4
+hàng	192
+hàng hoá	7
+hàng hóa	77
+hàng hải	1
+hàng không	2
+hàng loạt	7
 hàng rào	2
-hàng tiêu dùng	1
-hàng đầu	17
-hành	6
-hành chính	321
-hành khách	15
-hành lang	3
-hành lang pháp lý	2
-hành nghề	104
-hành trình	11
-hành vi	73
-hành xử	1
-hành động	27
+hàng đầu	14
+hàngvà	1
+hành	9
+hành chính	1626
+hành chính ban	5
+hành hung	5
+hành khách	33
+hành lang	2
+hành lang pháp lý	4
+hành nghề	85
+hành trình	28
+hành vi	72
+hành xử	2
+hành động	45
 hào	3
-hào hứng	1
-hái	1
-hán	3
+hào hùng	1
+hào hứng	2
+hán	1
 hán việt	2
+háo danh	4
 háo hức	1
-hát	13
-hãng	4
+hát	10
+hãng	5
 hãy	6
-hình	16
+hé	1
+hình	10
 hình dáng	1
-hình mẫu	1
+hình dịch	1
 hình như	1
-hình phạt	4
-hình sự	74
-hình thành	19
+hình phạt	1
+hình sự	61
+hình thành	22
 hình thái	1
 hình thù	2
-hình thư viện	2
-hình thức	110
-hình vạn trạng	1
-hình ảnh	36
-hích	4
+hình thư viện	1
+hình thức	147
+hình ảnh	63
+hích	1
 hò hẹn	3
-hòa	48
-hòa bình	16
+hòa	214
+hòa bình	157
 hòa bình an giang	1
-hòa bình an ninh	2
-hòa bắc	4
+hòa bình an ninh	3
 hòa cùng	1
-hòa giải	36
-hòa giảichi	2
+hòa giải	31
+hòa giảichi	1
 hòa lạc	1
-hòa nhân dân	1
+hòa michael	1
 hòa nhập	1
-hòa ninh	3
-hòa ninh gia	2
+hòa ninh	2
+hòa pháp	52
+hòa phát	1
 hòa quyện	1
 hòa thuận hạnh phúc	1
-hòa xã hội chủ nghĩa việt	5
+hòa xã hội chủ nghĩa việt	3
+hòa đông	1
 hòm phiếu	1
-hòn	2
-hòng	1
+hòn	1
+hòng	3
 hóa	65
-hóa chất	9
+hóa bộ	1
+hóa chất	6
 hóa giải	1
 hóa hiến pháp	1
-hóa hóa	10
+hóa hóa	6
+hóa học	4
+hóa nghị quyết	1
 hóa phú	1
 hóa trang	1
-hóa đơn	3
-hót	4
-hô hào	1
-hô hấp	11
-hôi	3
-hôm nay	4
-hôm qua	2
+hóa xã	2
+hóa đơn	4
+hóalịch	1
+hóc	3
+hót	3
+hôi	4
+hôm nay	235
 hôn	1
-hôn nhân	6
-hùng	40
+hôn nhân	7
+hù dọa	1
+hùng	32
+hùng cường	1
+hùng hậu báo chí	1
 hùng tráng	3
-hùng văn nhân	2
-hùng vĩ	7
-hút	3
+hùng văn nhân	1
+hùng vĩ	8
+hút	10
 hăng	1
-hđ	2
-hđba	14
+hăng hái	3
+hđ	40
+hđba	33
+hđbtctw	2
 hđldhđlv	1
-hđlđ	6
-hđlđhđlv	3
-hđnd	70
+hđlđ	4
+hđlđhđlv	2
+hđnd	786
 hđph	1
 hơ	2
-hơi	7
+hơi	1
 hơi lạnh	1
-hơi men	1
+hơi men	121
 hơi nước	1
-hơn	230
+hơn	268
 hơn nữa	2
 hư	1
 hư hỏng	6
-hưng	12
-hưu	21
-hương	35
+hưng	135
+hưu	12
+hưu trí	42
+hương	37
 hươngkhách	1
 hươu sao	1
-hướng	77
-hướng dẫn	268
+hướng	92
+hướng dẫn	687
 hướng nghiệp	3
-hướng tâm	2
 hường	4
-hưởng	26
+hưởng	22
 hưởng thụ	1
-hưởng ứng	22
+hưởng ứng	57
 hưởng ứng chiến dịch	1
-hạ	4
-hạ tầng	55
+hạ	9
+hạ tầng	193
 hạch toán	1
-hại	8
-hạirất	1
-hạn	10
-hạn chế	60
-hạn hán	1
+hại	5
+hạn	95
+hạn chế	44
+hạn hán	15
 hạn ngạch	1
-hạng	9
-hạng mục	3
-hạnh	8
+hạng	508
+hạng mục	4
+hạnh	5
 hạnh phúc	10
-hạt	4
-hạt nhân	6
-hả	1
-hải	128
-hải dương	1
-hải phòng	1
-hải quan	5
+hạt	39
+hạt giống	1
+hạt nhân	16
+hải	137
+hải dương	124
+hải phòng	124
+hải quan	4
 hải quân	1
-hải triều	2
-hải đăng	8
-hảo	7
-hảo tâm	2
-hấp dẫn	13
+hải triều	1
+hải yến	2
+hải đăng	4
+hải đảo	1
+hảo	4
+hảo tâm	1
+hấp dẫn	17
+hấp thụ	2
+hất	1
 hầm	1
-hầu hết	27
+hầu hết	20
 hầu như	3
-hậu	11
-hậu cần	1
-hậu phương	2
-hậu quả	7
-hằn	1
-hằng	17
-hằngttkn	1
+hẩm	1
+hậu	146
+hậu cần	3
+hậu quả	6
+hằn học	2
+hằng	40
 hằngttxvn	1
 hẳn	4
-hẹn	5
+hẹn	6
 hẹn ước	1
-hẹp	5
-hẻm	7
-hết	34
+hẹp	7
+hẻm	19
+hết	378
+hết lòng	1
 hết mình	1
-hết sức	20
-hề	3
-hệ	8
-hệ quy chiếu	1
-hệ quả	5
-hệ sinh thái	18
-hệ thống	206
-hệ thống hóa	8
+hết sức	18
+hề	7
+hệ	9
+hệ lụy	10
+hệ quả	1
+hệ sinh thái	26
+hệ số	125
+hệ thống	851
+hệ thống hóa	7
 hệ thống nhất	1
 hệ trọng	1
 hệt	1
-họ	101
+họ	109
 họach	1
-học	83
-học bổng	4
-học giả	2
+học	305
+học bổng	7
 học hành	1
-học hỏi	3
-học sinh	45
-học sinh học	1
+học hỏi	4
+học kỳ	3
+học liệu	15
+học lực	2
+học phí	5
+học sinh	78
+học sinh học	3
 học sinh khối	1
-học thuật	2
+học thuật	1
 học trò	1
-học tập	53
-học tập số	2
-học viên	21
-học viện	7
-họch	1
-họng	1
-họp	162
-hỏa	1
+học tập	113
+học tập số	1
+học tập trung	1
+học viên	279
+học viện	8
+họp	481
+hỏa	3
 hỏa hoạn	3
-hỏi	13
+hỏi	478
+hỏi cung	2
 hỏi thăm	3
-hố	1
-hối cải	1
-hối lộ	1
+hỏng	1
+hối	1
 hối thúc	1
-hồ	171
-hồ chứa nước	1
+hồ	357
+hồ chứa nước	4
 hồ hởi	1
-hồ sơ	145
-hồ sơ cấp	2
-hồi	3
-hồi sức	2
+hồ quang	1
+hồ sơ	457
+hồ sơ cấp	1
+hồ sơ kết nạp	1
+hồi	1
 hồn	1
 hồn nhiên	1
-hồng	109
-hồng phúc	2
+hồng	272
+hồng phúc	1
 hổ	1
-hỗ trợ	224
-hỗn chiến	1
-hộ	142
+hỗ trợ	429
+hỗn chiến	4
+hỗn hợp	4
+hộ	130
 hộ chiếu	2
 hộ khẩu	1
+hộ sản xuất	5
 hộ tịch	26
-hội	143
-hội chứng	7
-hội giảng	1
-hội nghị	125
-hội nghị sự	1
-hội nhập	20
-hội thảo	31
-hội trường	11
-hội trường sở	29
-hội tụ	3
-hội viên	12
+hội	608
+hội chứng	5
+hội diễn	1
+hội giảng	2
+hội kiến	27
+hội nghị	284
+hội nhập	58
+hội thao	1
+hội thi	3
+hội thánh	1
+hội thảo	131
+hội trường	14
+hội trường sở	30
+hội tụ	8
+hội viên	40
 hội ý	2
-hội đồng	45
+hội đàm	4
+hội đồng	173
 hội đồng bộ trưởng	1
-hội đồng nhân dân	46
-hội đồng quản trị	1
-hội đồng đội	1
+hội đồng nghĩa vụ	7
+hội đồng nhân dân	445
+hội đồng quản trị	5
 hộihuyện	1
-hộp thư	12
-hớn	4
-hợp	5
-hợp danh	18
-hợp lý	27
+hộitrong	1
+hộp	1
+hộp thư	9
+hớn	2
+hợp	9
+hợp danh	11
+hợp lý	38
 hợp lý do	1
 hợp lệ	2
-hợp nhất	4
-hợp pháp	21
+hợp lực	13
+hợp nhất	7
+hợp pháp	22
 hợp phần	1
-hợp thành	2
-hợp tác	58
-hợp tác xã	10
-hợp đồng	71
+hợp thành	1
+hợp tác	104
+hợp tác chiến lược	2
+hợp tác xã	35
+hợp đồng	72
 hợp đồng bộ	1
 hợp đồng văn bản	1
+hục	1
 hủ tục	2
-hủy	7
+hủy	37
 hủy bỏ	8
-hủy hoại	3
-hứa	3
+hủy diệt	4
+hủy hoại	1
+hứa	2
 hứa hẹn	2
 hứng thú	1
-hữu	21
-hữu cơ	13
+hữu	16
+hữu cơ	6
 hữu cơ chất lượng	1
-hữu hình	2
-hữu quan	7
+hữu nghị	4
+hữu quan	8
 hữu tình	1
-hữu ích	6
+hữu ích	3
+hực	1
 h’mông	1
-i	36
+i	48
+iab	1
+iaea	1
+iai	2
 iapp	2
+ict	3
+ictnewsvietnamnetvn	1
+ictvietnamvn	1
 idc	2
-idris	2
-ifkxllpzlugwjtt	2
-ifla	4
-igen	2
-ignacio	4
-ii	36
-iii	29
-im lặng	1
-in	23
+ifkxllpzlugwjtt	1
+ifla	2
+igate	1
+igen	1
+ii	125
+iii	40
+im lặng	2
+imbens	1
+imf	1
+implement	6
+implementation	1
+implementing	2
+improving	1
+in	466
 in ấn bản	1
-index	13
+inbuilt	1
+index	6
 indochine	1
-information	4
-initiative	2
-innovation	6
-institute	2
-intellectual	16
+industrial	1
+industry	1
+infographic	1
+information	5
+initiative	1
+innovating	1
+intecom	1
+integration	1
 interbuslines	3
 international	3
-internet	66
+internationally	1
+internet	293
 intimex	1
-ioe	1
-iot	2
-ip	4
+invalides	2
+invest	1
+investment	3
+ioe	3
+ioffice	9
+ios	1
 ipad	1
 ipcách	1
-ipgrowth	2
-ipm	2
-ipplatform	2
+ipod	2
 ipv	1
-ireland	1
-is	2
-isarel	2
+iran	1
+ireland	3
+is	7
 isi	1
-iso	16
-isoawi	3
-isopas	3
-isots	4
-isowd	2
+isiscopus	1
+iso	3
 isp	1
-ispeed	27
-itasco	2
-ithaca	2
-itu	2
-iv	15
-ivac	1
-iwa	6
-ix	7
+ispeed	54
+israel	4
+issuing	3
+it	2
+italy	1
+itasco	1
+itu	1
+iv	23
+ix	40
 iưu	3
-ja	1
-janeiro	2
+iếp	1
+iều	1
+iệc	2
+iện	2
+iệt	1
+japan	2
 java	2
+jean	8
+jinsung	1
 jitter	1
-joao	2
+joe	2
+john	1
 johnson	1
-jose	4
-journal	8
+jollibee	1
+joshua	1
+jrang	4
+julius	1
 jungle	1
+jura	1
 jơi	2
-k	13
-ka	12
-kaizen	1
-kamil	2
-kangaroo	6
-kao	3
+k	18
+ka	11
+kaga	1
+kaizen	2
+kao	1
 kaolin	3
 kaolinthu	1
-karaoke	10
+karaoke	8
+karolinska	1
 kayak	3
-kbnnlamdonggovvn	2
-kc	2
-kcn	169
+kbdi	2
+kbnn	12
+kbnnlamdonggovvn	1
+kbéo	1
+kc	1
+kcn	284
 kcn lộc	1
 kcnddt	1
 kcnmt	5
@@ -2648,4991 +3128,5680 @@ kcntnmt	5
 kcnvp	6
 kcnđt	1
 kcnđtdn	2
-kcs	12
+kcs	7
 kdl	2
-kdvt	1
-ke	3
-kent	2
+kdvt	183
+ke	22
+keay	1
+kenya	1
 keo	1
-ketamine	4
-kg	1
-kgcon	1
-kh	108
-khai	15
-khai báo	9
-khai giảng	8
-khai hoang	2
+kerry	1
+ketamine	2
+kg	3
+kh	481
+khai	13
+khai báo	25
+khai giảng	17
+khai giảng dạy	1
 khai khoáng	2
-khai mạc	10
+khai mạc	32
 khai phá	1
-khai thác	75
+khai thác	767
 khai trình	1
-khai trương	2
+khai trương	3
 khan hiếm	1
-khang trang	2
-khanh	1
-khcn	1
+khang trang	4
+khanh	2
+khao	2
+khbtc	1
+khcn	215
 khe	2
-khen	5
-khen thưởng	45
+khen	10
+khen ngợi	1
+khen thưởng	530
+khhđbcqg	7
 khhđph	1
-khi	750
-khiêm tốn	1
-khiến	21
+khi	1010
+khidịch	1
+khiêm tốn	4
+khiên	14
+khiến	19
 khiếp sợ	1
 khiếu	1
 khiếu kiện	3
-khiếu nại	103
+khiếu nại	364
 khiển trách	1
-khkcn	10
-kho	25
-kho bãi	2
-kho bạc	19
+khkcn	5
+kho	108
+kho bãi	3
+kho bạc	13
 kho tàng	1
-khoa	7
-khoa học	257
-khoa học cơ bản	4
-khoa học kỹ thuật	4
-khoa học tự nhiên	2
-khoai lang	2
-khoan	3
-khoanh	2
+khoa	11
+khoa học	1061
+khoa học dữ liệu	1
+khoa học kỹ thuật	3
+khoa trường	1
+khoai lang	4
+khoan	12
+khoanh	3
 khoe	2
-khoá	7
-khoán	1
-khoán sản	2
-khoáng sản	27
-khoản	74
-khoảng	109
-khoảng cách	14
-khoảng trống	1
-khskhcn	2
-khslđtbxh	2
+khoá	22
+khoác	1
+khoán	5
+khoán sản	1
+khoáng sản	1324
+khoánng	59
+khoản	85
+khoảng	180
+khoảng cách	13
+khskhcncđcs	1
+khstc	2
 khstnmt	2
-khstp	10
-khtc	8
+khstp	6
+khtc	11
+khttr	4
 khtđknc	1
-khu	255
-khu chế xuất	5
-khu công nghiệp	330
-khu phố	3
-khu phố phường	5
-khu vực	131
-khubnd	14
-khung	12
+khu	777
+khu chế xuất	4
+khu công nghiệp	533
+khu phố	2
+khu phố phường	3
+khu vực	134
+khubnd	31
+khung	17
 khung cảnh	2
-khuya	1
-khuyến	6
-khuyến cáo	4
-khuyến khích	40
-khuyến nghị	9
-khuyết tật	1
-khuyết điểm	4
+khuyến	2
+khuyến cáo	8
+khuyến khích	37
+khuyến nghị	12
+khuyến nông	2
+khuyến nông viên	2
+khuyết tật	3
+khuyết điểm	21
+khuê	14
 khuôn	1
-khuôn khổ	10
-khuôn mặt	1
-khuôn viên	4
-khuất	2
-khuẩn	1
-khxh	1
-khá	46
-khác	314
-khác biệt	6
-khác biệt tự	2
+khuôn khổ	23
+khuôn mặt	4
+khuôn viên	5
+khuất	1
+khá	158
+khác	1191
+khác biệt	7
 khác thường	1
-khách	32
-khách hàng	27
-khách quan	21
-khách sạn	28
-khái	1
-khái niệm	4
+khách	81
+khách hàng	45
+khách quan	29
+khách sạn	26
+khái	4
+khái niệm	1
 khái quát	7
-khám	1
-khám nghiệm	3
-khám phá	17
+khám	7
+khám nghiệm	2
+khám phá	34
+khám tuyển	3
 khám xét	1
+khán	1
 khán đài	1
 kháng	1
-kháng chiến	3
+kháng chiến	9
+kháng cáo	1
 kháng nghị	2
-kháng thể	2
-khánh	8
+kháng nguyên	1
+khánh	129
 khát khao	1
-khát vọng	8
-khâu	7
+khát vọng	7
+khâu	4
 khèn	1
-khéo	2
+khéo	162
 khéo léo	1
 khép	2
 khép kín	1
-khí	6
-khí hậu	24
+khí	62
+khí hậu	48
 khí hậu thổ nhưỡng	3
-khí thế	2
-khí tượng	3
-khía cạnh	14
+khí thế	4
+khí tượng	31
+khía cạnh	2
+khích	1
 khích lệ	4
 khít	1
-khó	32
-khó khăn	170
+khó	41
+khó khăn	205
 khó lòng	1
-khó tính	1
-khóa	78
+khóa	876
 khói	1
-khô	10
-khôi nguyên	1
+khô	17
 khôi ngô	1
-khôi phục	8
-không	545
-không chỉ	2
-không gian	30
-không khí	9
-không thể	26
-khúc	9
+khôi phục	9
+không	698
+không chỉ	4
+không gian	31
+không khí	7
+không những	1
+không phép	2
+không thể	29
+khúc	6
 khúc khuỷu	1
 khúc xạ	1
 khăn	1
+khđt	3
 khđtktn	1
-khơi	5
-khương	10
-khả	2
-khả nghi	1
-khả năng	60
-khả thi	19
-khải hoàn	2
+khơi	10
+khơi gợi	1
+khơi nguồn	16
+khương	22
+khả	1
+khả năng	63
+khả thi	23
+khải hoàn	1
 khảo cổ	1
-khảo sát	32
+khảo nghiệm	2
+khảo sát	128
 khấu	1
-khẩn cấp	20
-khẩn trương	26
-khẩu	3
-khẩu chiếm	1
-khẩu hiệu	6
-khẩu trang	1
-khắc	16
-khắc phục	35
-khắp	9
-khẳng định	41
+khấu trừ	3
+khẩn	103
+khẩn cấp	3
+khẩn trương	25
+khẩu	2
+khẩu hiệu	7
+khẩu phần	2
+khẩu trang	3
+khắc	12
+khắc phục	29
+khắp	6
+khẳng định	57
 khỉ	1
+khọt	2
 khỏan	2
-khỏe	3
+khỏe	2
 khỏe khoắn	1
-khỏe mạnh	1
-khỏi	30
-khốc liệt	1
-khối	39
-khối lượng	11
-khối óc	1
-khốn đốn	1
-khống chế	3
-khổng	2
-khổng lồ	7
+khỏi	151
+khốc liệt	3
+khối	125
+khối lượng	6
+khống chế	123
+khổ	2
+khổng lồ	6
+khởi	2
 khởi công	5
+khởi hành	1
 khởi lập	1
-khởi nghiệp	25
-khởi sắc	3
-khởi tố	5
-khởi điểm	3
-khởi đầu	4
-khởi động	11
-khởi động điện	2
-khủng bố	2
+khởi nghiệp	294
+khởi sắc	2
+khởi sự	2
+khởi tố	155
+khởi điểm	7
+khởi động	2
+khủng bố	1
 khủng hoảng	2
+khủng hoảng kinh tế	2
 khử khuẩn	6
-ki	6
+ki	2
 kia	4
-kiendxlamdonggovvn	2
-kill	2
-kim	26
-kim chỉ nam	1
+kidong	3
+kids	1
+kiem	4
+kiendxlamdonggovvn	1
+kim	47
 kim loại	1
-kim ngạch	1
-kim ngọc	2
+kim ngân	1
+kim ngạch	4
+kim ngọc	1
 kim oanh	2
-kinh	8
-kinh doanh	188
+kinder	1
+king	1
+kinh	11
+kinh doanh	296
+kinh doanh sinh kế	1
 kinh doanh thương mại	1
-kinh kế	1
 kinh nghiệm	58
-kinh phí	68
-kinh tế	372
-kinh tế thị trường	6
-kinh tế tri thức	2
-kinh tếkinh	1
-kinh tếxã	6
+kinh phí	67
+kinh qua	1
+kinh tế	712
+kinh tế thị trường	4
+kinh tế tri thức	1
+kinh tếxã	11
 kinhthượng	2
-kit	4
-kiêm	7
-kiêm nhiệm	144
-kiên	1
-kiên cố	2
-kiên quyết	11
-kiên trì	1
-kiên định	2
-kiếm	9
-kiến	1
-kiến nghị	70
-kiến thức	37
-kiến trúc	34
+kishida	6
+kién nghị	1
+kiêm	6
+kiêm nhiệm	80
+kiên	128
+kiên cố	1
+kiên quyết	6
+kiên trì	4
+kiên định	6
+kiếm	29
+kiến nghị	161
+kiến thức	63
+kiến trúc	50
 kiến trúc sư	2
-kiến tạo	4
+kiến tạo	6
 kiềm	1
-kiểm	8
-kiểm chứng	3
-kiểm dịch	4
-kiểm kê	7
-kiểm lâm	7
-kiểm lâm viên	1
-kiểm nghiệm	2
-kiểm soát	57
-kiểm sát	4
+kiềm chế	4
+kiều bào	43
+kiểm	4
+kiểm chứng	1
+kiểm duyệt	3
+kiểm kê	6
+kiểm lâm	2
+kiểm nghiệm	1
+kiểm soát	241
+kiểm sát	2
 kiểm sát nhân dân	2
-kiểm toán	14
-kiểm tra	238
-kiểm điểm	6
-kiểm định	10
+kiểm toán	12
+kiểm tra	419
+kiểm điểm	69
+kiểm định	35
 kiểng	2
-kiểu	10
-kiểu dáng	16
-kiểu mẫu	30
+kiểu	5
+kiểu dáng	5
+kiểu mẫu	7
+kiện	6
 kiện toàn	6
 kiện toàn bộ máy	1
-kiệt	2
+kiệt	1
 kiệt sức	1
 kiệt tác	1
+kl	2
 klang	1
-klaus	3
-kltw	4
-km	75
-kntc	2
-komatsu	2
-kong	2
-konline	1
-kp	6
-kqh	7
-krattiger	2
-krông năng	4
-ks	2
-ksnd	1
-kstthclamdonggovvn	2
-kt	1
+klttr	1
+kltw	2
+kltư	2
+km	207
+kn	2
+kntc	4
+kom	2
+komatsu	1
+kon	126
+konline	3
+kp	3
+kqh	4
+krong	2
+krông	1
+krông năng	2
+ks	9
+ksconlline	1
+kstthclamdonggovvn	1
+kt	45
 ktc	2
-ktgs	8
-kthảo	2
+ktgđ	1
+kthảo	1
+ktktdoc	1
 kts	1
-ktxh	23
-kv	54
+ktxh	27
+kuwait	1
+kv	34
 kwh	1
-kè	1
-kèm	19
+kèm	38
 kèm cặp	1
-kém	7
-kén	3
-kéo	5
-kéo dài	16
+kém	4
+kéo	3
+kéo dài	24
 kéo theo	1
-kép	4
-kê	3
+kép	10
+kê	11
 kê biên	1
-kê khai	5
-kênh	13
-kênh mương	3
-kêt	1
-kêu gọi	13
+kê khai	6
+kênh	22
+kênh truyền hình	2
+kêu gọi	693
 kì thị	1
 kìm	1
-kìm hãm	2
-kích hoạt	3
-kích hoạt đầu tư	1
-kích thước	2
-kích động	1
-kín	3
+kích cầu	1
+kích hoạt	5
+kích thước	7
+kích động	2
+kín	7
 kín đáo	1
 kính	5
-ký	74
-ký kết	17
-ký kết hợp tác	3
+ký	97
+ký kết	28
+ký kết hợp tác	23
 ký túc xá	2
-kăn	2
+ký ức	1
 kĩ	1
-kĩ thuật	4
-kơ	2
+kĩ năng	6
+kĩ thuật	2
+kơ	3
 kẹo	2
 kẹt	1
 kẻ	4
+kẻ gian	1
 kẻ thù	3
-kế	10
-kế cận	8
-kế hoạch	364
+kẻo	2
+kế	9
+kế cận	76
+kế hoạch	2043
 kế hoạch hóa	1
-kế thừa	5
-kế tiếp	3
-kế toán	147
-kế toán trưởng	2
+kế thừa	3
+kế tiếp	4
+kế toán	95
+kế toán trưởng	1
+kế vị	1
 kếbiến	1
-kết	23
+kết	46
 kết bạn	1
-kết cấu	4
-kết cấu hạ tầng	21
+kết cấu	2
+kết cấu hạ tầng	56
 kết hôn	2
-kết hợp	36
-kết luận	77
-kết nạp	2
-kết nối	81
-kết quả	242
-kết thúc	25
-kể	44
+kết hợp	31
+kết luận	159
+kết nạp	15
+kết nối	173
+kết quả	1261
+kết thúc	33
+kể	73
 kể cả	5
-kịch bản	8
-kịp	8
-kịp thời	76
-kịp thời hiệu quả	1
-kỳ	102
-kỳ công điện	1
-kỳ diệu	1
-kỳ hạn	1
-kỳ vọng	11
+kễ	1
+kịch bản	21
+kịp	5
+kịp thời	116
+kịp thời hiệu quả	2
+kỳ	415
+kỳ diệu	37
+kỳ vọng	13
 kỳ ảo	2
 kỳđột	1
-kỷ cương	3
-kỷ luật	33
-kỷ nguyên	2
+kỷ cương	2
+kỷ luật	68
+kỷ lục	1
 kỷ nguyên văn hóa	1
-kỷ niệm	14
-kỷ yếu	3
-kỹ	12
+kỷ niệm	71
+kỷ yếu	37
+kỹ	5
 kỹ càng	1
-kỹ lưỡng	10
+kỹ lưỡng	7
 kỹ nghệ	1
-kỹ năng	39
+kỹ năng	56
 kỹ sư	2
-kỹ thuật	156
-kỹ thuật số	10
-k’ho	8
-k’nhiễu	3
+kỹ thuật	211
+kỹ thuật số	7
+k’béo	1
+k’ho	6
 k’nia	1
 k’nớh	1
+k’sáu	2
 l	8
 la	1
 ladophar	2
 lagisquet	1
-lai	7
+lai	250
 lai lịch	2
 lai tạo	4
-laidthlamdonggovvn	2
-lam	5
+laidthlamdonggovvn	1
+lam	26
 lam đồng lần	1
-lamdklamdonggovvn	2
-lamdonggovvn	87
-lamdonggovvnsitesthanhtra	29
-lan	36
+lamdklamdonggovvn	1
+lamdong_jpg	1
+lamdonggovvn	126
+lamdonggovvnsitesthanhtra	28
+lamdongtvvn	13
+lan	65
 lan can	1
-lancet	1
+lan hài	9
+lan truyền	4
+lan truyền thông tin	1
+lan tràn	1
 lang	12
-lang thang	1
 langbian	2
-langbiang	1
-lao	10
+langbiang	3
+languages	2
+lao	11
 lao xao	1
-lao động	412
-lao động giản đơn	6
+lao động	912
+lao động giản đơn	4
 lao động điện	5
-lao động đào tạo	3
+lao động đào tạo	8
 lao động đất	1
-lat	2
-latin	2
-law	4
-le	2
-leishenshan	1
-leisure	2
+larcher	3
+las	3
+last	1
+lat	3
+lativa	1
+lauds	1
+law	1
+layout	9
+lazada	1
+lc	1
+lcms	1
+ld	1
+ldp	1
+ldtbxh	5
+leader	1
+learning	5
+lebanon	4
+legal	1
+legaljudicial	1
+legislator	1
+legislatures	1
+len	2
 len lỏi	1
 leo	9
-lhq	10
-lieulvlamdonggovvn	2
+level	1
+lhpn	19
+lhq	38
+lienviet	2
+lieulvlamdonggovvn	1
+lifts	1
+like	3
+limited	1
 lin	1
-linh	36
-linh hoạt	16
+linh	199
+linh hoạt	68
+linh hồn	14
 linh kiện	6
+linh mục	1
 linh thiêng	2
-linh đơn	1
 linh động	1
-linhttlamdonggovvn	2
+linhhà	1
+linhttlamdonggovvn	1
 link	12
-list	12
-literature	4
-lixăng	2
+list	13
+listimg	4
+literature	1
+livestock	2
+livestream	2
 liza	2
 lizalamdonggovvn	1
-liêm	7
-liêm chính	1
+liêm	10
+liêm chính	2
 liên	35
-liên chi hội	2
+liên bang	2
+liên chi hội	1
 liên doanh	1
-liên gia	1
-liên hiệp	6
+liên hiệp	56
 liên hoàn	1
-liên hệ	18
-liên hợp	2
+liên hệ	684
+liên hợp	25
 liên khương	2
-liên kết	15
+liên kết	202
 liên kết quả	1
-liên lạc	14
-liên minh	4
-liên minh châu	4
-liên nghĩa	38
-liên nghĩa đức	5
-liên ngành	5
-liên quan	262
-liên thông	7
-liên thông dữ liệu	2
+liên lạc	11
+liên minh	2
+liên minh châu	2
+liên nghĩa	28
+liên nghĩa đức	4
+liên ngành	18
+liên quan	468
+liên thông	24
+liên thông dữ liệu	1
 liên thông trình ủy ban	1
-liên tiếp	5
 liên tiếp nhận	1
-liên tịch	7
-liên tục	22
-liên vùng	1
-liên xã	2
-liên xã thôn	1
-liên đoàn	4
-liên đội	2
-liêng	37
-liến	1
-liền	24
-liều	2
-liễu	1
-liệt	2
-liệu	11
-liệuthông	2
-lo	6
-lo lắng	5
-lo ngại	2
-lo sợ	2
-loa	1
-loan	28
-lockdown	1
+liên tịch	9
+liên tục	25
+liên xô	1
+liên đoàn	2
+liêng	47
+liền	25
+liều	5
+liệt	1
+liệt sĩ	126
+liệu	138
+liệuthông	1
+ll	10
+llvt	17
+lms	1
+lo	3
+lo lắng	6
+lo ngại	11
+lo sợ	1
+loa	2
+loading	32
+loan	21
+loc	2
+local	3
 logic	2
+login	328
 logistics	1
-logo	6
-long	21
+logo	2
+long	166
+long trọng	3
+louis	5
 lounge	1
-loài	10
-loại	114
-loại bỏ	6
-loại hình	26
-loạimô	2
-loạt	5
-ls	117
-lu	2
-luyến	5
+loài	86
+loại	241
+loại bỏ	3
+loại hình	32
+loại trừ	1
+loạimô	1
+loạt	4
+lramp	1
+ls	68
+lt	11
+ltỉnh	170
+lu	1
+luyến	3
 luyện kim	4
-luân	2
-luân chuyển	4
-luân phiên	2
-luât	2
-luôn	36
+luyện tập	1
+luân	1
+luân chuyển	5
+luân phiên	4
+luôn	60
+luôn luôn	3
 luông	1
-luận	1
-luận cứ	1
-luận văn	4
-luận án	2
-luật	417
-luật gia	8
+luậ	1
+luận văn	1
+luận văn tiến sĩ	1
+luận án	1
+luận điệu	1
+luật	545
+luật gia	36
 luật hình sự	2
-luật hóa	6
-luật học	1
-luật khoa học	1
-luật pháp	3
-luật pháp lệnh	5
-luật sư	74
-luật trình	1
-luống	2
+luật hóa	2
+luật pháp	6
+luật pháp lệnh	7
+luật sư	107
 luồn	1
-luồng	2
 luộc	1
-ly	13
+ly	14
 ly khai	1
-là	1209
-lài	3
-làm	342
+lyhoạt	1
+là	1286
+lài	2
+làm	558
 làm bếp	1
-làm chủ	7
+làm chủ	15
+làm giàu	1
+làm gương	2
+làm hỏng	1
+làm ngơ	1
 làm nên	1
-làm quen	5
-làm sao	5
-làm việc	170
-làm ăn	1
-làn	1
-làn sóng	3
-làng	17
-làng nghề	8
+làm quen	1
+làm sao	7
+làm việc	396
+làm ăn	2
+làn	3
+làn sóng	2
+làng	68
+làng nghề	3
 làng xã	2
-lành	21
-lành mạnh	2
-lào	12
-lá	12
-lá mạ	2
-lái	9
-lái xe	16
-lát	1
-lâm	1547
-lâm hà	27
-lâm nghiệp	18
-lâm sàng	2
+lành	57
+lành mạnh	9
+lào	139
+lá	22
+lái	190
+lái xe	897
+lán trại	1
+lát	64
+lâm	4976
+lâm hà	121
+lâm nghiệp	20
 lâm sơn	1
-lâm sản	9
-lâm tuyền	3
-lâm viên	5
-lân	2
-lân cận	3
+lâm sản	7
+lâm viên	4
+lân	4
+lân cận	61
 lâng lâng	1
-lâu	6
-lâu dài	7
-lâu nay	2
-lâu đời	2
-lây	5
-lây lan	10
-lây nhiễm	8
-lã	2
-lãi	4
-lãi suất	2
+lâu	10
+lâu dài	5
+lâu nay	1
+lâu đời	3
+lây	1
+lây lan	11
+lây nhiễm	29
+lã	1
+lãi	2
+lãi suất	5
 lãng	1
 lãng mạn	4
-lãng phí	6
+lãng phí	14
 lãng đãng	1
-lãnh thổ	1
+lãnh	15
+lãnh thổ	3
+lãnh tụ	6
 lãnh vực	1
-lãnh đạo	216
+lãnh đạo	602
 lãnh địa	1
-lão	7
-lão thị trấn	2
-lê	114
-lê diệu	2
-lê dung	6
-lê duy thắng	1
-lê hoàng	3
+lão	4
+lão thành	2
+lão thị trấn	1
+lê	79
+lê dung	4
+lê duẩn	1
+lê hoàng	2
 lê huy	1
-lê hải ninh	2
-lê hồng	8
-lê kim	1
-lê minh	13
-lê minh huy	3
-lê phước lộc	1
-lê phường	6
-lê quang	3
-lê t tuyết	6
-lê thanh khuyến	1
-lê thành	2
-lê thị	8
-lê thị bình	1
-lê thị hồng	4
-lê thị kim	2
-lê thị ngọc	2
-lê thị pha	2
-lê thị tuyết	12
-lê trí dũng	1
-lê trọng	2
-lê tám	2
-lê tấn	2
+lê hải ninh	1
+lê hồng	10
+lê minh	8
+lê minh huy	2
+lê nguyễn hồng	3
+lê nguyễn hồng phương	1
+lê ngọc	2
+lê phước lộc	2
+lê phường	3
+lê quang	2
+lê quý đôn	1
+lê quốc minh	5
+lê t tuyết	3
+lê tdp	2
+lê thanh khuyến	3
+lê thị	6
+lê thị hồng	5
+lê thị kim	11
+lê thị ngọc mai	1
+lê thị pha	1
+lê thị phương	1
+lê thị tuyết	6
+lê trí dũng	10
+lê trọng	1
 lê văn hùng	1
 lê văn nhựt	1
-lê ánh	6
-lê đình	1
-lê đình lợi	8
-lên	109
-lên bộ	2
+lê ánh	13
+lê đình lợi	5
+lê đức	3
+lên	240
+lên bộ	1
 lên án	1
-lên đường	5
-lênin	4
+lên đường	2
+lênin	1
 lí tưởng	1
 lính	2
-lít	2
 líu lo	2
 lò	1
 lò xo	2
-lòng	13
+lòng	18
+lòng dân	2
 lòng vòng	1
-lóng	2
-lót	2
-lô	18
-lôi kéo	1
-lõi	1
-lùi	1
-lùn lùn	2
-lúa	29
-lúa nước	2
-lúc	29
-lúc nào	2
-lúng túng	4
-lý	20
-lý do	21
+lót	1
+lô	14
+lôi kéo	5
+lõi	3
+lùi	2
+lúa	7
+lúc	36
+lúc nào	1
+lúcnày	1
+lúng túng	1
+lý	24
+lý do	20
 lý giải	1
-lý giải quyết	7
-lý luận	8
-lý lịch	24
+lý giải quyết	62
+lý luận	11
+lý lịch	26
 lý thuyết	1
 lý thú	1
 lý tưởng	2
-lăk	2
 lăn	4
 lăn lộn	1
 lăng	3
 lăng tẩm	1
-lđ	19
-lđpt	12
-lđtb	5
-lđtbxh	1
-lĩnh	1
-lĩnh vực	213
-lũ	4
+lđ	67
+lđpt	7
+lđtb	1
+lĩnh	3
+lĩnh hội	1
+lĩnh vực	678
+lũ	2
 lũng	1
 lũy	1
-lơ	2
+lơ	7
 lơ là	1
 lơ lửng	1
-lưng	3
-lưu	17
-lưu giữ	5
-lưu hành	1
+lưng	2
+lưu	16
+lưu dữ liệu	2
+lưu giữ	6
+lưu hành	86
 lưu lãng mạn	1
 lưu lượng	7
-lưu nghiệp	2
-lưu niệm	3
-lưu thông	11
-lưu trú	4
-lưu trữ	47
-lưu vực	2
-lưu ý	9
-lưu động	5
-lương	31
-lương thực	8
+lưu nghiệp	1
+lưu niệm	4
+lưu thông	6
+lưu trú	11
+lưu trữ	88
+lưu vực	4
+lưu ý	12
+lưu động	4
+lươn	1
+lương	72
+lương thực	4
 lương tâm	1
 lưới	9
-lướt	2
+lướt	3
 lười	1
-lường	4
-lượcquy	2
+lường	5
 lượn	3
-lượng	18
+lượng	22
 lượng hoá	1
-lượt	50
-lạ	5
+lượt	287
+lạ	7
 lạ kỳ	2
 lạ lùng	1
 lạ mắt	1
-lạc	55
-lạc hậu	5
+lạc	577
+lạc hậu	6
 lạch	3
-lại	4332
-lạm dụng	4
-lạm quyền	1
-lạng	2
-lạnh	8
+lại	2645
+lạm dụng	5
+lạm phát	2
+lạng	126
+lạnh	9
 lạnh lẽo	2
-lạt	3886
-lấn	2
-lấn chiếm	5
-lấp	1
+lạt	3218
+lấn chiếm	4
+lấn át	1
 lấp lánh	2
-lấy	40
-lần	105
-lần lượt	8
-lầu	63
-lầy	1
+lấy	545
+lần	502
+lần lượt	4
+lầntháng	1
+lầu	60
+lầy	3
 lầy lội	1
-lẩn	2
-lẫn	14
-lập	125
+lẩn	1
+lẩn tránh	2
+lẫn	11
+lập	127
 lập kế hoạch	2
+lập nghiệp	1
 lập pháp	2
-lập quy hoạch	8
-lập trình	2
-lắc	3
-lắc lư	1
-lắk	4
-lắm	5
-lắng nghe	3
-lắp	5
-lắp ráp	13
-lắp đặt	11
-lặn	1
+lập quy hoạch	4
+lập trình	1
+lập trường	6
+lật tẩy	1
+lậu	1
+lắc	1
+lắk	130
+lắm	3
+lắng nghe	4
+lắp	2
+lắp ráp	6
+lắp đặt	10
 lặng câm	1
-lặng lẽ	1
-lết	2
-lề lối	1
+lề	2
 lều	3
-lễ	26
-lễ hội	8
-lệ	2
-lệ phí	6
-lệnh	1
-lịch	7
-lịch sử	14
+lễ	58
+lễ hội	7
+lệ	1
+lệ phí	8
+lệ thuộc	2
+lệhàng	1
+lệnh	5
+lịch	807
+lịch sử	29
 lịch sự	6
-lịch trình	2
+lịch trình	19
 lịm	1
-lọc	1
-lọt	3
+lọc	4
+lọt	1
+lỏng	4
 lốc	2
-lối	16
+lối	19
+lốp	1
 lồi lõm	1
-lồng	2
-lồng ghép	4
+lồng ghép	7
 lỗ	5
-lỗ hổng	2
-lỗi	3
-lỗi thời	4
-lộ	4
+lỗi	6
+lộ	89
 lộ phí	1
-lộ trình	11
-lộc	115
+lộ trình	15
+lộc	154
 lộclong	1
-lộctỉnh	1
+lộctỉnh	2
 lộng gió	1
 lớ	1
-lớn	109
-lớn mạnh	2
-lớn nhỏ	1
+lớn	131
+lớn mạnh	4
+lớn nhỏ	2
 lớncát	1
-lớp	42
-lớp học	9
+lớp	75
+lớp học	14
 lớp lớp	2
 lờ	1
-lời	16
-lời giải	2
-lời nói	1
+lời	29
+lời giải	1
+lời nói	2
 lởm chởm	1
-lỡ hẹn	1
-lợi	9
-lợi dụng	13
-lợi nhuận	15
-lợi thế	12
-lợi ích	39
-lợn	2
+lỡ	1
+lợi	8
+lợi dụng	16
+lợi nhuận	5
+lợi thế	11
+lợi ích	28
+lợn	1
 lợp	1
-lụa	4
-lục	4
+lụa	5
+lục	3
 lục quân	1
-lụt	2
-lứa	1
+lụt	1
+lứa	2
 lừ	1
-lừa	7
-lừa dối	1
-lừa đảo	29
-lửa	5
+lừa	2
+lừa đảo	165
+lửa	79
 lửa trại	2
 lửng	1
-lữ	2
+lữ	1
 lững lờ	1
-lựa chọn	35
-lực	4
-lực cản	1
-lực lượng	67
+lựa chọn	47
+lực	2
+lực lượng	68
 lực lượng vũ trang	6
-m	36
-ma	6
+m	40
+ma	1
 ma hương	1
 ma thuật	1
-ma túy	78
-madagui	55
-mai	34
+ma tuý	4
+ma túy	534
+macmillan	1
+macron	30
+madagui	61
+madaguôi	2
+mai	45
 mai sau	3
-mai táng	1
 mail	3
 main	1
-make	3
+make	2
 maketing	4
-maketting	2
-malaysia	2
+maketting	1
 manage	1
-management	14
-mang	89
+management	2
+managing	1
+mang	70
 manh mún	1
+manh nha	4
 manh động	1
+manipulator	1
+map	1
 maps	1
-marcus	2
+marathon	3
+maria	1
 marie	1
-marketing	10
-marketting	8
-mart	1
-mary	2
+maritime	2
+mark	2
+marketing	9
+marketting	5
+martin	1
 master	9
-mastercard	6
-may	6
+material	1
+mathias	1
+matignon	1
+mau	1
+may	5
 may mắn	1
-may mặc	14
-mađaguôi	1
+may mặc	10
+mađaguôi	5
 mađaguôihuyện	1
-mbps	8
-mediumsized	2
-meet	4
+mb	3
+mbps	15
+mccaul	1
+measurement	1
+media	5
+mediumsized	1
+mediumterm	1
+meet	3
+meets	2
 mekong	2
+meliaceae	8
+member	1
+members	1
 men	4
-merkava	2
+mentors	2
+menunews	6
+merger	1
+merkava	3
+mesh	1
 messenger	2
-metadata	2
+meta	1
+metadata	1
 methamphetamine	2
+metro	1
+mevi	2
 mgiây	1
+mhz	1
 mi	1
-mice	1
-micgovvn	8
-microsoft	2
-mihr	2
+micgovvn	34
+micheal	1
+microsoft	3
+miguel	1
+mike	2
 mimosa	1
-minh	116
-minh bạch	14
-minh chứng	1
+mimôsa	32
+minecraft	9
+minh	267
+minh bạch	15
+minh chứng	2
 minh hoạ	1
-minh hương	5
-minh họa	3
-minh tâm	1
-minh định	1
-minh định giá	2
-minh đức	6
-minhgmailcom	2
-minhqua	1
-minhtclamdonggovvn	2
-mitchell	2
-miên	2
+minh hương	3
+minh họa	15
+minh ngọc	2
+minh tâm	10
+minh định	10
+minh đức	1
+minhgmailcom	1
+minhtclamdonggovvn	1
+minister	1
+ministry	1
+misa	2
+mix	2
+miên	1
+miến	1
 miếng	2
 miếu	1
-miền	57
-miều	1
-miễn	27
-miễn dịch	1
-miễn giảm	9
-miễn nhiệm	20
-miễn phí	9
-miễn thuế	23
-miệng	5
-mllần	1
+miền	91
+miều	2
+miễn	33
+miễn giảm	20
+miễn nhiệm	19
+miễn phí	16
+miễn thuế	24
+miệng	4
 mly	1
 mmnăm	1
-mmáng	1
-mn	5
+mn	6
 mngàyđêm	5
-mobifone	2
-mobile	2
+mobifone	5
+mobile	23
+modi	1
 module	1
-mong	8
-mong muốn	21
-most	1
+momo	14
+mon men	1
+money	4
+mong	13
+mong muốn	26
+montchallin	2
+montreau	3
+montreuil	3
+monusco	1
+moocs	2
+moodle	1
+moonvn	1
+mou	1
+mozalearn	1
 mr	1
-mri	2
-mt	9
-mtqg	10
-mttq	8
-mttqvn	2
-mtv	8
-mu	1
-mua	29
-mua bán	13
-mua chuộc	3
-mua sắm	6
-muc	1
+mri	1
+ms	1
+msdunited	2
+mt	19
+mtqg	9
+mttq	143
+mttqvn	1
+mtv	11
+mu	3
+mua	32
+mua bán	109
+mua chuộc	1
+mua sắm	9
+mudie	6
+multichannel	1
 mung	1
+murasame	1
+muratov	1
 mushroom	1
-muôn	1
 muôn vàn	1
 muông	2
 muối	5
-muốn	19
+muốn	25
 muộn	2
 mva	2
 mw	6
-my	10
-myanmar	1
-mà	139
-mà còn	10
+my	6
+mà	133
+mà còn	13
 màn	2
-màn hình	3
-màng	4
-màu	33
+màn hình	7
+màu	16
 màu mỡ	1
-màu sắc	8
-mày	1
-mái	4
+màu sắc	420
+mác	1
+mái	3
 mái tóc	1
-máng	1
+mák	5
+mánh lới	1
 mát	9
 mát mẻ	5
+máu	3
 máu me	1
-máy	24
-máy bay	1
-máy chủ	2
-máy cày	1
+máy	26
+máy bay	2
+máy chủ	1
 máy fax	3
-máy kéo	2
-máy móc	1
+máy móc	2
+máy nghe	1
 máy phát điện	1
-máy tính	20
+máy tính	39
 máy tính mạng	2
 máy vi tính	6
-máy ủi	2
-máytrí	2
-mân	2
-mâu thuẫn	8
-mây	3
-mã	19
-mã hóa dữ liệu	1
-mã số	6
-mãi	6
+máy ủi	1
+máytrí	1
+mâu thuẫn	9
+mây	4
+mã	54
+mã hóa	6
+mã số	7
+mã tấu	6
+mãi	7
 mãi mãi	2
 mãng	1
 mãnh	1
-mét	4
-mê	1
+mét	3
+mét khối	122
+mê	16
 mê hồn	1
-mê man	2
 mê mẩn	1
 mê mệt	1
 mênh mang	1
 mênh mông	6
-mình	89
-mí	1
+mì	4
+mình	121
 mòn	3
+móc	2
 móc ngoéo	1
-món	9
+món	16
 móng	1
-mô hình	94
-mô phỏng	4
-mô tô	2
-môi trường	267
+mô hình	166
+mô hình nhân giống	2
+mô hình sinh kế	2
+mô phỏng	3
+mô tô	225
+mô tả	3
+môi trường	1019
+môi trường học tập	2
 môi trường sinh thái	5
 môi trường sở	1
-môn	5
-môn học	2
+môn	14
+môn học	8
 mônchuyên	1
+mông	1
 môt	1
 mù mịt	2
-mùa	32
-mùa vụ	3
-mùi	6
-múc	1
-măng	2
+mùa	41
+mùi	5
+măng	1
 măng chua	1
-măng non	1
-mũi	4
-mũi nhọn	1
-mơ	6
+mũ	1
+mũ bảo hiểm	4
+mũi	8
+mơ	2
 mơ màng	2
 mơ mộng	1
-mưa	10
-mưa bão	1
-mương	1
+mưa	18
+mưa dầm thấm	1
 mướt	2
-mười	8
+mười	9
 mười lăm	2
-mượn	1
+mượn	2
 mượt mà	1
-mạ	7
-mạc	4
-mạch	5
+mạ	6
+mạc	2
+mạch	15
 mại dâm	1
-mạng	101
-mạng di động	1
-mạng lưới	13
-mạnh	33
-mạnh dạn	3
+mạng	201
+mạng di động	2
+mạng lưới	19
+mạnh	40
+mạnh dạn	5
 mạnh khỏe	1
-mạnh mẽ	35
-mạo hiểm	7
-mảnh	8
-mất	37
+mạnh mẽ	58
+mạo	1
+mạo hiểm	10
+mảng	4
+mảnh	37
+mất	36
 mất hút	1
-mất mát	3
-mấu chốt	1
-mấy	4
-mầm	1
-mầm non	2
+mất mát	4
+mất trắng	1
+mấy	6
+mầm	2
+mầm non	9
 mầu	1
 mầu sắc	1
-mẫn	4
-mẫu	16
-mẫu biểu	1
-mẫu đơn	1
+mẩu	1
+mẫn	5
+mẫu	171
+mẫu biểu	3
+mẫu giáo	3
+mẫu mực	1
 mậng	2
-mật	4
+mập mờ	1
+mật	1
+mật thiết	3
 mật độ	2
-mắc	11
-mắt	5
-mặc	7
+mậu	1
+mắc	143
+mắt	6
+mặ	1
+mặc	2
 mặc dù	19
 mặn	1
 mặn mà	1
-mặt	39
-mặt bằng	22
+mặt	57
+mặt bằng	26
 mặt cầu	1
-mặt hàng	13
-mặt khác	6
-mặt nước	26
+mặt hàng	8
+mặt khác	3
+mặt nước	27
 mặt nước biển	1
-mặt tiền	1
-mặt tiền bạc	1
-mặt trận	27
+mặt trái	1
+mặt trận	34
 mặt trời	2
-mặt đất	1
-mẹ	6
-mềm	3
+mặt đường	2
+mặt đất	14
+mẹ	10
+mềm	2
 mềm mại	1
 mệt	1
-mệt mỏi	1
+mệt mỏi	5
 mọc	2
-mọi	70
+mọi	63
 mỏ	3
 mỏm	1
-mốc	1
-mối	32
+mốc	4
+mối	36
+mồ côi	5
 mồ hôi	1
-mồi	1
-mỗi	56
+mồi	3
+mỗi	57
 mộ	2
-mộc	2
-mộng	4
-mộng mơ	10
-một	443
+mộc	1
+mộng	3
+mộng mơ	12
+một	601
 một chút	1
-một cách	35
-một cửa	4
+một cách	33
+một cửa	5
 một lòng	1
+một mình	1
 một mạch	1
-một mặt	3
-một phép	2
-một số	285
+một nửa	1
+một số	466
 một số liệu	1
-một vài	4
-mới	345
+một vài	3
+mộtnhư	1
+mới	1213
 mới lạ	3
 mới đây	3
 mờ	1
 mờ ảo	1
-mời	22
-mời chào	1
-mở	38
-mở cửa	2
-mở rộng	48
-mở đường	2
+mời	97
+mời chào hàng	1
+mời gọi	6
+mở	68
+mở cửa	11
+mở rộng	55
+mở đường	10
+mở đầu	1
 mởn	1
+mỡ	2
 mục	7
-mục sư	2
-mục tiêu	163
-mục đích	32
-mức	52
+mục sư	3
+mục tiêu	166
+mục đích	51
+mức	138
 mức sống	1
-mức độ	43
+mức độ	126
 mứt kẹo	3
-mừng	5
-mực	1
-mỹ	24
+mừng	4
+mực	6
+mỳ	4
+mỵ	1
+mỹ	54
+mỹ eu	1
 mỹ hào	1
-mỹ latinh	2
-mỹ quan	1
-mỹ thuận	2
+mỹ thuận	1
 mỹ đức	1
-m’nông	3
+m’hô	2
+m’nông	2
 m’rông	1
-n	1
-nafosted	2
-nai	30
+n	10
+na	2
+naga	3
+nai	156
 naicác	1
-nala	6
-nam	605
-nam bằng	2
-nam bộ	6
+nala	3
+nam	1813
+nam bộ	17
 nam giới	4
+nam mô	2
 nam nhân	1
-nam nữ	3
-nam phục vụ	1
-nam trung tâm	3
-nampvlamdonggovvn	2
-nano	1
-nanocovax	2
-nanogen	4
-narongrit	1
-nay	75
-nbắc	1
-nc	18
+nam nữ	1
+nam phục hồi	1
+nam tiến	2
+nam trung bộ	2
+nam trung tâm	2
+nam tính	1
+namcộng	1
+nameu	1
+nammhznăm	2
+nampvlamdonggovvn	1
+narendra	1
+national	4
+nations	1
+nature	1
+nay	69
+na’s	1
+nc	7
+ncov	1
 ncovi	1
-ncsc	2
+ndvulamdonggovvn	1
+nem	1
 nen	1
-netfin	1
-netnam	1
+netnam	2
+new	9
+news	6
 newsletterictvietnamvn	1
-ng	4
-nga	9
-ngang	19
+next	2
+ng	7
+nga	10
+ngahnh	1
+ngang	17
 ngang mặt	1
-ngay	58
-ngay lập tức	2
+nganh	5
+ngay	72
+ngay lập tức	1
 ngay mặt	1
-nghe	28
-nghi	11
-nghi vấn	1
-nghiêm	29
-nghiêm cấm	8
-nghiêm khắc	2
-nghiêm minh	3
-nghiêm ngặt	2
-nghiêm trọng	10
-nghiêm túc	27
-nghiên	1
-nghiên cứu	234
-nghiên cứu ứng dụng	6
+nghe	60
+nghi	23
+nghi vấn	3
+nghiep	2
+nghiep_signedpdf	1
+nghiepdoc	1
+nghiêm	35
+nghiêm cấm	4
+nghiêm khắc	3
+nghiêm minh	17
+nghiêm ngặt	1
+nghiêm trọng	21
+nghiêm túc	42
+nghiên cứu	450
+nghiên cứu sinh học	1
+nghiên cứu ứng dụng	15
 nghiêng	1
 nghiêng nghiêng	1
-nghiệm thu	8
-nghiện	49
-nghiệp	8
-nghiệp vụ	98
+nghiệm	16
+nghiệm thu	49
+nghiện	189
+nghiệp	10
+nghiệp vụ	220
 nghiệpnhà	1
-nghiệpđặc	1
-nghành	2
-nghèo	128
-nghèo nàn	1
+nghành	3
+nghèo	115
 nghèo đói	1
-nghê	1
-nghìn	11
-nghĩ	13
-nghĩa	21
+nghê	2
+nghìn	12
+nghĩ	12
+nghĩa	23
 nghĩa hẹp	3
-nghĩa là	3
-nghĩa lập	2
-nghĩa rộng	2
-nghĩa thị	4
-nghĩa trang	2
-nghĩa tình	3
-nghĩa vụ	15
+nghĩa là	4
+nghĩa lập	1
+nghĩa rộng	1
+nghĩa thị	2
+nghĩa trang	1
+nghĩa vụ	24
 nghĩa đức	1
-nghẽn	2
-nghề	64
-nghề nghiệp	21
+nghẽn	6
+nghề	146
+nghề nghiệp	35
 nghể	1
-nghệ	2
+nghệ	124
+nghệ an	5
+nghệ nghiệp	1
 nghệ nhân	1
 nghệ sĩ	1
-nghệ thuật	18
-nghỉ	29
-nghỉ dưỡng	6
-nghỉ lễ	3
+nghệ thuật	40
+nghệ thuật giải trí	2
+nghệ thuậtjpg	1
+nghỉ	22
+nghỉ dưỡng	10
+nghỉ lễ	4
 nghỉ mát	1
 nghỉ ngơi	1
-nghỉ phép	4
-nghị	6
-nghị quyết	192
-nghị sự	2
-nghị trường	1
-nghị định	97
+nghỉ phép	3
+nghị	7
+nghị quyết	315
+nghị trình	2
+nghị trường	2
+nghị định	203
 nghịch cảnh	1
+nghịt	2
 ngiệp	1
 ngoan	2
 ngocquynhkcnlocsonyahoocomvn	1
-ngon	4
+ngon	7
 ngon ngọt	1
-ngoài	90
-ngoài ra	19
-ngoài trời	1
-ngoáy	1
+ngoài	103
+ngoài ra	33
 ngoéo tay	1
-ngoại	1
-ngoại giao	6
-ngoại lệ	3
-ngoại lực	1
-ngoại ngữ	2
-ngoại thương	2
-ngoại trừ	1
+ngoại	2
+ngoại giao	130
+ngoại hối	1
+ngoại lệ	20
+ngoại lực	2
+ngoại ngữ	5
+ngoại thương	4
+ngoại tệ	125
 ngoại vi	1
-ngoại vụ	5
-ngoạn mục	2
-nguy cơ	34
-nguy hiểm	5
-nguy nan	1
+ngoại vụ	23
+ngoại xâm	1
+ngoạn mục	1
+nguy cơ	209
+nguy cấp	31
+nguy hiểm	11
+nguy hại	3
 nguy nga	1
-nguyên	41
+nguyên	43
 nguyên bản	1
-nguyên khí	1
-nguyên liệu	15
-nguyên nhân	35
-nguyên sinh	1
+nguyên liệu	18
+nguyên nhân	28
+nguyên sinh	2
 nguyên sơ	3
 nguyên sơ kỳ	1
+nguyên thủ	1
 nguyên tiêu	1
-nguyên tắc	27
-nguyên tử	1
-nguyên tử lực	5
+nguyên tắc	39
+nguyên tử	9
+nguyên tử lực	3
 nguyên vật liệu	2
 nguyên vẹn	1
-nguyên đán	2
-nguyên đại học	1
+nguyên đán	1
+nguyên ủy viên	1
 nguyền	1
-nguyễn	102
-nguyễn biểu	2
-nguyễn bá	4
-nguyễn bích	3
-nguyễn chí	4
-nguyễn công trứ	6
-nguyễn danh	2
+nguyễn	77
+nguyễn biểu	1
+nguyễn bá	3
+nguyễn bích	2
+nguyễn chí	2
+nguyễn công trứ	15
+nguyễn cảnh	4
+nguyễn danh	1
 nguyễn du tt	1
-nguyễn du tổ	2
-nguyễn duy	2
-nguyễn duy hoàng	2
-nguyễn hoài	2
-nguyễn hoàng	7
-nguyễn huy	8
+nguyễn du tổ	1
+nguyễn duy	1
+nguyễn duy hoàng	1
+nguyễn hoài	1
+nguyễn hoàng	3
+nguyễn huy	4
 nguyễn huy dũng	2
-nguyễn huy giang	1
-nguyễn huy hoàng	2
+nguyễn huy hoàng	1
 nguyễn huệ	1
-nguyễn hưng thịnh	1
-nguyễn hồng	7
-nguyễn hồng trâm	2
-nguyễn hữu	2
-nguyễn hữu cẩn	2
+nguyễn hưng thịnh	2
+nguyễn hạnh phúc	1
+nguyễn hải	2
+nguyễn hồng	5
+nguyễn hữu	1
 nguyễn hữu hiền	1
-nguyễn hữu hồng	2
-nguyễn hữu kiểm	1
-nguyễn hữu lịch	2
-nguyễn hữu tâm	4
-nguyễn hữu tân	3
+nguyễn hữu hào	1
+nguyễn hữu hồng	1
+nguyễn hữu kiểm	10
+nguyễn hữu tâm	2
+nguyễn hữu tân	2
 nguyễn hữu ân sở	1
-nguyễn khắc	2
-nguyễn khắc định	6
-nguyễn kiều	3
-nguyễn loan	8
-nguyễn lân	1
-nguyễn lê đoàn	2
-nguyễn minh	10
-nguyễn mạnh	10
+nguyễn khắc định	3
+nguyễn kiều	2
+nguyễn loan	5
+nguyễn lê đoàn	1
+nguyễn mai	1
+nguyễn minh	5
+nguyễn minh khương	1
+nguyễn mạnh	6
 nguyễn mạnh hùng	1
-nguyễn mậu	13
+nguyễn mậu	7
+nguyễn mộng sinh	1
 nguyễn nghĩa	1
-nguyễn nguyễn trí	2
-nguyễn ngọc	4
-nguyễn ngọc huy	2
-nguyễn ngọc long	1
-nguyễn ngọc minh	2
+nguyễn nguyễn trí	1
+nguyễn ngọc	2
+nguyễn ngọc huy	1
+nguyễn ngọc minh	1
+nguyễn ngọc nhi	3
 nguyễn ngọc phúc	1
-nguyễn ngọc quốc bảo	1
-nguyễn ngọc thiên	2
+nguyễn ngọc thiên	1
 nguyễn ngọc ánh	4
-nguyễn phú trọng	7
-nguyễn phương	10
-nguyễn phạm hùng	1
-nguyễn quang	5
+nguyễn phú trọng	12
+nguyễn phương	5
+nguyễn quang	3
 nguyễn quang tuyến	2
-nguyễn quốc	9
-nguyễn sanh	2
-nguyễn thanh	8
+nguyễn quân	1
+nguyễn quân chủ tịch	2
+nguyễn quốc	5
+nguyễn số	1
+nguyễn thanh	4
 nguyễn thanh giang	1
-nguyễn thanh hải	7
-nguyễn thanh long	1
-nguyễn thanh thảo	1
-nguyễn thành	2
+nguyễn thanh hải	4
+nguyễn thanh thảo	2
+nguyễn thành	1
 nguyễn thái bình	3
-nguyễn thái học	2
-nguyễn thái định	2
-nguyễn thùy	4
+nguyễn thái học	1
+nguyễn thái định	1
+nguyễn thùy	2
 nguyễn thúy	2
-nguyễn thế	1
-nguyễn thị	62
-nguyễn thị bích	4
-nguyễn thị hiền	2
-nguyễn thị hoàng	2
-nguyễn thị hương	2
+nguyễn thị	37
+nguyễn thị bích	2
+nguyễn thị giêng	8
+nguyễn thị hiền	1
+nguyễn thị hoàng	1
+nguyễn thị hương	1
 nguyễn thị hải	1
-nguyễn thị hồng	17
-nguyễn thị kim	8
-nguyễn thị l	1
-nguyễn thị lân	1
-nguyễn thị lệ	10
-nguyễn thị mai	4
-nguyễn thị minh	6
-nguyễn thị nghĩa	2
-nguyễn thị ngọc	6
-nguyễn thị phương	1
-nguyễn thị thanh	15
+nguyễn thị hồng	10
+nguyễn thị kim	5
+nguyễn thị lệ	6
+nguyễn thị mai	2
+nguyễn thị minh	3
+nguyễn thị mỵ	1
+nguyễn thị nga	1
+nguyễn thị nghĩa	3
+nguyễn thị ngọc	4
+nguyễn thị phương	5
+nguyễn thị thanh	9
 nguyễn thị thu	3
-nguyễn thị thùy	2
-nguyễn thị thủy	1
-nguyễn thị tiệp	1
-nguyễn thị tuyết	4
+nguyễn thị thủy	2
+nguyễn thị tiệp	2
+nguyễn thị tuyết	2
 nguyễn thị tường	1
-nguyễn thị ánh	2
-nguyễn thị điều	4
-nguyễn thị ấn	9
-nguyễn thọ	9
-nguyễn thời	1
-nguyễn trung kiên	2
-nguyễn tuyên	4
-nguyễn tuấn	2
-nguyễn tạo	5
+nguyễn thị ánh	1
+nguyễn thị điều	2
+nguyễn thị ấn	6
+nguyễn thọ	6
+nguyễn tiến hải	2
+nguyễn trung kiên	1
+nguyễn trọng nghĩa	1
+nguyễn tuyên	3
+nguyễn tuấn	1
+nguyễn tạo	3
 nguyễn tấn lâm	1
-nguyễn viết	10
-nguyễn văn	12
-nguyễn văn a	3
-nguyễn văn biềng	10
+nguyễn tử lực	1
+nguyễn viết	2
+nguyễn văn	7
+nguyễn văn a	1
+nguyễn văn biềng	6
 nguyễn văn cường	1
-nguyễn văn cảnh	1
-nguyễn văn cừ	12
-nguyễn văn dũng	4
-nguyễn văn dậu	3
-nguyễn văn hiển	4
-nguyễn văn hoằng	2
-nguyễn văn huyến	2
-nguyễn văn hà	2
-nguyễn văn hùng	1
-nguyễn văn hưng	1
-nguyễn văn hữu	3
-nguyễn văn la	4
-nguyễn văn linh	2
-nguyễn văn ngọc	2
-nguyễn văn sơn	1
-nguyễn văn thiết	2
-nguyễn văn thiển	2
+nguyễn văn cừ	7
+nguyễn văn dũng	1
+nguyễn văn dậu	2
+nguyễn văn hiển	3
+nguyễn văn hiệu	1
+nguyễn văn hoằng	1
+nguyễn văn huyến	1
+nguyễn văn hà	1
+nguyễn văn hùng	2
+nguyễn văn hữu	2
+nguyễn văn la	2
+nguyễn văn linh	1
+nguyễn văn ngọc	1
+nguyễn văn thiết	1
+nguyễn văn thiển	1
 nguyễn văn thăng	2
-nguyễn văn thảo	2
-nguyễn văn trỗi	10
-nguyễn văn tuyền	9
-nguyễn văn từa	2
-nguyễn văn đình	1
+nguyễn văn thảo	1
+nguyễn văn thủy	2
+nguyễn văn triệu	3
+nguyễn văn trỗi	7
+nguyễn văn tuyền	6
+nguyễn văn tư	1
+nguyễn văn từa	1
+nguyễn văn đình	11
+nguyễn vĩnh liệu	3
 nguyễn vỹ	2
-nguyễn điệpttxvn	1
-nguyễn đình	14
-nguyễn đình hoàng	2
-nguyễn đình thiện	4
-nguyễn đình đức	3
-nguyễn đăng	2
-nguyễn đức	17
-nguyễn đức quang	1
+nguyễn xuân	2
+nguyễn ái	3
+nguyễn ái quốc	3
+nguyễn đình	12
+nguyễn đình hoàng	1
+nguyễn đình thiện	2
+nguyễn đức	12
 nguyện	1
-nguyện vọng	9
-nguồn	548
-nguồn gốc	12
-nguồn lực	38
+nguyện vọng	14
+nguồn	749
+nguồn gốc	6
+nguồn lực	37
 nguồn tin	1
 nguội	4
+nguời	2
 ngyên	1
 ngà ngà	1
 ngàn	7
 ngàn xưa	1
-ngành	299
+ngành	513
 ngành nghề	19
-ngànhchuyên	2
-ngànhliên	2
-ngànhlĩnh vực	1
-ngày	8865
-ngày càng	25
-ngày công	2
-ngày hội	1
+ngànhchuyên	1
+ngànhlĩnh vực	2
+ngày	7370
+ngày càng	52
+ngày công	3
+ngày giờ	1
+ngày hội	2
 ngày lễ	1
-ngày một	1
-ngày nay	11
-ngày sinh	9
+ngày mai	1
+ngày một	2
+ngày nay	12
+ngày sinh	12
+ngày sinh nhật	32
 ngày tháng	26
 ngày xưa	3
-ngày đêm	3
+ngày đêm	6
 ngàythángnăm	11
 ngách	1
 ngân	7
-ngân hàng	101
-ngân sách	85
-ngã	9
+ngân hàng	392
+ngân sách	879
+ngã	11
+ngãi	1
 ngón	1
 ngón tay	2
-ngô	37
-ngôi	7
+ngô	33
+ngôi	4
 ngôn	2
-ngôn ngữ	2
-ngõ	2
+ngôn ngữ	7
+ngõ	3
+ngõ cụt	2
 ngút	1
 ngút ngàn	2
-ngăn	6
-ngăn chặn	25
-ngăn cách	1
-ngăn kéo	1
-ngăn ngừa	3
-ngũ	7
+ngăn	4
+ngăn chặn	50
+ngăn ngừa	1
+ngũ	5
 ngơ	1
+ngư	1
 ngư nghiệp	1
-ngưng	9
-ngưng trệ	2
+ngưng	7
+ngưng trệ	1
 ngước	1
-người	1073
-người bệnh	3
-người dân	6
+người	1888
+người dân	8
 người kinh	1
-người người	1
-người ta	3
-người thân	5
+người ta	5
+người thân	15
 người yêu	6
-ngườivạn	1
+ngườinhưng	1
 ngưởi	1
-ngưỡng	1
-ngược	2
-ngược lại	4
-ngạch	7
-ngại	7
+ngưỡng mộ	1
+ngược	1
+ngược lại	3
+ngạch	69
+ngại	11
 ngả bóng	1
 ngầm	6
 ngẩng	1
 ngẫu hứng	1
-ngập	4
-ngập lụt	1
+ngẫu nhiên	2
+ngập	14
 ngắm	7
-ngắn	16
-ngắn gọn	1
-ngắn hạn	3
-ngọ	2
-ngọc	116
-ngọc bích	3
-ngọc hoàng	5
-ngọc thạch	9
+ngắn	11
+ngắn gọn	4
+ngắn hạn	2
+ngọ	1
+ngọc	127
+ngọc bích	2
+ngọc dung	1
+ngọc hoàng	3
+ngọc thạch	5
 ngọn	17
 ngọt	1
-ngồi	12
-ngợi ca	1
-ngụ	6
-ngừa	2
-ngừng	21
+ngồi	11
+ngợi ca	2
+ngụ	17
+ngừa	10
+ngừng	44
 ngự trị	1
 ngựa	2
-ngực	2
-nha	5
+ngực	1
+nha	4
+nham hiểm	1
+nhan	2
 nhandancomvn	1
-nhanh	63
-nhanh chóng	26
+nhanh	225
+nhanh chóng	31
+nhanh nhạy	1
 nhatranggo	1
-nhau	79
+nhau	92
 nhi	7
 nhi đồng	2
-nhim	6
+nhim	71
 nhimbảo	1
-nhiên	8
+nhiên	4
 nhiên liệu	1
-nhiều	409
-nhiễm	9
-nhiễm bệnh	2
-nhiễu	1
+nhiều	481
+nhiễm	10
+nhiễm bệnh	1
+nhiễu	3
 nhiệm	3
-nhiệm kỳ	53
-nhiệm vụ	457
+nhiệm kỳ	175
+nhiệm vụ	1269
+nhiệt	5
 nhiệt huyết	2
-nhiệt tình	1
-nhiệt độ	23
-nhiệt đới	4
-nhnnlamdonggovvn	2
+nhiệt liệt	1
+nhiệt tình	2
+nhiệt điện	2
+nhiệt độ	17
+nhiệt đới	7
+nhnnlamdonggovvn	1
 nho giáo	2
 nho nhỏ	1
-nhu cầu	116
-nhung	33
-nhungvttlamdonggovvn	2
-nhuần nhuyễn	1
-nhuận	3
-nhuộm	6
-nhà	151
-nhà báo	2
-nhà bè	2
-nhà bếp	6
-nhà chung	4
-nhà cung cấp	3
-nhà cửa	1
-nhà giáo	14
+nht	3
+nhtm	1
+nhu cầu	134
+nhu yếu phẩm	2
+nhung	18
+nhungvttlamdonggovvn	1
+nhuận	1
+nhuộm	4
+nhà	176
+nhà báo	21
+nhà bếp	1
+nhà chung	5
+nhà chức trách	1
+nhà cung cấp	5
+nhà cửa	2
+nhà giáo	12
 nhà giáo viên	1
-nhà hàng	37
-nhà khoa học	31
-nhà khách	1
-nhà kính	15
-nhà máy	16
+nhà hàng	27
+nhà khoa học	30
+nhà khách	32
+nhà kính	2
+nhà máy	31
 nhà máy điện	1
-nhà nghiên cứu	2
-nhà nước	310
+nhà mạng	1
+nhà mạng di động	1
+nhà nghiên cứu	1
+nhà nghỉ	3
+nhà nước	588
 nhà nước ngoài	1
+nhà riêng	1
 nhà rông	1
 nhà rường	1
-nhà sàn	1
-nhà thầu	5
-nhà thờ	10
-nhà trường	26
+nhà sàn	2
+nhà sản xuất	2
+nhà thuốc	5
+nhà thầu	3
+nhà thờ	20
+nhà trường	37
+nhà trọ	5
+nhà tầng	2
+nhà văn	5
 nhà vệ sinh	1
-nhà xe	18
-nhà xuất bản	3
-nhà xưởng	4
-nhà đầu tư	30
-nhà đầu tư doanh nghiệp	1
+nhà xe	30
+nhà xưởng	5
+nhà ăn	1
+nhà đầu tư	39
 nhà đầu tư lập	1
-nhà ở	1
-nhánh	5
+nhà ở	64
+nhánh	2
 nhánh hạ tầng	1
-nhát	2
-nhâm	6
+nháy	3
+nhâm	1
 nhâm nhi	2
-nhân	67
-nhân dân	398
+nhân	77
+nhân công truyền thống	1
+nhân duyên	1
+nhân dân	1001
 nhân dân cử tri	1
-nhân dân doanh nghiệp	1
-nhân dân phòng chống	1
-nhân dân tối cao	1
+nhân dân tối cao	2
 nhân dân viện	1
-nhân dịp	11
-nhân giống	2
+nhân dịp	19
+nhân giống	3
+nhân hòa b	2
 nhân khẩu	1
-nhân loại	4
-nhân lực	63
-nhân sự	8
+nhân loại	5
+nhân lực	37
+nhân quyền	5
+nhân sự	7
 nhân thân	2
-nhân trung	4
-nhân tài	2
-nhân tài bộ phận	1
+nhân tiện	1
+nhân trung	2
+nhân tài	1
 nhân tình thế thái	1
 nhân tín	1
-nhân tạo	7
-nhân tố	1
-nhân viên	28
-nhân văn	4
-nhân ái	4
-nhãn	4
-nhãn hiệu	179
+nhân tạo	22
+nhân viên	18
+nhân văn	3
+nhân vật	1
+nhân ái	3
+nhân đạo	7
+nhâp	1
+nhâp ngũ	1
+nhãn hiệu	27
 nhè nhẹ	1
-nhì	1
-nhìn	50
-nhìn chung	4
-nhìn nhận	5
-nhóm	116
+nhì	8
+nhìn	42
+nhìn chung	3
+nhìn nhận	4
+nhóm	177
+nhómdoanh nghiệp	2
 nhô	1
-nhôm	2
-nhũng nhiễu	1
-như	449
-như là	2
-như thế	6
+nhôm	1
+nhơn trạch	1
+như	558
+như là	1
+như thế	3
 như thể	1
-như vậy	5
-nhưng	129
+như vậy	3
+nhưng	135
+nhường	2
 nhược điểm	1
-nhạc	3
+nhạc	4
 nhạc cụ	3
 nhạchoạ	1
 nhạt	1
-nhảy	2
+nhảm	1
+nhảy	3
 nhảy múa	2
+nhảy vọt	4
 nhảy ùm	1
-nhấn	2
-nhấn mạnh	45
-nhấp	2
+nhấn	20
+nhấn mạnh	61
+nhấp	1
 nhấp nhô	1
-nhất	161
+nhất	253
 nhất là	4
-nhất trí	10
+nhất quyết	1
+nhất quán	5
+nhất trí	15
 nhất định	5
-nhầm	1
-nhầm lẫn	4
-nhẫn	1
+nhầm lẫn	3
 nhậ	1
-nhận	98
-nhận biết	2
-nhận diện	31
-nhận dạng	4
-nhận lời	1
-nhận thức	33
-nhận xét	5
-nhận định	17
-nhập	22
-nhập cảnh	1
-nhập khẩu	28
-nhật	10
+nhậm chức	1
+nhận	146
+nhận diện	15
+nhận dạng	2
+nhận lời	3
+nhận thức	53
+nhận xét	7
+nhận định	14
+nhập	38
+nhập khẩu	46
+nhập ngũ	13
+nhật	77
 nhật ký	11
-nhậu	1
 nhắc	7
 nhắc nhở	2
-nhắm	2
+nhắm	3
 nhắm mắt	1
-nhắn	8
+nhắn	11
 nhắn nhủ	1
-nhắn tin	3
-nhằm	172
-nhẹ	8
+nhắn tin	4
+nhằm	232
+nhẹ	11
 nhẹ nhàng	3
-nhỉ	1
 nhị	1
 nhịp	3
 nhịp độ	1
-nhỏ	40
-nhỏ bé	1
-nhỏ giọt	2
-nhỏ lẻ	7
-nhốt	4
+nhỏ	62
+nhỏ lẻ	69
+nhỏ yếu	1
+nhốt	1
 nhồi	1
-nhộn nhịp	1
-nhớ	9
+nhộn nhịp	2
+nhớ	10
 nhớ đời	1
 nhới	1
-nhờ	16
+nhờ	23
 nhờ nhờ	1
-nhức nhối	2
-những	747
-nhựa	9
-nhựt	4
+nhức nhối	1
+những	807
+nhựa	8
+nhựt	3
+nicolas	1
+night	4
+nike	2
+nikkei	5
 nilon	3
-ninh	6
-ninh bình	2
+ninh	4
+ninh bình	124
 ninh gia	1
-ninh thuận	2
-ninhlehaiyahoocomvn	2
-niêm phong	1
-niêm yết	1
+ninh thuận	125
+ninhlehaiyahoocomvn	1
+niu	2
+niêm yết	2
 niêm yết giá	1
-niên hạn	6
-niềm	12
+niên giám	59
+niên hạn	52
+niềm	10
 niềm tin	1
+nk	8
 nlammephotography	1
-nlct	1
-nlđ	10
-nn	4
+nlct	9
+nlđ	6
+nma	1
+nn	3
+nnudcnc	37
 no	2
-no ấm	1
-noel	2
+no ấm	2
+nobel	31
+nobel hóa học	1
+noel	4
+noi	1
 noi gương	1
-non	7
+non	5
 non nước	1
+nong	3
+nonspecialized	1
+norvegian	1
+not	6
 novotel	1
-npa	1
-nq	3
-nqcp	18
-nqhđnd	28
-nqtu	2
+nq	11
+nqcp	31
+nqhđnd	30
+nqltubtvqhcpđctubtwmttqvn	1
+nqtu	10
 nqtw	14
+nqtư	1
 nqubtvqh	8
 ns	1
-nsnn	3
+nscl	1
+nsdlđ	1
+nsnn	12
 nstw	1
-nsđp	3
-nthm	3
-ntls	2
-ntm	29
-ntthoalamdonggovvn	2
-numbersymbol	1
-nuôi	33
-nuôi cấy mô	2
-nuôi dưỡng	2
-nuôi trồng	5
-nvcc	2
+nsđp	233
+nthm	4
+ntls	1
+ntm	48
+ntta	11
+ntthoalamdonggovvn	1
+ntỉnh	170
+number	1
+numbersymbol	2
+nuôi	37
+nuôi dưỡng	1
+nuôi trồng	20
+nvcc	1
 nvth	3
-nxb	2
 nxh	1
-nàng	21
-nào	55
-này	719
+nàng	19
+nào	52
+này	814
 náo nhiệt	1
-nâng	161
-nâng cấp	11
-né tránh	2
-nén	4
-nét	21
-nên	133
+náo nức	3
+nâ	1
+nâng	414
+nâng cấp	18
+nâu	1
+né	2
+né tránh	8
+nén	3
+nét	19
+nên	150
 nên thơ	1
-nêu	65
-nêu gương	1
-nòng cốt	6
-nó	17
-nói	45
-nói chung	22
+nêu	50
+nòi	1
+nòng cốt	3
+nó	7
+nói	58
+nói chung	25
 nói chuyện	2
-nói riêng	15
-nóng	4
+nói riêng	17
+nói xấu	1
+nóng	23
+nóng hổi	1
 nô lệ	2
 nôm	3
-nông	8
-nông dân	58
-nông lâm	7
-nông lâm nghiệp	5
-nông lâm sinh học	10
+nông	127
+nông dân	51
+nông hộ	4
+nông lâm	11
+nông lâm nghiệp	2
+nông lâm sinh học	7
 nông lâm sinh học vị trí	3
-nông lâm sản vật liệu	1
 nông lâm trường	3
-nông nghiệp	160
-nông sản	29
-nông thôn	81
+nông nghiệp	755
+nông sản	32
+nông thôn	780
 nông trại	1
 nùng	3
-núi	82
+núi	123
 núi rừng	15
-nút	4
-năm	1077
-năm học	7
-năng lượng	2
-năng lực	44
-năng suất	19
-năng động	16
+nút	5
+năm	4641
+năm hạn	2
+năm học	13
+năm tháng	1
+năng lượng	51
+năng lực	156
+năng suất	31
+năng động	11
 nđ	3
-nđcp	85
+nđcp	172
 nđcpchính	1
-nơi	137
+nơi	256
 nương	3
-nương rẫy	2
-nước	294
-nước lớn	2
-nước ngoài	89
-nước ngầm	10
-nước ngọt	1
+nương rẫy	1
+nước	869
+nước biển	5
+nước lớn	1
+nước ngoài	151
+nước ngầm	12
+nước ngọt	3
 nước nhà	2
-nước rút	1
-nước sạch	6
-nước thải	12
+nước sạch	4
+nước thải	16
 nước trắng xóa	1
 nướcdâu	1
-nướng	1
+nướcđội ngũ	1
+nướng	4
 nườm nượp	1
-nạc	1
-nạn	4
+nạn	19
 nạn nhân	12
-nạn nhân tử vong	1
-nạo vét	1
-nạp	3
+nạp	4
 nản lòng	1
+nảy sinh	3
+nấm	45
+nấm hương	2
 nấu	1
 nấu nướng	2
-nắm	26
-nắm bắt	12
+nấu ăn	1
+nắm	28
+nắm bắt	18
+nắm bắt nguồn	1
 nắng	8
-nắng mưa	1
-nằm	71
-nẵng	11
-nặng	14
-nặng nề	6
-nếp	5
-nếu	119
+nằm	62
+nẵng	142
+nặng	9
+nặng lòng	1
+nặng nề	11
+nếp	4
+nết	3
+nếu	108
 nếu như	3
-nền	54
-nền tảng	70
+nền	98
+nền móng	1
+nền tảng	101
+nể nang	6
 nỏ	1
-nối	7
+nối	93
+nối dài	1
 nối liền	1
 nối tiếp	1
-nối đuôi	1
-nồng	1
 nồng nàn	1
-nồng nặc	1
-nồng ấm	1
-nổ	4
-nổi	5
-nổi bật	13
-nổi cộm	3
+nồng nặc	121
+nồng ấm	2
+nổ	13
+nổi	7
+nổi bật	272
+nổi cộm	1
 nổi giận	1
-nổi tiếng	11
-nỗ lực	37
+nổi tiếng	13
+nỗ lực	76
 nỗi	5
-nội	21
-nội bộ	9
+nội	156
+nội bộ	34
 nội chính	1
-nội dung	290
+nội dung	508
 nội dung hợp tác	1
-nội hàm	1
-nội lực	9
-nội quy	12
-nội thất	4
-nội trú	2
-nội trị	1
+nội lực	10
+nội quy	20
+nội thất	2
+nội trú	4
 nội trợ	4
-nội tại	2
-nội tỉnh	2
-nội vụ	8
-nội địa	3
-nội đồng	2
-nộp	59
-nở	1
-nợ	16
-nợ đọng	3
-nụ	4
+nội tệ	1
+nội tỉnh	3
+nội vụ	312
+nội vụ việc	1
+nội địa	28
+nội địa hóa	1
+nộp	82
+nới lỏng	2
+nở	2
+nợ	27
+nợ đọng	2
+nụ	2
 nức nở	1
-nữ	102
+nửa	4
+nữ	76
 nữ giới	1
-nữa	37
-o	1
-oaipmh	2
-oc	6
-ocop	1
-oecd	1
-of	16
+nữa	49
+o	2
+oaipmh	1
+oanh	1
+oanh liệt	1
+oecd	5
+of	31
+of lam	3
+office	573
+officers	1
+officials	2
+offline	2
 oi bức	1
-olympic	1
+oil	1
+olmvn	1
+olympic	2
+omamo	1
+omnichannel	1
+on	18
+one	1
+onebusiness	1
 oneway	4
-online	16
-open	3
-openpgp	1
+online	79
+open	1
+operational	1
 opiats	1
 oppo	1
+ores	1
 organic	1
-organization	1
-organizations	1
-oswaldo	2
+orly	4
+oslo	1
 other	2
+othernews	8
 otp	1
 ott	1
+our	1
+out	2
+outgoing	1
 over	1
-oxford	3
-oxy	1
-oyfzarczyq	2
+overview	1
+oxford	6
+oxy	2
+oyfzarczyq	1
 ozone	1
-p	146
-pal	3
+p	112
+pa	1
+page	2
+pages	10
+palace	1
+palestine	5
 panduranga	2
-part	2
-password	1
-pasteur	3
+paphiopedilum	7
+paphiopedium	2
+papi	2
+paris	23
+park	3
+participate	1
+party	2
+pasteur	7
 pastuer	1
-pay	2
-pc	2
-pchánh	2
-pci	1
-pctn	1
-pcđnte	2
-peglambda	1
-pgs	3
-pgsts	3
-pgđ	8
-ph	5
-pha chế	1
-pha trộn	1
-pham	1
-phan	56
+patapoutian	1
+patrice	1
+pay	3
+paying	1
+pb	1
+pc	86
+pca	1
+pchánh	1
+pci	6
+pcr	1
+pctn	2
+pctnpdf	1
+pcđnte	1
+pdf	9
+pe	1
+pedagogical	1
+people	1
+people’s	1
+performance	1
+period	7
+periods	1
+permission	1
+permissions	572
+pernn	2
+pertaining	1
+pgs	8
+pgsts	1
+pgđ	14
+ph	3
+pha chế	2
+pham	3
+phan	31
 phan bá	2
-phan huy	4
-phan khắc huy	3
-phan lệ	6
+phan huy	2
+phan khắc huy	2
+phan lệ	3
 phan rang	1
-phan thị	15
-phan thị lệ	2
+phan thị	11
+phan thị lệ	1
+phan văn	1
 phan văn mãi	1
-phan đình	9
-pharmacy	2
-phcn	2
-phenikaa	2
-phep	1
-phi	37
-phi chính phủ	3
+phan đình	14
+phenikaa	1
+phi	49
+phi chính phủ	54
 philieng	1
-philipines	2
 philippines	1
-philtlamdonggovvn	2
-phim	8
-phinom	2
-phiên	64
-phiên bản	1
-phiên tòa	5
+philtlamdonggovvn	1
+phim	12
+phim tài liệu	1
+phim ảnh	1
+phinom	1
+phiên	72
+phiên bản	6
+phiên tòa	4
 phiên âm	1
 phiêntháng	1
 phiêu	1
 phiêu lưu	1
-phiếu	7
+phiếu	68
 phiếu bầu	1
-phiền	2
+phiền	3
 phiền hà	6
+phoi_signedpdf	1
+phoidoc	1
 phone	28
-phong	20
-phong cách	5
+phong	28
+phong cách	8
 phong cảnh	1
 phong kiến	3
-phong phú	12
-phong thành phố	3
+phong phú	17
+phong thành phố	2
 phong thổ	1
-phong trào	43
+phong trào	72
 phong tỏa	1
 phong tục	3
-phongdaynghelamdonggmailcom	2
 photo	1
-phu	3
+phu	2
 phu tử	1
-phun	8
-phuongvvlamdonggovvn	2
-phá	10
-phá sản	5
+phun	2
+phuongvvlamdonggovvn	1
+phàn nàn	1
+phá	14
+phá bỏ	2
+phá hoại	1
+phá hủy	1
+phá sản	3
+phái bộ	2
+phái đoàn	4
 phán quyết	3
-phán đoán	1
-pháo đài	1
-pháp	13
-pháp chế	30
-pháp luật	466
-pháp lý	133
-pháp lý do	4
+pháo	1
+pháo đài	5
+pháp	120
+pháp chế	104
+pháp luật	778
+pháp luật dân sự	1
+pháp luật hành chính	1
+pháp luật hình sự vụ việc	1
+pháp lý	319
+pháp lý do	2
 pháp lý hóa	1
 pháp lý số	2
+pháp lý sở	1
+pháp lý ủy ban	1
 pháp lệnh	3
-pháp nhân	4
+pháp ngữ	4
+pháp nhân	6
+pháp quy	86
+pháp quyền	1
 pháp thuộc	1
-pháp y	53
-phát	40
-phát biểu	56
-phát hiện	60
-phát huy	72
-phát huy hiệu quả	6
-phát hành	4
+pháp y	29
+pháp điển	7
+phát	63
+phát biểu	100
+phát hiện	82
+phát huy	86
+phát huy hiệu quả	9
+phát hành	31
 phát nguyên	1
-phát ngôn	4
-phát sinh	25
+phát ngôn	128
+phát sinh	30
 phát sinh trưởng phòng	3
-phát sóng	2
-phát thanh	1
-phát thanh truyền hình	2
-phát triển	608
+phát sóng	9
+phát thanh	6
+phát thanh truyền hình	4
+phát triển	1305
 phát tán	1
-phát động	22
-phân	10
-phân biệt	8
-phân bón	14
-phân bổ	24
-phân chia	5
-phân công	103
+phát xạ	4
+phát động	28
+phân	11
+phân ban	1
+phân biệt	3
+phân bón	9
+phân bố	8
+phân bổ	29
+phân chia	4
+phân công	110
 phân công cụ thể	2
-phân cấp	13
-phân khu	4
-phân loại	16
+phân công viên chức	1
+phân cấp	22
+phân hiệu	1
+phân khu	7
+phân loại	21
 phân luồng	3
-phân phối	5
-phân quyền	1
-phân rác	1
-phân tán	7
-phân tích	28
+phân nhiệm	1
+phân phối	6
+phân quyền	5
+phân tán	5
+phân tích	31
 phân viện	1
+phân vùng	7
 phân xưởng	1
 phân định	5
-phép	25
-phê	2
-phê bình	10
-phê chuẩn	5
-phê duyệt	98
-phí	59
+phép	162
+phê	1
+phê bình	12
+phê chuẩn	125
+phê duyệt	301
+phí	122
 phí hạ tầng	1
-phía	66
+phía	76
 phím	3
-phòng	517
+phòng	2036
 phòng bệnh	1
-phòng chống	258
-phòng chống lao	1
-phòng dịch	2
+phòng chống	1009
+phòng dịch	16
 phòng hộ	2
-phòng ngừa	12
-phòng thí nghiệm	2
-phòng thủ	1
+phòng ngừa	19
+phòng thí nghiệm	4
 phòng tránh	2
-phòng trừ	5
-phó	217
-phó chủ tịch	5
-phó giáo sư	13
+phòng vệ	32
+phó	250
+phó chủ tịch	4
+phó giáo sư	3
 phó hiệu trưởng	1
-phó phòng	2
+phó phòng	1
 phó thủ tướng	10
 phó trưởng đoàn	3
 phó tổng thanh tra	4
-phó vụ trưởng	1
-phóng	5
-phóng sự	4
-phóng viên	1
-phótrưởng	2
-phô	2
-phông chữ	2
-phù	3
-phù hợp	112
-phù hợp đồng thời	1
+phó vụ trưởng	2
+phóng	6
+phóng sự	2
+phóng viên	18
+phóng xạ	4
+phótrưởng	1
+phù	9
+phù hiệu	19
+phù hợp	149
+phù hợp đồng thời	3
 phù thủy	1
-phùng	15
+phùng	17
 phùng quốc	1
 phùng đức	1
 phùngnguyễn	1
-phú	85
-phúc	26
+phú	613
+phúc	15
+phúc khảo	1
 phúc lợi	2
 phúc đáp	1
-phút	6
+phúc đức	126
+phút	9
 phũ phàng	1
-phương	31
-phương chi	4
-phương châm	7
-phương diện	1
-phương hướng	8
-phương pháp	16
-phương pháp luận	2
-phương thức	22
-phương tiện	44
-phương tiện thông tin đại chúng	2
-phương án	58
-phương đông	2
-phước	36
-phướn	1
-phường	256
+phương	47
+phương chi	2
+phương châm	6
+phương hướng	20
+phương pháp	32
+phương pháp luận	4
+phương thức	35
+phương tiện	398
+phương tiện thông tin đại chúng	3
+phương án	93
+phương đông	3
+phước	19
+phướn	2
+phường	320
 phượng	1
 phượng hoàng	1
 phượt thủ	3
-phạm	215
-phạm ngũ	2
+phạm	306
+phạm ngũ	1
 phạm nhân tiện	1
 phạm trù	1
-phạm tội	2
-phạm vi	65
+phạm tội	9
+phạm vi	78
+phạm vi hành lang	2
 phạmchủ	1
-phạt	14
-phạt tiền	1
-phạt tù	1
-phải	300
+phạt	28
+phả	2
+phải	365
 phải chăng	2
-phản biện	6
-phản bác	5
+phản biện	7
+phản bác	10
 phản cảm	1
-phản hồi	3
-phản ánh	35
-phản ảnh	2
-phản ứng	1
-phản ứng trực tiếp	1
+phản hồi	2
+phản ánh	117
+phản động	1
+phản ảnh	4
 phảng phất	1
-phấn đấu	28
-phần	39
-phần cứng	2
-phần lớn	4
-phần mềm	25
-phần nhiều	1
-phần nào	4
+phấn khởi	1
+phấn đấu	39
+phần	43
+phần cứng	3
+phần lớn	6
+phần mềm	54
+phần nào	2
 phần thưởng	1
-phần trăm	7
-phần việc	1
+phần trăm	6
+phần tử	1
+phần việc	2
 phẩm	1
-phẩm chất	7
+phẩm chất	13
+phẩmdịch	6
 phẩn	1
 phật	1
+phật giáo	1
+phật giáo tỉnh	1
 phẳng	1
 phẳng lặng	4
 phế liệu	1
-phế nang	1
 phế phẩm	1
-phỉ	2
+phỉ	1
 phỏng	1
-phỏng vấn	18
+phỏng vấn	105
 phố	6
 phối	2
-phối hợp	214
-phồn vinh hạnh phúc	2
-phổ biến	72
-phổ thông	16
+phối hợp	251
+phổ	4
+phổ biến	181
+phổ cập	2
+phổ thông	15
 phổ yên	1
-phổi	3
-phớc	2
+phở	4
 phụ	9
-phụ cận	3
-phụ gia	2
+phụ cấp	44
+phụ cận	6
+phụ gia	3
 phụ gia sản xuất	1
-phụ huynh	5
-phụ kiện	1
-phụ lục	14
-phụ nữ	18
-phụ phẩm	1
-phụ thuộc	6
-phụ trách	20
-phụ trợ	1
+phụ huynh	7
+phụ lục	23
+phụ nữ	216
+phụ phẩm	5
+phụ thuộc	9
+phụ trách	23
+phụ trợ	2
 phụ tải điện	2
-phục	3
-phục hóa	1
-phục hồi	35
+phục	1
+phục hồi	44
 phục tùng	3
-phục vụ	102
+phục vụ	504
+phục vụ việc	1
 phụng	4
 phụng dưỡng	1
 phụng hoàng	1
-phủ	8
-phủ nhận	5
+phụng sự	1
+phủ	21
+phủ nhận	2
 phủ phục	1
 phủ phục hóa	1
-phủ sóng	1
+phủ sóng	5
 phủvv	1
 phức hợp	1
-phức tạp	49
+phức tạp	61
 picnic	1
+picture	1
 ping	1
-pipra	2
-pjico	2
-pl_cyvyux	10
-pl_cyvyuxhoo	2
-pl_cyvyuxhopvcljmijiqkj	2
-pl_cyvyuxhoqnqe	2
+pizza	3
+pk	2
+pkhtc	2
+pl_cyvyux	5
+pl_cyvyuxhoo	1
+pl_cyvyuxhopvcljmijiqkj	1
+pl_cyvyuxhoqnqe	1
 place	1
-platformenabled	1
-play	2
-plug	2
-poh	1
-polytechnic	1
+plan	22
+planning	3
+platformenabled	2
+play	1
+pm	2
+pmi	2
+pn	43
+podcast	47
+point	1
+policies	4
+policy	1
+politburo	1
+polyspora	8
+polytechnic	2
 pon	2
-pongour	21
+pongour	24
+population	2
+port	2
+portal	148
+poseftposedc	2
+position	1
+post	2
+postbank	2
 postcard	6
-poster	3
-pp	4
-ppp	3
-practical	2
-practices	2
-prenn	16
-prf	2
-project	2
-property	16
-protocol	2
+poster	5
+postmartvn	1
+power	1
+ppp	1
+pqlgt	2
+pqlht	2
+pqlvt	3
+practical	1
+prenn	18
+president	2
+prev	1
+prevention	1
+prime	1
+profle	2
+prog	1
+program	4
+programs	1
+project	3
+projects	2
+promulgating	1
+protocol	1
+province	19
+provincial	2
+provisions	1
 prst	1
 pró	1
-pt	16
+pt	2
+ptcgđb	172
+ptd	3
 ptht	6
-pthtkcnlocsonphuhoilamdonggovvn	4
-ptnt	7
-ptrưởng	16
+pthtkcnlocsonphuhoilamdonggovvn	3
+ptnt	1
+ptrưởng	8
 ptth	1
-published	1
-publishing	2
-pung	2
-pv	1
-px	2
+public	3
+published	2
+pung	1
+pure	1
+purpose	1
+purposes	1
+pvtm	54
+pwc	1
+px	3
 pá	1
-pân	2
+pân	1
 pó	1
-púng	1
+pôvêđa	1
+păk	1
+păng	2
+pđh	4
 q	8
-qbvptrlamdonggovvn	2
-qdndvn	1
-qdtptlamdonggovvn	2
-qh	33
-ql	14
-qla	2
-qlda	6
-qlgt	2
-qlht	6
-qlvt	12
-qppl	2
-qpplcòn	1
-qptkhcn	1
-qr	13
+qai	3
+qbvptrlamdonggovvn	1
+qd	2
+qdndvn	3
+qdtptlamdonggovvn	1
+qg	2
+qh	36
+qk	3
+ql	114
+qla	1
+qlcbccvc	2
+qlcn	5
+qlda	2
+qlgt	4
+qlht	8
+qlhtgt	1
+qlnn	1
+qltc	1
+qlvt	13
+qn	2
+qppl	486
+qr	16
+qsd	30
+qsdđ	3
+qt	1
 qtrưởng	1
-qua	273
-qua loa	1
-qua lại	2
+qu	1
+qua	379
+qua loa	3
+qua mặt	1
 qua đời	1
-quan	1
-quan chức	2
-quan hệ	66
-quan liêu	3
+quality	3
+quan	4
+quan chức	1
+quan hệ	77
+quan liêu	1
+quan ly	2
 quan ngại	2
 quan niệm	1
-quan sát	3
-quan trắc	2
-quan trọng	95
-quan tâm	76
-quan điểm	24
-quang	44
-quang cảnh	7
-quang lộc	2
-quang sơn	2
+quan sát	4
+quan sát viên	1
+quan trắc	3
+quan trọng	116
+quan tâm	113
+quan điểm	31
+quang	34
+quang cảnh	12
+quang hưng	1
+quang lộc	1
 quang thành	1
 quang tiến	1
-quang trung	7
-quang tuyến	3
+quang trung	14
+quang tuyến	2
 quanh	9
 quanh co	2
-quanh năm	5
-quay	9
-quay cuồng	1
-quay vòng	1
-queen	2
+quanh năm	4
+quay	14
+queensland	1
 quen	1
-quen thuộc	4
-qui	2
+quen thuộc	1
+qui	1
 qui mô	1
-qui định	7
-quy	3
-quy chuẩn	3
-quy chế	65
-quy hoạch	135
-quy hoạch hạ tầng	1
+qui phạm	22
+qui định	8
+quy	4
+quy chuẩn	8
+quy chế	200
+quy hoạch	2211
 quy hoạch vùng	4
+quy hoạch định	1
 quy luật	2
-quy mô	49
-quy phạm	2
-quy phạm pháp luật	64
-quy trình	54
-quy tắc	10
-quy tụ	1
-quy định	747
-quy ước	2
+quy mô	82
+quy nhơn	3
+quy phạm pháp luật	103
+quy trình	72
+quy trình thanh tra	30
+quy tắc	136
+quy định	966
+quy định hạn	2
+quy đổi	3
+quy ước	1
+quyet	1
+quyetthlamdonggovvn	1
 quyn	1
-quynhbnlamdonggovvn	2
-quyên	5
-quyên góp	1
-quyêt	1
+quynhbnlamdonggovvn	1
+quyên	4
+quyên góp	2
 quyến rũ	4
-quyết	4
+quyết	36
 quyết liệt	24
-quyết sách	3
-quyết thắng	2
-quyết toán	17
-quyết tâm	22
-quyết định	398
-quyết định sở	2
-quyền	188
-quyền hạn	54
-quyền lợi	8
+quyết sách	1
+quyết thắng	1
+quyết toán	163
+quyết tâm	33
+quyết định	959
+quyết định giá	1
+quyết định sở	1
+quyền	367
+quyền hạn	174
+quyền lợi	9
 quyền lợi ích	7
-quyền lực	1
-quyền sở hữu	37
+quyền lực	2
+quyền sở hữu	18
 quyền sở hữu quyền	3
-quyền sở hữu trí tuệ	14
+quyền sở hữu trí tuệ	21
 quyện	1
-quà	19
-quá	26
-quá khứ	3
-quá trình	100
-quá tải	1
+quà	40
+quá	30
+quá khứ	2
+quá trình	145
+quá tải	5
 quá đỗi	1
-quán	18
-quán triệt	10
+quán	55
+quán triệt	24
 quân	5
-quân chủng	1
+quân bị	1
 quân công	1
 quân dân	1
-quân phục	2
-quân sự	7
-quân đội	12
-quân đội ngũ	2
+quân số	3
+quân sự	25
+quân đội	44
 quân ủy	1
-quây	1
 quây quần	1
 quãng	1
-quét	2
+quét	3
 quê	2
-quê hương	3
+quê hương	5
 quên	3
-quý	50
-quý báu	2
-quý hiếm	1
-quý khách	2
+quý	68
+quý báu	4
+quý hiếm	22
+quý khách	1
 quý phái	1
-quý sơn	2
+quý sơn	1
 quý trọng	1
-quýt	1
 quạt	1
-quả	11
-quả tang	3
+quả	6
+quả tang	11
 quả thực	1
-quản	24
-quản lý	924
-quản lý số	3
+quản	77
+quản lý	2295
+quản lý số	2
 quản lý trưởng	2
-quản lý tài chính	2
-quản lý tài sản	5
-quản trị	139
-quảng	7
-quảng bá	8
-quảng bình	1
-quảng cáo	6
-quảng lạc	3
-quảng nam	1
-quảng ngãi	2
-quảng ninh	8
-quảng thị trấn	2
-quảng trị	20
-quảngày	1
+quản lý tài chính	4
+quản lý tài sản	7
+quản trị	78
+quảng	127
+quảng bá	16
+quảng bình	124
+quảng cáo	11
+quảng nam	2
+quảng ngãi	124
+quảng ninh	126
+quảng thị trấn	1
+quảng trị	127
 quấn quýt	1
 quấy phá	1
-quần	1
-quần chúng	9
-quần quật	1
-quần áo	1
-quầy	1
+quần chúng	20
+quần áo	3
 quẩn quanh	1
-quận	14
+quận	15
+quận ủy	11
+quật ngã	1
 quặng	2
-quế	4
-quốc	23
-quốc doanh	3
-quốc gia	154
+quế	3
+quế minh	1
+quốc	49
+quốc doanh	5
+quốc dân	2
+quốc gia	299
 quốc gia giảm	1
 quốc gia thuộc	1
-quốc hội	236
+quốc hội	646
 quốc hội nghị quyết	1
-quốc khánh	2
-quốc lộ	25
-quốc oai	5
-quốc phòng	35
+quốc khánh	4
+quốc lộ	236
+quốc oai	4
+quốc phòng	156
 quốc trưởng	2
-quốc tế	138
-quốc tịch	18
+quốc tế	245
+quốc tịch	15
+quốchồ	3
 quỳ	1
 quỳnh	10
 quỵ	1
-quỹ	37
+quỹ	114
 quỹ tín dụng	3
+qv	6
+qx	1
 qúy	3
-qđ	11
+qđ	25
+qđbgtvt	3
+qđbnv	7
 qđbtc	3
-qđbtp	28
+qđbtnmt	1
+qđbtp	16
 qđbvhttdl	1
 qđbyt	2
-qđlđtbxh	2
+qđlđtbxh	1
+qđnd	2
 qđsgtvt	1
-qđskhcn	4
-qđslđtbxh	1
-qđstp	5
-qđtcgdnn	1
-qđttg	24
-qđttr	4
-qđtw	20
+qđskhcn	18
+qđslđtbxh	2
+qđstc	1
+qđstnmt	1
+qđstp	2
+qđtc	1
+qđttg	42
+qđttr	7
+qđtu	8
+qđtw	11
 qđub	5
 qđubnc	1
-qđubnd	56
+qđubnd	177
 qđubtc	3
 qũy	2
 qủa	2
 qủan	1
-r	1
-ra	397
-ra lệnh	2
-ra mắt	6
-ra sao	4
-ra sức	2
+r	4
+ra	461
+ra lệnh	3
+ra mắt	13
+ra quân	4
+ra sao	3
+ra sức	4
 ra vào	6
 ra đời	10
+rachỉ	1
 raglay	1
+raimondo	1
 rang	1
-ranh giới	7
-ransomware	1
-rating	2
-rau	13
-rau màu	1
-rau quả	6
+ranh giới	9
+ransomware	6
+rating	1
+ratting	1
+rau	15
+rau quả	4
+rau sạch	2
+raychelle	1
 rađa	1
-rebrand	2
+reactempty	26499
+reacttext	177214
+readmetxt	1
+recognises	1
+records	1
 redwildhorse	1
-refresh	2
-regions	2
-relevant	2
+reef	1
+regarding	1
+regimes	1
+regulation	1
+regulations	2
+relics	1
+relocation	1
+renaming	1
 reo	2
 reo hò	1
-research	4
-researcher	2
-reset	1
+rep	1
+reported	1
+res	9
+residential	2
+resolution	10
+resolve	1
 resort	16
+resources	3
 responsible	1
-review	6
+ressa	1
+results	1
+reuters	1
+revenues	2
+revolution	1
 revue	1
-rio	2
-ris	1
-risk	1
-riêng	37
-riêng biệt	9
-riêng tư	4
-robot	1
+rfdgovvn	2
+rhododendron	8
+richard	3
+riêng	60
+riêng biệt	2
+riêng tư	2
+rlơm	60
+robot	12
+robyn	6
+roussel	1
+rtpcr	2
 rung	2
-rung chuyển	2
+rung chuyển	1
+rural	2
 ruyền	1
-ruộng đất	2
-ruột	2
-rà soát	121
-ràng buộc	4
+ruột	1
+rà	1
+rà soát	105
+ràng buộc	2
 rào chắn	1
-rào cản	2
+rào cản	7
 rào rào	1
-rác	3
-rác thải	7
+rác	9
+rác thải	6
 rách	2
-rãnh	2
-rèn luyện	3
+rán	1
+rèn luyện	7
 rét	1
+rêu rao	1
 rì rào	1
 rì rầm	1
+ròng	5
+ròng rã	1
 róc rách	1
-rón	1
-rô men	2
-rôn	2
-rông	70
-rõ	475
-rõ ràng	5
-rõ rệt	5
-rút	25
-rút gọn	3
+rô men	3
+rôn	4
+rông	218
+rõ	566
+rõ ràng	9
+rõ rệt	8
+rút	17
+rút gọn	2
 rút tiền	1
-răn đe	1
-rơ	2
+răn đe	4
 rơi	7
 rơmis	1
-rơmoóc	1
 rơwoa	5
-rườm	2
-rưỡi	1
 rượt	1
-rượu	10
+rượu	9
 rượu bia	1
 rượu cần	3
-rạch ròi	1
 rải	1
-rải rác	1
 rảnh	1
-rảnh rỗi	4
-rất	150
+rảnh rỗi	2
+rất	275
 rất đỗi	1
-rầy nâu	2
-rắn	6
+rắn	7
 rằm	2
-rằng	60
-rẻ	4
-rẽ	5
-rễ	2
+rằng	63
+rằngnếu	1
+rẻ	5
+rẽ	4
+rễ	1
 rọi	1
-rồi	20
-rồng	2
+rối	1
+rồi	19
 rộn rã	1
-rộng	54
-rộng lớn	3
-rộng rãi	6
-rời	5
+rộng	58
+rộng khắp	1
+rộng lớn	4
+rộng rãi	10
+rời	6
+rời mắt	1
 rụi	1
-rủ	3
-rủi ro	16
-rừng	131
+rủ	2
+rủi ro	8
+rừng	141
 rừng cấm	1
 rừng già	1
 rừng núi	1
-rừng phòng hộ	1
-rừng sản xuất	1
+rừng phòng hộ	2
 rừng thông	3
 rừng xanh	2
-rửa	10
+rửa	7
 rực rỡ	5
 s	3
-sa	6
+sa	8
 sa pa	1
-sa thải	5
-sac	1
-sai	24
-sai lầm	1
+sa thải	3
+sabah	1
+sacombank	1
+safe	1
+safran	3
+sai	31
+sai lầm	2
 sai lệch	1
-sai phạm	13
+sai phạm	14
 sai sót	1
-sai số	2
-sai trái	5
-sakai	2
+sai trái	10
+sakai	1
+salaries	1
+salon	5
+salvador	1
 samot	1
 samsung	2
-san	3
-san sẻ	1
-sang	48
+san	7
+san ủi	2
+sanbox	1
+sandwich	1
+sang	52
 sang nhượng	1
 sang trọng	1
-sanh	1
-sao	5
+sanh	2
+sanofi	3
+sao	33
+sao chép	4
 sao lục	3
 sao đành	1
-sar	1
+sar	136
 sar thác	1
-sarah	2
-sarcov	2
-sars	1
-sarscov	9
-sau	279
-sau đại học	2
+sarcov	1
+sarscov	17
+satisfactory	1
+sau	474
+sau đại học	1
 say	1
 say đắm	1
-schwab	3
-science	7
-scopus	3
-scotland	1
-sctlamdonggovvn	2
-sctqlcn	2
-se	10
-security	2
-series	4
-sfkwbisda	2
-sgddtlamdonggovvn	2
-sgtvtlamdonggovvn	92
-shahid	2
+scotland	4
+sctlamdonggovvn	1
+sd	61
+se	6
+search	1
+security	1
+see	1
+seizes	1
+selfdefense	2
+sen	2
+sendo	1
+september	1
+servants	1
+service	3
+set	1
+settlement	2
+sewerage	1
+sfkwbisda	1
+sg	1
+sgddtlamdonggovvn	1
+sgtvtlamdonggovvn	135
 share	2
 sharing	2
-shcn	20
-shin	1
+shark	1
+shinhan	4
+ships	1
+shlx	1
+shop	4
 show	2
-shtt	90
-sim	1
-sing	5
-singapore	3
-sinh	22
-sinh hoạt	31
-sinh học	14
+showroom	1
+shows	1
+shtt	19
+signedpdf	3
+sim	2
+singapore	9
+sinh	17
+sinh hoạt	39
+sinh học	33
+sinh học sinh thái	3
 sinh học vị trí	1
-sinh kế	3
-sinh lý	1
+sinh kế	2
+sinh lý	3
 sinh mạng	1
-sinh mệnh	1
-sinh nhật	3
+sinh nhật	1
 sinh quyển	1
-sinh sống	13
-sinh thái	4
-sinh thái học	1
-sinh tồn	2
-sinh viên	31
-sinh vật	3
-sinh động	6
-siêu	1
-siêu dữ liệu	2
-siêu thị	2
-skhcnlamdonggovvn	42
-skhcnqlcn	5
-skhcnqlkh	4
-skhcnvp	6
-skhdtlamdonggovvn	2
-slc	8
-sldtbxhlamdonggovvn	18
-slogan	2
-slđtbxh	17
+sinh sản	4
+sinh sống	9
+sinh thái	6
+sinh thái học	2
+sinh thời	1
+sinh trưởng	4
+sinh viên	50
+sinh vật	1
+sinh động	14
+sinopharm	5
+sinovac	2
+site	746
+sitemap	106
+siêu	2
+siêu dữ liệu	1
+siêu thị	1
+siết	3
+sk	12
+skhcnlamdonggovvn	37
+skhcnqlcn	3
+skhcnqlkh	1
+skhcnvp	5
+skhdtlamdonggovvn	1
+sl	1
+slc	4
+sldtbxhlamdonggovvn	17
+slow	1
+slđtbxh	18
 slđtbxhbtxh	2
-slđtbxhdn	3
+slđtbxhdn	2
 slđtbxhlđtl	3
-small	2
-smas	1
-smu	2
-sn	2
-snnptntlamdonggovvn	2
-snvlamdonggovvn	2
-so	123
-so sánh	7
-social	1
+small	1
+smartca	1
+smartphone	1
+smas	2
+sme	13
+smic	1
+sn	4
+snnptntlamdonggovvn	1
+snv	1
+snvccvc	4
+snvlamdonggovvn	32
+snvđtqlcbcc	2
+so	99
+so sánh	3
+socioeconomic	1
 soda	1
-soi	2
+soi	1
 soi bóng	2
 soi rọi	1
-som	2
-sombatsompop	1
+somalia	4
+son	1
 son sắt	1
-song	13
-song phương	1
-song song	4
-songoaivulamdonggovvn	2
-soát	1
-soạn	1
-soạn thảo	57
-spa	1
-sports	2
-spp	1
-springer	2
-spss	2
+sondnlamdonggovvn	1
+song	10
+song hành	1
+song phương	3
+song song	7
+songoaivulamdonggovvn	1
+soát	13
+soạn thảo	38
+speed	2
+spotify	3
+spp	41
+square	4
 sré	2
 srônh	1
-st	3
-standardization	1
-stanford	1
-starbucks	10
-startup	9
-startups	2
-stc	2
-stclamdonggovvn	3
+st	21
+staffs	1
+stage	1
+standee	2
+startup	5
+starup	4
+state	3
+stc	1
+stc lam	1
+stchcsn	7
+stclamdonggovvn	2
 stcns	3
 stcvp	1
-stnmtlamdonggovvn	64
+stcđt	2
+stnmtlamdonggovvn	60
+stnmtqlđđ	1
 stnmtđđbđ	1
-stockholm	2
-stp	7
-stpbttp	8
-stpcntt	1
-stpdktvb	1
-stphctp	1
-stplamdonggovvn	82
-stppbgdpl	3
-stpvp	4
-stpxdktvb	3
-strasbourg	2
-strategies	2
-stt	80
-sttttlamdonggovvn	37
+stockholm	1
+store	1
+stp	5
+stplamdonggovvn	99
+stpvp	1
+strategy	2
+stt	45
+sttttlamdonggovvn	45
+sttttttr	1
+stylist	2
+subsite	1
 suckhoedoisongvn	1
-summary	1
-summit	2
+sue	1
+summary	2
+summit	1
 sunfat	1
-sunfeel	2
+sunfeel	3
 sung	1
 sung quỹ	1
 super	1
+supplementing	1
+supply	1
+support	5
+survey	1
+sustainable	5
 suy	1
-suy dinh dưỡng	1
+suy dinh dưỡng	2
 suy giảm	2
-suy luận	2
-suy nghĩ	1
-suy thoái	9
-suất	13
-suối	25
+suy luận	1
+suy thoái	18
+suất	14
+suối	31
 suối thác	1
 suối tiên	1
-suối vàng	6
-suốt	32
-svhttdllamdonggovvn	2
+suối vàng	12
+suốt	47
+svhttdllamdonggovvn	1
 sx	1
-sxdlamdonggovvn	2
-sxtm	2
-system	1
-systematic	2
-sytlamdonggovvn	2
+sxd	1
+sxdlamdonggovvn	1
+sxdqlxd	2
+sxdvp	2
+sxtm	1
+syria	5
+system	4
+sytlamdonggovvn	1
 sài	1
-sài gòn	15
-sàn	10
-sàng lọc	3
-sách	13
-sách báo	2
+sài gòn	13
+sàn	16
+sàng lọc	6
+sách	25
+sách báo	3
+sách giáo khoa	2
 sách đỏ	1
-sáchchia	1
+sáchchia	2
 sáchthuế	1
-sáng	102
-sáng chế	28
-sáng kiến	15
+sái	2
+sáng	196
+sáng chế	27
+sáng chế tài sản	2
+sáng kiến	22
 sáng láng	1
-sáng lập	1
-sáng tạo	90
+sáng lập	2
+sáng tác	4
+sáng tạo	354
+sáng tạo tác phẩm	2
 sáng tỏ	1
 sánh	1
-sánh vai	2
 sáo	1
-sáp nhập	14
-sát	28
-sát hạch	1
-sát khuẩn	13
-sát sao	1
+sáp nhập	16
+sát	55
+sát cánh	1
+sát hạch	956
+sát hạch lạc	13
+sát khuẩn	4
+sát nhập	1
+sát sao	4
 sát sườn	1
-sáu	2
-sâm	8
+sáu	4
+sâm	5
 sân	4
-sân bay	7
-sân chơi	3
+sân bay	10
+sân chơi	5
 sân khấu	4
 sâu	33
-sâu bệnh	2
-sâu rộng	8
-sâu sát	1
-sâu sắc	5
-sét	4
+sâu rộng	13
+sâu sắc	25
+sâu xa	1
+sâu đậm	1
+sét	5
 sình	1
-sóng	3
-sót	1
-sô	5
+sóc	1
+sóc trăng	123
+sóng	4
+sô	4
 sôi nổi	5
-sôi động	2
-sôn	1
-sông	21
+sôi động	1
+sông	26
 sông công	1
 sông công hội nghị	1
-sông nước	1
-sùng	2
-súy	4
-să	2
+sông nước	2
+sùng	3
+súng	3
+súy	3
+să	3
 săn bắn	1
-sĩ	3
-sĩ quan	1
-sĩ số	1
-sơ	1
-sơ bộ	2
-sơ chế	1
-sơ cấp	5
-sơ hở	1
-sơ kết	13
-sơ thẩm	1
-sơ thẩm xét xử	2
-sơ tuyển	1
-sơ đồ	1
-sơn	60
+săn tìm	1
+sĩ	2
+sơ	4
+sơ bộ	4
+sơ cấp	3
+sơ kết	33
+sơ thẩm	3
+sơ thẩm xét xử	1
+sơ tuyển	6
+sơ đồ	20
+sơn	215
 sơn bằng	1
 sơn cước	2
-sơn hà	2
-sơn la	1
-sơn lâm	5
+sơn hà	3
+sơn la	123
+sơn la thác	1
+sơn lâm	3
 sơn nữ	6
-sơn phú	12
+sơn phú	8
 sơn thành lập	1
 sơn thành phố	4
 sơn thủy	1
+sơn tinh	1
 sơn trường hợp	1
-sơn điền	19
+sơn điền	5
 sơn động	1
-sơntp	1
+sơntp	2
 sư	2
 sư phạm	4
 sư tử	1
 sưcông	1
 sưu tầm	2
-sưu tập	2
-sương	8
+sưu tập	30
+sương	7
 sương mù	2
-sườn	6
+sườn	7
 sạch	7
-sạch đẹp	6
+sạch đẹp	2
+sạchchúng	1
 sạn	2
-sạt lở	2
-sản lượng	9
-sản phẩm	111
-sản xuất	261
+sạt lở	60
+sản	65
+sản lượng	6
+sản phẩm	137
+sản phẩm chuyển đổi	1
+sản xuất	753
 sản xuấtvẫn	1
 sảndoanh	1
 sảng khoái	1
-sảnh	1
 sảnthực	1
 sấu	3
-sầu riêng	8
+sấy	1
 sầu thảm	1
-sập	1
-sắc	4
+sắc	5
 sắc màu	1
 sắc thái	1
-sắp	1
-sắp xếp	8
-sẵn	5
-sẵn sàng	28
-sẻ	3
-sẽ	238
+sắp	2
+sắp xếp	24
+sẵn	16
+sẵn sàng	34
+sẻ	4
+sẽ	308
 sị	1
-số	1495
-số hoá	1
-số liệu	40
-số lượng	43
-số một	3
-số thương nhân	1
-số ít	1
+số	3193
+số hoá	2
+số học	1
+số liệu	189
+số lượng	50
+số một	1
+số thành	2
+số ít	2
 sốc	2
-sốký	23
-sống	24
+sốký	68
+sống	50
 sống động	1
-sốp	6
-sốp cộp	1
-sốt xuất huyết	1
-sổ	17
-sổ cái	2
+sổ	18
 sổ sách	8
-sớm	26
-sở	1099
-sở ban ngành	21
-sở dĩ	3
-sở hữu	23
-sở hữu sáng chế	2
-sở hữu trí tuệ	47
+sớm	46
+sở	2850
+sở ban	1
+sở ban ngành	19
+sở dĩ	1
+sở hữu	16
+sở hữu dữ liệu	1
+sở hữu sáng chế	1
+sở hữu trí tuệ	81
 sở kiến nghị	2
+sở luôn	1
 sở thuộc	1
+sở thích	1
 sở trường	1
 sở trưởng	1
-sở tại	1
+sở tại	5
 sở ủy ban	1
 sở ủy nhiệm	1
-sợ	3
-sợi	11
+sởbanngành	3
+sợ	4
+sợi	8
 sụp đổ	1
-sứ	4
-sứ mệnh	4
-sức	29
-sức khỏe	31
-sức mạnh	11
+sứ	3
+sứ mệnh	2
+sức	58
+sức khoẻ	3
+sức khỏe	39
+sức mạnh	22
 sức sống	4
-sừ	2
+sức ép	2
+sừ	1
 sừng	6
 sử	5
-sử dụng	778
-sửa	7
-sửa chữa	11
-sửa sai	1
-sửa đổi	167
-sửu	5
-sữa	6
-sự	379
-sự cố	7
-sự cố gắng	3
-sự kiện	27
-sự nghiệp	37
-sự thật	9
+sử dụng	3306
+sử dụng học	4
+sửa	18
+sửa chữa	17
+sửa sai	9
+sửa đổi	168
+sửu	7
+sữa	131
+sữa tươi	4
+sự	501
+sự cố	23
+sự cố gắng	2
+sự kiện	302
+sự kiện toàn	1
+sự nghiệp	205
+sự thật	12
 sự tích	1
-sự việc	3
-sỹ	58
+sự việc	4
+sỹ	31
 s’rônh	1
-t	8
-ta	19
-tai nạn	12
+t	25
+ta	40
+tabmis	2
+tai	4
+tai biến	59
+tai nghe	1
+tai nạn	13
 tam cấp	2
-tam dương	1
+tam dương	2
 tam giác	1
 tam nông	1
 tam tòng	2
 tan	2
-tandlamdonggovvn	2
-tang	2
+tandlamdonggovvn	1
+tang	1
 tang vật	2
-tao	1
+tank	1
+tanker	1
+tanzania	2
+tapchitaichinhvn	1
 tarzan	1
-taxi	4
+tattersall	2
+tattoo	2
+taxi	199
 tay	33
-tay nghề	2
+tay nghề	4
 tay trái	1
-taị	2
-tb	16
-tbkcn	7
-tbskhcn	2
-tbslđtbxh	2
-tbstp	5
-tbsyt	3
-tbubnd	1
-tbvpcp	2
-tbxh	2
-tc	11
+tb	66
+tbkcn	10
+tbskhcn	1
+tbslđtbxh	1
+tbstc	2
+tbsyt	14
+tbtu	2
+tbubnd	2
+tbvpcp	1
+tbxh	3
+tc	152
 tcb	1
-tccpitcsc	1
+tcbc	1
+tccsđ	66
 tcgddtpcl	2
 tcgđtpcl	3
 tchc	1
-tchncc	2
-tchnls	35
-tctlamdonggovvn	2
-tctn	10
-tcvn	2
-tdp	16
-teaching	2
+tchncc	1
+tchnls	18
+tckh	13
+tcpcp	1
+tctlamdonggovvn	1
+tctn	6
+tcvn	1
+tdp	2
 team	1
 teams	2
-techfest	2
-techmart	4
-techmarttechportvn	1
+techfest	26
 technology	3
 tecste	2
-tel	4
-test	9
+tedros	1
+teh	1
+tel	2
+telecom	9
+tem	49
+template	18
+term	1
+territories	1
+test	10
 text	1
-tfp	1
-tgpl	7
+tgpl	6
+th	7
+tha hóa	1
 tha thiết	4
-tham	2
-tham dự	54
-tham gia	257
+thai	1
+thai phụ	1
+thales	1
+tham	3
+tham chính	2
+tham dự	168
+tham gia	286
 tham khảo	10
-tham luận	3
-tham mưu	115
-tham nhũng	73
-tham quan	7
-tham vấn	5
-tham vọng	1
-tham ô	3
-than	1
+tham luận	14
+tham mưu	126
+tham nhũng	148
+tham quan	10
+tham vấn	3
+tham vọng	3
+tham ô	1
+than	7
 than bùn	2
 than nâu	1
-than thở	8
-thang	3
-thanh	70
-thanh bình	6
-thanh dương	4
-thanh hà	2
-thanh hương	3
-thanh hải	7
+than thở	10
+thang	5
+thangpplamdonggovvn	1
+thanh	47
+thanh bình	3
+thanh cao	1
+thanh dương	2
+thanh hà	1
+thanh hóa	123
+thanh hóa thác	1
+thanh hương	1
+thanh hải	3
 thanh long	1
-thanh lâm	2
+thanh lâm	1
 thanh lý tài sản	23
-thanh mỹ	1
+thanh mỹ	2
 thanh nhàn	1
-thanh niên	19
+thanh niên	218
 thanh nữ	1
 thanh phong	1
-thanh thanh	4
-thanh thiếu niên	1
+thanh thanh	2
+thanh thiếu niên	2
 thanh thoát	2
 thanh thuỷ	4
-thanh thủy	7
-thanh toán	10
-thanh tra	638
-thanh truyền	6
-thanh trà	3
-thanh trì	2
-thanh tùng	14
-thanh tú	2
-thanh vân	2
-thanh xuân	6
+thanh thủy	5
+thanh toán	82
+thanh toán số	1
+thanh tra	1607
+thanh truyền	3
+thanh trà	2
+thanh trì	1
+thanh tùng	6
+thanh tú	1
+thanh xuân	3
 thanh âm	1
-thanhtracomvn	5
-thanhtralamdonggovvn	33
-thao	10
+thanhtracomvn	6
+thanhtralamdonggovvn	30
+thao	6
 thao tác	3
 thay	7
 thay mặt	17
-thay thế	10
-thay vì	2
-thay đổi	121
-thcs	7
-the	10
+thay thế	12
+thay vì	3
+thay áo	1
+thay đổi	100
+thcs	13
+the	61
+their	1
 themovinglifeblog	1
-then chốt	1
-theo	1078
-theo dõi	91
-thi	63
-thi công	7
+then	1
+then chốt	5
+theo	1714
+theo dõi	116
+theo đuổi	2
+theoretical	1
+thi	578
+thi công	9
 thi cử	1
-thi hành	162
+thi hành	151
+thi tuyển	19
 thi vị	3
-thi đua	84
-thi đấu	1
-thiên	13
+thi đua	305
+thiên	335
 thiên hào	2
-thiên nhiên	28
+thiên nhiên	31
+thiên phuc	32
+thiên phú	1
 thiên phúc	1
-thiên sa	4
-thiên tai	10
+thiên sa	2
+thiên tai	23
 thiên thai	4
-thiên tân	2
 thiên tạo	1
-thiên tự	2
-thiên vương	3
-thiên đường	1
-thiêng liêng	2
+thiên tự	1
+thiên văn học	1
+thiên vương	9
+thiên đường	20
+thiên địa chỉ	1
+thiêng liêng	5
 thiêu	1
 thiếc	5
-thiết	5
-thiết bị	24
-thiết chế	3
-thiết kế	87
-thiết lập	11
-thiết thực	19
-thiết yếu	9
-thiếu	24
-thiếu hụt	2
-thiếu nhi	7
+thiết	4
+thiết bị	79
+thiết chế	4
+thiết kế	150
+thiết lập	10
+thiết nghĩ	2
+thiết thực	22
+thiết yếu	2
+thiếu	47
+thiếu nhi	1
 thiếu niên	1
 thiếu nữ	2
-thiếu sót	7
-thiếu tá	1
-thiền	6
-thiểu số	1
-thiện	6
-thiện chiến lược	1
-thiệp	6
-thiệt hại	19
+thiếu sót	5
+thiền	67
+thiều	32
+thiện	8
+thiệp	5
+thiệt hại	15
 thiệt mạng	1
-thiệucung	3
-tho	9
+thiệucung	2
+tho	5
 thoai thoải	2
-thodblamdonggovvn	2
-thong	1
+thodblamdonggovvn	1
+thong	6
 thong thả	1
-thoái hóa	1
 thoáng đãng	1
-thoát	11
-thoại	8
+thoát	5
+thoại	6
 thoạt	2
-thoả thuận	2
-thoải mái	1
-thpt	3
-thu	107
-thu chi	33
+thoả thuận	3
+thpt	27
+thu	341
+thu chi	91
 thu giữ	5
-thu gom	6
-thu hoạch	11
-thu hút	52
-thu hẹp	15
-thu hồi	77
-thu mua	1
-thu nhận	2
-thu nhập	113
+thu gom	9
+thu hoạch	2
+thu hút	58
+thu hẹp	9
+thu hồi	314
+thu mua	5
+thu nhận	1
+thu nhập	91
 thu nhỏ	1
-thu thanh	2
-thu thập	20
+thu thập	23
 thua	1
-thua lỗ	1
-thua thiệt	2
-thuc	1
-thung lũng	19
-thuyên chuyển	1
-thuyết giảng	1
-thuyết minh	10
-thuyết phục	1
-thuyền	5
+thua thiệt	1
+thuc	9
+thuchi	90
+thung lũng	22
+thunvlamdonggovvn	1
+thuyên chuyển	43
+thuyết giảng	2
+thuyết minh	24
+thuyết phục	2
+thuyết trình	9
+thuyền	4
 thuyền buồm	1
-thuê	130
-thuê bao	5
-thuơng	1
-thuần	8
+thuê	137
+thuê bao	8
+thuý	25
+thuần	1
 thuần dưỡng	1
-thuần thục	1
-thuận	10
-thuận lợi	34
-thuận thành trung	2
+thuận	5
+thuận châu thủ phủ	1
+thuận lợi	37
+thuận thành trung	1
 thuận thác	1
-thuận tiện	4
+thuận tiện	6
 thuật	1
-thuật ngữ	5
-thuật toán	1
-thuế	239
-thuế suất	10
-thuốc	16
-thuốc bổ	1
-thuốc lá	1
-thuốc tiêm	1
-thuốc trừ sâu	1
-thuộc	378
-thuộc địa bàn	2
+thuật ngữ	2
+thuật ngữ học	1
+thuế	319
+thuế suất	13
+thuốc	14
+thuốc lá	20
+thuộc	628
+thuộc địa bàn	3
 thuộc địa phương	1
 thuở	1
-thuỳ	2
-thuỷ	3
+thuỳ	1
+thuỷ	2
 thuỷ sản	1
 thuỷ tạ	9
-thành	112
-thành công	26
+thành	97
+thành công	54
+thành công nghị quyết	1
 thành công ty	1
-thành lập	70
-thành phần	21
-thành phẩm	1
-thành phố	4337
-thành quả	2
+thành long	2
+thành lập	115
+thành phần	13
+thành phố	3265
+thành quả	4
+thành quả thật	1
 thành thạo	1
-thành thật	1
-thành thị	3
+thành thật	2
+thành thị	2
 thành thực hiện	1
 thành trung	2
-thành trì	2
-thành tích	21
-thành tựu	14
-thành viên	68
+thành trì	1
+thành tích	34
+thành tựu	15
+thành viên	89
 thành đô	1
-thành đạt	11
-thành ủy	8
-thào	2
-thác	119
-thách thức	46
-thái	18
-thái an	2
-thái bình	1
-thái bình dương	5
+thành đạt	12
+thành ủy	9
+thào	3
+thác	142
+thách thức	78
+thái	24
+thái bình	124
+thái bình dương	3
 thái dương	1
-thái nguyên	24
-thái độ	3
+thái nguyên	162
+thái thịnh	1
+thái tổ	1
+thái tử	1
+thái độ	106
 tháitày	1
-thám	3
+thám	5
 thám hiểm	2
-tháng	303
-tháng tám	1
+tháng	1268
 thánh	1
+thánh gióng	1
 thánh mẫu	2
 tháo	1
 tháo dỡ	2
-tháo gỡ	23
-tháp	4
+tháo gỡ	22
+tháp	127
 tháp chuông	2
-thâm	1
-thâm canh	7
+thâ	1
+thâm nhập	1
+thâm niên	2
 thâm u	1
-thân	4
+thân	7
 thân nhiệt	5
 thân thiết	1
 thân thiện	6
-thép	1
-thêm	71
-thì	216
-thìn	2
-thí dụ	3
-thí nghiệm	2
-thí điểm	6
-thích	20
-thích hợp	14
-thích nghi	1
-thích thú	1
-thích ứng	20
-thóc	1
-thói quen	4
+thân thương	1
+thêm	236
+thêu	2
+thì	231
+thìn	1
+thí dụ	4
+thí nghiệm	1
+thí sinh	82
+thí sinh ca	3
+thí điểm	9
+thích	24
+thích hợp	7
+thích nghi	2
+thích thú	2
+thích ứng	40
+thính giả	2
+thói	1
+thói quen	6
 thôi	5
-thôi việc	1
-thôn	76
+thôi việc	43
+thôn	247
 thôn lạc nghiệp	2
-thôn trưởng	1
-thôn xã	18
+thôn xã	78
 thôn xóm	1
-thông	45
-thông báo	59
-thông báo chương trình	1
-thông báo danh mục	1
+thông	35
+thông báo	928
+thông báo chương trình	2
+thông báo danh mục	41
+thông cáo	123
+thông dụng	1
 thông lại	1
-thông lệ	4
-thông minh	29
-thông qua	91
+thông lệ	1
+thông minh	52
+thông minh linh hoạt	1
+thông qua	113
 thông suốt	2
 thông số	2
-thông thiên	2
+thông thiên	6
 thông thoáng	1
 thông thư viện	2
-thông thường	10
-thông tin	1053
+thông thường	132
+thông tin	5251
 thông tin dữ liệu	2
 thông tin đại chúng	1
-thông tư	47
-thông tấn	1
-thông tấn xã	1
+thông tri	1
+thông tư	130
+thông tấn	13
+thông tấn xã	2
 thông điệp	12
 thù hằn	1
 thù lao	7
-thù địch	4
-thùng	1
+thù địch	13
 thùng thư	1
-thùy	45
-thú	7
+thùy	29
+thú	9
 thú thật	1
-thú vị	11
-thúc	6
-thúc kháng	2
-thúc đẩy	38
+thú vui	1
+thú vị	13
+thú y	8
+thúc	3
+thúc giục	1
+thúc kháng	3
+thúc đẩy	101
 thúc đẩy mạnh	1
-thúy	11
-thăm	25
-thăm dò	2
-thăm hỏi	8
+thúy	7
+thăm	102
+thăm dò	74
+thăm hỏi	13
 thăm thẳm	2
-thăng long	1
+thăng	66
+thăng trầm	2
 thơ	2
 thơ ca	1
 thơ ca nhạc	1
-thơ mộng	11
+thơ mộng	27
 thơ ngây	1
-thư	10
-thư giãn	1
-thư mục	2
+thư	30
+thư giãn	2
+thư ký	6
+thư mục	1
 thư thái	1
 thư thả	1
 thư tín	1
-thư viện	86
-thư điện tử	6
+thư viện	164
+thư điện tử	606
 thưa	4
-thưc	1
-thương	7
-thương binh	63
-thương hiệu	31
+thưc	2
+thương	8
+thương binh	211
+thương hiệu	14
 thương lượng	2
-thương mại	116
-thương mại hóa	16
-thương mại hóa tstt	4
-thương mại điện tử	2
-thương nhân	5
-thương phẩm	2
+thương mại	184
+thương mại hóa	1
+thương mại điện tử	11
+thương nhân	17
 thương thân	1
-thương tâm	1
-thương tích	2
-thường	38
-thường kiệt	2
+thương tích	3
+thước đo	1
+thường	33
+thường kiệt	1
 thường lệ	1
-thường niên	5
-thường thường	1
-thường trú	7
-thường trực	66
-thường trực ban	2
-thường vụ	30
-thường xuyên	52
-thưởng	1
+thường nhật	3
+thường niên	1
+thường trú	6
+thường trực	116
+thường trực ban	5
+thường vụ	92
+thường xuyên	69
+thưởng	5
 thưởng ngoạn	2
 thưởng thức	6
-thượng	4
+thượng	2
 thượng hiền	1
 thượng lưu	1
 thượng nguồn	2
-thạc	5
-thạc sĩ	2
+thượng tá	4
+thượng viện	5
+thượng đỉnh	3
+thạc sĩ	3
 thạch	2
-thạnh	13
-thạnh mỹ	16
-thạnh đức	5
-thả	9
-thải	4
+thạnh	9
+thạnh mỹ	9
+thạnh đức	2
+thả	8
+thải	8
 thải bỏ	2
 thảm	3
-thảm họa	2
-thảm thực vật	1
-thảo	9
+thảm thực vật	2
+thảo	11
 thảo hiền	1
-thảo luận	81
+thảo luận	133
 thấm	2
-thấm nhuần	1
 thấm thía	1
-thấp	30
+thấp	21
 thấp thoáng	2
-thất	1
-thất bại	2
-thất nghiệp	29
+thất	2
+thất bại	9
+thất nghiệp	25
 thất nghiệp chủ yếu	6
-thất thoát	2
-thất thu	2
+thất thoát	1
+thất thu	1
 thất thường	1
+thất vọng	1
 thấu	1
-thấy	80
-thầm lặng	3
+thấu đáo	1
+thấy	84
+thầm lặng	1
 thần	2
 thần dược	1
 thần tiên	3
-thần tốc	1
-thầy	3
+thần tốc	5
+thầu	49
+thầy	7
 thầy giáo	2
 thầy thuốc	2
-thẩm	3
-thẩm lậu	1
-thẩm mỹ	2
-thẩm quyền	129
-thẩm tra	24
-thẩm định	45
+thẩm	2
+thẩm dương	1
+thẩm mĩ	1
+thẩm quyền	243
+thẩm tra	30
+thẩm tra xét	1
+thẩm định	49
 thẫm	1
-thậm chí	10
+thậm chí	11
 thận	3
 thận trọng	5
-thập kỷ	2
-thập niên	6
-thật	21
-thật sự	4
-thắc mắc	3
+thập kỷ	1
+thập niên	5
+thật	27
+thật sự	10
+thật thà	1
+thắc mắc	13
 thắm	1
-thắng	37
-thắng cảnh	28
-thắng lợi	10
-thắp	1
-thắt	1
-thẳng	1
-thẳng thắn	10
+thắng	33
+thắng cảnh	27
+thắng lợi	40
+thắt	4
+thẳng	2
+thẳng thắn	8
 thẳng tắp	1
-thẻ	27
-thế	38
-thế giới	59
-thế hệ	9
+thẻ	36
+thẻ vàng	2
+thế	49
+thế giới	105
+thế giới tính	2
+thế hệ	18
 thế kỷ	7
-thế lực	3
-thế nào	9
+thế lực	8
+thế nào	134
+thế trận	1
 thề	1
 thềm	1
-thể	5
-thể chất	1
-thể chế	15
-thể hiện	44
+thể	6
+thể chất	3
+thể chế	18
+thể dục	2
+thể hiện	30
 thể hiện tại	1
-thể loại	1
+thể loại	4
 thể lượng	1
-thể lệ	5
+thể lệ	65
 thể lực	2
-thể thao	39
-thể trạng	2
-thị	288
+thể thao	178
+thể thức	1
+thể trạng	1
+thị	183
 thị giác	2
-thị hiếu	2
-thị hoa	5
-thị hoa lài	2
-thị hoà	2
-thị hoàng	5
-thị hòa đoàn	2
-thị minh	2
-thị phượng	10
-thị phần	1
-thị thoại	3
-thị trường	66
-thị trường thương mại	2
-thị trấn	94
-thị tố	4
-thị xã	16
-thị yến	5
-thịnh	2
+thị hiếu	1
+thị hoa	3
+thị hoa lài	1
+thị hoà	1
+thị hoàng	2
+thị hòa đoàn	1
+thị mai	5
+thị minh	1
+thị phượng	5
+thị phần	2
+thị thoại	2
+thị trường	110
+thị trường học	2
+thị trưởng	1
+thị trấn	84
+thị tố	2
+thị xã	17
+thị yến	4
+thịnh	1
 thịnh vượng	1
-thịt	9
+thịt	4
 thịt nướng	3
-thọ	9
+thọ	133
 thỏa	2
-thỏa thuận	6
-thỏa thuận an ninh	1
+thỏa hiệp	1
+thỏa thuận	21
 thỏa thích	1
-thỏa đáng	4
-thống	1
-thống kê	44
-thống nhất	58
-thống trị	2
+thỏa đáng	1
+thống	3
+thống kê	432
+thống nhất	70
+thồng	8
 thổ	1
 thổ cẩm	3
-thổ nhưỡng	2
-thổi	1
-thổn thức	1
+thổi	2
+thổi phồng	3
+thới	1
 thờ	2
-thờ ơ	5
-thời	9
-thời gian	217
-thời hạn	31
+thờ ơ	3
+thời	25
+thời cơ	1
+thời gian	338
+thời hạn	45
 thời khắc	1
-thời kỳ	25
-thời kỳ công nghiệp	1
-thời lượng	17
-thời sự	2
-thời tiết	4
-thời trang	6
-thời vụ	1
-thời điểm	33
+thời kỳ	20
+thời kỳ công nghiệp	2
+thời lượng	5
+thời sự	29
+thời tiết	3
+thời trang	4
+thời vụ	3
+thời điểm	29
 thời đại	5
 thở	2
 thở than	1
 thợ hồ	1
-thụ	21
-thụ hưởng	4
-thụ lý	4
-thục	3
-thụy sĩ	4
-thủ công truyền thống	1
+thụ	78
+thụ hưởng	5
+thụ lý	5
+thụ thể	1
+thụ động	2
+thục	5
+thụy	6
+thủ	9
+thủ công	1
 thủ kho	6
 thủ khoa	1
 thủ quỹ	11
 thủ tiết	1
-thủ trưởng	32
-thủ tướng	110
-thủ tục	101
-thủ đoạn	7
-thủ đô	1
-thủy	10
+thủ trưởng	36
+thủ tướng	378
+thủ tục	837
+thủ đoạn	16
+thủ đô	15
+thủy	6
 thủy chung	3
-thủy lợi	7
+thủy lợi	10
 thủy mặc	1
-thủy sản	10
-thủy tinh	1
-thủy văn	1
-thủy điện	9
-thứ	227
+thủy nông	2
+thủy sản	21
+thủy tinh	2
+thủy văn	79
+thủy điện	10
+thứ	609
 thứ bảy	2
-thứ hạng	2
-thứ sáu	2
-thứ trưởng	11
-thứ tự	6
+thứ hạng	7
+thứ sáu	1
+thứ trưởng	21
+thứ tự	3
 thức uống	1
-thức ăn	2
+thức ăn	12
+thức ăn thô	2
+thức ăn tinh	2
 thừa	7
-thừa nhận	4
-thừa phát	4055
-thừa thiên	2
-thử	6
-thử nghiệm	14
+thừa nhận	7
+thừa phát	2094
+thừa thiên	124
+thử	2
+thử nghiệm	47
 thử thách	2
-thửa	5
+thửa	4
+thự	1
 thực	11
-thực chất	6
-thực dụng	2
-thực hiện	1116
+thực chất	11
+thực dân	1
+thực dụng	1
+thực hiên	1
+thực hiện	2085
 thực hiện bộ	1
-thực hành	6
+thực hành	5
 thực hư	1
-thực học	1
+thực học	2
 thực nghiệm	2
-thực nghiệp	1
-thực phẩm	29
+thực nghiệp	2
+thực phẩm	26
 thực phẩm chất	1
-thực sự	24
-thực thi	24
+thực ra	1
+thực sự	27
+thực thi	18
 thực thụ	1
-thực tiễn	63
-thực trạng	13
+thực tiễn	38
+thực trạng	10
 thực tài xế	1
-thực tập	3
-thực tế	62
-thực vật	11
-thực đơn	3
+thực tập	5
+thực tập sinh	2
+thực tế	90
+thực vật	37
+thực đơn	1
 thực địa	1
 tiengchuongvn	1
 tienphongvn	1
-tiepdanlamdonggovvn	2
-tiktok	2
+tiep	2
+tiepdanlamdonggovvn	1
+ties	2
+tiktok	16
 tim	1
 time	2
-tin	84
-tin cậy	2
-tin học	15
-tin lành	2
+tin	1089
+tin cậy	15
+tin học	14
+tin lành	3
 tin tưởng	12
-tin tức	33
-tin vui	1
-tin vịt	1
+tin tức	924
 tin yêu mến	1
 tina	1
-tinh	1
+tinh	4
 tinh chế	3
-tinh dầu	1
-tinh gọn	2
+tinh giản	5
+tinh gọn	7
 tinh hoa	1
-tinh kỳ	19
-tinh nhuệ	1
-tinh thần	51
+tinh kỳ	39
+tinh thần	91
 tinh thần nhân văn	2
-tinh thể	3
-tinh tế	2
-tinh vi	2
-tinhuylamdonggovvn	2
-tiêm	14
-tiêm chủng	1
-tiên	12
+tinh thể	2
+tinh vi	3
+tinhdoc	1
+tinhuylamdonggovvn	1
+tinhxlsx	1
+tire	1
+titles	1
+tiêm	24
+tiêm chủng	15
+tiên	7
 tiên hoàng	4
 tiên ngọc	1
-tiên phong	1
-tiên tiến	8
+tiên phong	5
+tiên quyết	3
+tiên tiến	16
 tiêu	3
-tiêu biểu	12
-tiêu chuẩn	61
-tiêu chuẩn hóa	3
-tiêu chí	54
-tiêu cực	27
-tiêu dùng	28
-tiêu thụ	20
+tiêu biểu	20
+tiêu chuẩn	113
+tiêu chí	46
+tiêu cực	22
+tiêu dùng	21
+tiêu hủy	2
+tiêu thụ	26
 tiêu xài	2
-tiêu úng	1
-tiêu đề	1
-tiếc	2
-tiến	38
-tiến bộ	11
+tiêu đề	3
+tiếc	4
+tiến	23
+tiến bộ	28
 tiến dũng	2
 tiến hoá	1
-tiến hành	86
-tiến sĩ	11
-tiến triển	1
-tiến trình	2
-tiến độ	46
-tiếng	46
+tiến hành	152
+tiến hành xác minh	2
+tiến sĩ	7
+tiến trình	3
+tiến độ	50
+tiếng	78
 tiếng kinh	1
-tiếng nói	2
-tiếp	87
-tiếp cận	28
-tiếp diễn	2
-tiếp giáp	2
-tiếp nhận	61
+tiếng nói	8
+tiếp	703
+tiếp cận	35
+tiếp diễn	1
+tiếp giáp	1
+tiếp nhận	91
 tiếp nối	1
 tiếp quản	1
-tiếp sức	1
+tiếp sức	2
 tiếp tay	4
-tiếp theo	18
-tiếp thu	36
-tiếp tục	153
-tiếp xúc	29
-tiết	2
-tiết kiệm	13
+tiếp theo	26
+tiếp thu	25
+tiếp thị	1
+tiếp tục	217
+tiếp xúc	44
+tiết	1
+tiết kiệm	175
 tiết mục	1
 tiếttuần	1
-tiềm lực	4
-tiềm năng	25
-tiềm ẩn	6
-tiền	160
-tiền bạc	2
-tiền giang	3
-tiền lương	4
+tiềm lực	12
+tiềm năng	87
+tiềm ẩn	5
+tiền	263
+tiền bạc	1
+tiền giang	124
+tiền lương	9
 tiền lệ	2
-tiền mặt	8
-tiền sự	2
-tiền án	2
-tiền đề	6
-tiểu	2
-tiểu học	5
-tiểu khu	2
-tiểu sử	1
-tiểu thủ công nghiệp	3
+tiền mặt	49
+tiền nhiệm	2
+tiền phong	125
+tiền sự	1
+tiền thân	1
+tiền tệ	1
+tiền án	1
+tiền đề	5
+tiểu	4
+tiểu học	11
+tiểu sử	2
+tiểu thủ công nghiệp	1
 tiểu tri	1
-tiểu vùng	1
 tiễn	1
-tiệc	2
-tiệm	4
-tiệm cận	4
+tiệc	3
+tiệm	10
+tiệm cận	1
 tiện	5
+tiện dụng	1
+tiện lợi	2
 tiện nghi	1
 tiện ích	2
-tiệp	1
-tls	1
-tm	9
+tiệp	2
+tk	8
+tl	1
+tlbtc	2
+tm	141
 tmcp	2
-tmdv	2
-tn	10
-tncs	1
-tnhh	151
-tnhhmtv	2
-tntp	1
-to	5
+tmdv	1
+tmr	2
+tmđt	1
+tn	83
+tncs	2
+tncshcm	32
+tnhh	390
+tnhhmtv	1
+tnmt	69
+to	28
 to lớn	10
-together	2
-top	4
-tour	1
-toutube	1
-tower	2
-toà	1
-toà án	2
-toàn	73
-toàn bộ	34
-toàn cảnh	2
-toàn cầu	16
-toàn diện	36
-toàn dân	2
+to tiếng	1
+toa	1
+toang	3
+token	1
+tokenization	1
+top	5
+topic	1
+topica	2
+tor	1
+tour	4
+tourism	2
+tower	1
+toà	2
+toà án	4
+toàn	113
+toàn bộ	217
+toàn cảnh	7
+toàn cầu	36
+toàn diện	62
+toàn dân	1
+toàn lực lượng	1
 toàn quyền	2
-toàn quốc	19
-toàn thể	19
+toàn quốc	71
+toàn thắng	1
+toàn thể	30
 toàn tâm	1
-toàn văn	3
+toàn tập	9
+toàn văn	21
 toàn vẹn	2
-toán	4
-toán học	2
+toán	7
 toát	1
 toạ	1
 toạ lạc	1
 toạ đàm	1
 toạ độ	1
-tp	663
+toả	1
+tp	1151
 tpbảo	1
-tphcm	5
+tphcm	3
 tphà	1
-tpl	8
-tpls	32
-tplsố	2
-tpqtvcchn	2
-tptplđkhđ	4
-tpđgcchn	29
-tpđà	4
-tr	2
-tra	1
-tra cứu	10
+tpl	4
+tpls	18
+tplsố	1
+tpqtvcchn	1
+tptplđkhđ	2
+tpvhtt	1
+tpđgcchn	15
+tpđà	3
+tq	1
+tr	1
+tra	7
+tra cứu	501
+traffic	1
 trai	4
 trai tráng	1
-trang	56
-trang bị	22
-trang phục	2
-trang thiết bị	11
-trang trí	6
+tran	1
+trang	1003
+trang bị	8
+trang chủ	124
+trang phục	1
+trang thiết bị	14
+trang trí	2
+trang trại	6
+trang trải	1
 trang trọng	2
-trang web	5
+trang web	7
 trang đài	2
-tranh	16
-tranh biện	2
-tranh chấp	9
+tranh	30
+tranh biện	1
+tranh chấp	16
 tranh giành	1
-tranh luận	10
-tranh thủ	6
+tranh luận	8
+tranh thủ	3
 tranh tụng	1
-transformed	4
-transport	1
-trao	13
+trao	47
 trao lời	1
-trao tặng	5
-trao đổi	41
-travel	1
-tre	28
+trao tặng	8
+trao đổi	192
+tratusohavn	1
+tre	150
 trekking	2
-treo	3
-tri	1
-tri thức	34
+treo	5
+treo bảng	1
+tri hô	1
+tri thức	35
 tri ân	1
-trinh	7
-trinh sát	10
+triloguenews	1
+trinh	4
+trinh sát	6
 triết học	1
-triết lý	9
-triền	1
-triều	13
+triết lý	2
+triền	2
+triều	8
 triều đại	1
-triển	2
-triển khai	287
-triển khai chiến lược	2
-triển khai phong trào	2
-triển khai phương hướng	1
-triển khai thông tư	2
-triển lãm	6
+triển	4
+triển khai	851
+triển khai chiến lược	7
+triển khai thông tư	1
+triển lãm	10
+triển vọng	7
 triểnvới	1
-triệt	2
-triệt phá	1
+triệt	3
+triệt phá	121
 triệt để	6
-triệu	112
-triệu chứng	2
-triệu hải	4
-triệu triệu	1
-triệu tập	5
-trong	1667
+triệu	169
+triệu tập	7
+tro_signedpdf	1
+trodoc	1
+trong	2916
 trong lành	7
-trong sáng	3
+trong sáng	6
 trong sạch	14
 trong trẻo	1
-trung	32
-trung bình	42
+trump	2
+trung	33
+trung bình	41
 trung bộ	3
-trung chuyển	1
-trung cấp	16
+trung chuyển	2
+trung cấp	42
 trung cổ	1
 trung du	1
-trung gian	5
+trung gian	7
+trung hiếu	2
 trung hòa	1
-trung hạ	1
 trung hạn	5
 trung học	3
-trung học chuyên nghiệp	3
+trung học chuyên nghiệp	2
+trung học phổ thông	1
 trung lập	3
-trung nghĩa	2
-trung quốc	5
-trung quốc hội nghị	2
+trung nghĩa	1
+trung quốc	17
 trung thu	1
-trung thực	11
-trung tuần	1
-trung tá	2
-trung tâm	512
-trung đại học	2
-trung ương	113
-trungtrưởng	2
-truy	8
-truy cập	32
-truy cứu	3
-truy nã	3
-truy quét	1
-truy tìm	6
-truy tố	7
-truy vấn	2
-truy xuất	1
-truy xét	2
+trung thực	13
+trung tuần	2
+trung tâm	2140
+trung đông	6
+trung ương	378
+truy	7
+truy cập	302
+truy cứu	2
+truy nhập	2
+truy nã	6
+truy tìm	5
+truy tố	3
+truy xét	3
+truy điệu	3
 truy đuổi	1
-truyên	1
-truyền	15
-truyền bá	2
-truyền hình	6
-truyền nhiễm	6
+truyền	12
+truyền bá	3
+truyền hình	222
+truyền hình bao gồm	3
 truyền thanh	1
 truyền thuyết	2
-truyền thông	339
-truyền thống	46
-truyền thụ	1
-truyền tải	4
-truyền đạt	10
-truyển	2
-truyện	1
+truyền thông	799
+truyền thống	55
+truyền thụ	2
+truyền tải	3
+truyền đạt	9
+truyển	3
+truyện	2
 truyện cổ	3
-trà	3
-trà cú	2
-trà vinh	2
-tràm	1
-tràn	3
+truyện ngắn	1
+trà	12
+trà cú	1
+trà vinh	125
+tràn	1
 tràn lan	1
-trách nhiệm	414
-trái	30
-trái phép	9
-trái tim	9
-trái đất	1
+tràng	1
+trách	1
+trách nhiệm	545
+trái	21
+trái chủ trì	1
+trái cây	1
+trái phép	139
+trái tim	3
+trái đất	2
 trán	1
 tráng ca	1
 tráng lệ	1
 tránh	18
-trâm	6
-trân	4
-trân trọng	10
+trâm	2
+trân	2
+trân trọng	7
 trâu	3
-trâu bò	3
 trãi	1
-trên	1062
+trên	2060
 trên dưới	1
-trình	103
-trình bày	32
+trên hết	5
+trì hoãn	1
+trình	153
+trình bày	29
 trình báo	2
-trình báo vụ việc	2
-trình chiếu	1
-trình diễn	1
-trình tự	11
-trình độ	79
+trình chiếu	5
+trình tự	24
+trình độ	142
 trình ủy ban	11
-trí	5
-trí dũng	2
-trí thức	1
-trí tuệ	47
-trích	30
-trích dẫn	1
+trí	4
+trí dũng	26
+trí thức	6
+trí tuệ	66
+trích	75
 trích lục	2
-trò	6
-trò chơi	9
-trò vui	4
+trích yếu	1
+trò	5
+trò chuyện	1
+trò chơi	35
+trò vui	5
+tròn	2
 trôi	4
 trông	6
+trông chờ	2
 trù bị	1
-trù dập	3
-trùng	1
-trùng lặp	3
+trù dập	1
+trùn	2
+trùng	2
+trùng lắp	3
 trùng điệp	1
-trú	16
-trúc	2
-trúc lâm	4
-trúng	1
+trú	10
+trúc	1
+trúc lâm	6
+trúng	17
+trúng cử	12
 trúng tuyển	2
 trút bỏ	1
-trăm	17
+trăm	16
 trăm nghìn	1
+trăm ngàn	1
 trăng	2
 trăng tròn	1
 trơn	1
-trưa	4
+trưa	5
 trưng	14
-trưng bày	1
-trưng cầu	3
-trương	50
-trước	191
-trước hết	5
-trước kia	2
-trước mắt	13
-trước nay	1
-trước đây	4
-trường	159
+trưng bày	6
+trưng cầu	1
+trương	49
+trước	385
+trước hết	10
+trước kia	3
+trước mắt	12
+trước tiên	2
+trước đây	1
+trường	300
 trường giang	1
-trường học	9
-trường học cơ sở	1
-trường hợp	125
-trường hợp doanh nghiệp	5
+trường học	6
+trường hợp	292
+trường hợp doanh nghiệp	9
 trường hợp tử vong	1
-trường lớp	1
-trường sơn	1
-trường thành	2
-trưởng	192
-trưởng ban	2
-trưởng phòng	137
-trưởng thành	2
+trường lớp	2
+trường quay	1
+trường sơn	94
+trường thành	3
+trường tồn	3
+trưở	1
+trưởng	207
+trưởng ban	6
+trưởng phòng	124
+trưởng thành	4
 trưởng thôn	2
-trưởng đoàn	72
+trưởng đoàn	74
 trượt	6
-trượt tuyết	1
-trại	4
-trạm	24
+trại	9
+trạm	224
+trạm hành	1
 trạng	1
-trạng thái	1
-trả	24
-trả lời	11
-trả thù	5
-trải	8
-trải nghiệm	26
+trạng thái	6
+trả	44
+trả giá	4
+trả lời	151
+trả thù	2
+trải	9
+trải nghiệm	46
 trảng	1
-trấn áp	2
+trấn áp	1
 trầm	1
 trầm bổng	1
 trầm ngâm	1
-trầm trọng	1
-trần	204
-trần bình trọng	2
-trần bình trọng liên	1
-trần hưng đạo	17
-trần khánh dư	2
-trần phú	454
-trần quang khải	5
-trần quốc toản	5
-trần thị hoà	2
-trần tế xương	2
-trần đình	7
+trần	263
+trần bình trọng	1
+trần hưng đạo	42
+trần nhân tông	1
+trần phú	539
+trần quang khải	4
+trần quốc toản	3
+trần thị hoà	1
+trần tế xương	1
+trần đình	9
 trẩy hội	2
-trận	2
+trận	5
 trập trùng	1
-trật tự	49
-trắc lượng	2
+trật tự	64
+trắc lượng	1
+trắc nghiệm	1
+trắc địa	1
 trắng	12
 trắng toát	1
 trắng xóa	5
-trẻ	18
-trẻ em	21
-trẻ hóa	3
+trẻ	41
+trẻ em	45
+trẻ hóa	1
 trẻo	1
+trể	1
 trễ	2
+trệlúc	1
 trệt	1
-trị giá	9
-trị liệu	2
-trịnh	27
-trịnh trọng	2
-trọ	1
-trọn	2
+trị giá	25
+trịnh	19
+trịnh trọng	11
+trọc	2
+trọn	1
 trọn vẹn	2
-trọng	127
-trọng dụng	1
+trọng	291
 trọng lượng	1
 trọng thu giữ	1
-trọng thể	1
-trọng trách	3
-trọng tài	35
-trọng tâm	26
-trọng yếu	1
-trọng điểm	15
-trốn	8
-trống	18
-trồng	39
+trọng thể	13
+trọng thị	1
+trọng tài	36
+trọng tâm	36
+trọng điểm	22
+trọng đại	2
+trốn	144
+trốn tránh	1
+trống	20
+trồng	88
 trồng trọt	6
-trồng xen	1
-trỗi	3
-trộm	5
-trộm cắp	4
+trỗi	2
+trộm	4
+trộm cắp	9
 trộn lẫn	1
 trớ trêu	1
-trời	9
+trời	8
 trời đất	1
-trở	10
-trở lên	7
-trở lại	10
+trở	20
+trở lên	10
+trở lại	30
 trở ngại	1
-trở nên	13
-trở thành	30
-trở về	7
+trở nên	6
+trở thành	45
+trở thành công nghệ	1
+trở về	13
 trở đi	1
-trợ	17
-trợ cấp	9
-trợ giúp	93
-trụ cột	8
-trụ sở	41
+trợ	10
+trợ cấp	11
+trợ giúp	238
+trợ lý	1
+trụ	1
+trụ cột	11
+trụ sở	47
 trụ sở tại	1
-trục	4
-trục lợi	1
+trục	11
 trục xuất	1
-trứ	3
-trừ	18
+trứ	2
+trừ	16
 trừ hại	1
 trừng trị	1
-trữ	6
-trữ lượng	7
+trữ	8
+trữ lượng	139
 trữ tình	2
 trực	8
+trực ban	2
+trực chiến	1
+trực diện	1
 trực quan	1
-trực thuộc	28
-trực thăng	1
-trực tiếp	107
-trực tuyến	160
-ts	13
-tsbs	1
-tstt	158
-tt	143
-ttbct	2
+trực thuộc	192
+trực tiếp	114
+trực tuyến	607
+ts	33
+tstn	1
+tsvtđ	32
+tt	333
+ttatgt	1
+ttbct	1
+ttbgdđt	5
 ttbgtvt	1
+ttbkhcn	4
 ttbkhđt	2
-ttblđtbxh	1
-ttbtc	24
+ttbnv	5
+ttbtc	28
 ttbtm	2
-ttbtnmt	2
-ttbtp	14
-ttbtttt	1
+ttbtnmt	3
+ttbtp	65
+ttbtttt	4
 ttbxd	5
-ttdvvl	6
+ttdvvl	3
 ttg	2
 ttgcn	1
-ttgqkntc	6
-tthc	13
-tthđnd	24
+ttgqkntc	3
+tthc	173
+tthđnd	12
+ttkdtm	15
+ttltbgdđtbnv	1
 ttltbkhđtbnv	1
 ttltbytblđtbxhbca	1
 ttlttptctccplđtbxh	1
-ttp	1
-ttpctn	6
-ttptqdlamdonggovvn	2
+ttmttwbtt	1
+ttpctn	2
+ttptqdlamdonggovvn	1
 ttr	1
-ttrcp	2
-ttrsct	2
+ttrcp	1
+ttrgm	1
+ttrgsktxlsttr	1
+ttrpctn	1
+ttrskhcn	8
 ttrslđtbxh	1
-ttrstp	2
-ttrttgqkntc	6
-ttrubnd	1
-ttrvp	10
-ttthlamdonggovvn	2
-tttts	26
-ttxtdttmdllamdonggovvn	2
+ttrttgqkntc	5
+ttrvp	3
+ttthlamdonggovvn	1
+tttn	1
+tttt	13
+ttttcp	4
+ttttr	1
+tttts	14
+ttxd	16
+ttxtdttmdllamdonggovvn	1
 ttxvn	2
+ttxvnvn	1
 ttđt	3
+tu	1
 tu luyện	1
-tu số	1
-tu tra	4
-tubaoloclamdonggovvn	2
-tudalatlamdonggovvn	2
-tung	6
-tunguyenlamdonggovvn	2
-tuy	7
-tuy nhiên	63
-tuy vậy	1
+tu tra	185
+tua	3
+tuandmlamdonggovvn	1
+tubaoloclamdonggovvn	1
+tudalatlamdonggovvn	1
+tum	124
+tung	9
+tung hoành	1
+tunguyenlamdonggovvn	1
+turk	4
+tuy	4
+tuy nhiên	61
+tuy vậy	2
+tuyen	2
 tuyentruyenlamdonggovvn	10
-tuyên	14
-tuyên bố	1
-tuyên dương	1
-tuyên giáo	7
-tuyên phạt	3
-tuyên truyền	102
+tuyên	9
+tuyên bố	7
+tuyên dương	4
+tuyên giáo	8
+tuyên phạt	4
+tuyên quang	123
+tuyên truyên	5
+tuyên truyền	696
 tuyên truyền thông tin	1
 tuyên truyền viên	2
 tuyên vận	1
 tuyên án	2
-tuyến	29
-tuyến đầu	2
-tuyết	17
-tuyền	19
-tuyển	5
-tuyển chọn	4
-tuyển dụng	28
-tuyển quân	2
-tuyển sinh	3
+tuyến	494
+tuyến đầu	6
+tuyết	13
+tuyền	16
+tuyển	103
+tuyển chọn	171
+tuyển dụng	389
+tuyển quân	1
+tuyển quân cấp	1
+tuyển sinh	16
 tuyệt	3
 tuyệt chủng	1
-tuyệt vời	10
-tuyệt đối	7
-tuân	9
+tuyệt vời	12
+tuyệt đối	43
+tuân	5
 tuân thủ	6
 tuôn	3
-tuấn	55
-tuất	2
-tuần	19
-tuần hoàn	7
-tuần lễ	10
-tuần tra	9
+tuấn	54
+tuất	1
+tuần	189
+tuần hoàn	2
+tuần lễ	34
+tuần tra	2
+tuần tự	1
 tuẩn	1
-tuệ	9
-tuổi	44
-tuổi trẻ	1
-tuổi đời	1
+tuệ	5
+tuổi	78
+tuổi già	1
+tuổi trẻ	124
 tuỳ	3
-tv	2
-tvgtvllamdonggmailcom	2
-tvl	2
+tv	7
+tvb	3
+tvgtvllamdonggmailcom	1
+tvl	1
 tvlđ	1
-tvn	2
-tvs	46
-tw	2
-txã	2
-ty	4
-tzyqbrwtok	2
+tvn	3
+tvs	24
+tw	5
+txã	1
+ty	5
+tyt	3
+tzyqbrwtok	1
 tà nung	5
-tài	17
-tài chính	206
+tài	11
+tài chính	479
 tài chính ban	1
-tài khoản	39
-tài liệu	80
-tài nguyên	109
-tài năng	1
-tài sản	238
+tài khoản	37
+tài liệu	173
+tài nguyên	548
+tài năng	4
+tài sản	319
 tài trợ	12
-tài viên	22
-tài xế	10
-tàng trữ	4
+tài viên	73
+tài vụ	32
+tài xế	135
+tàng trữ	138
 tào	1
-tàu	2
+tàu	5
 tày	3
-tá	2
-tác	3
-tác chiến	2
-tác dụng	4
-tác giả	24
-tác hại	2
+tá	1
+tác	6
+tác dụng	3
+tác giả	43
+tác giả định nghĩa	1
+tác hại	1
+tác nghiệp	3
 tác phong thái độ	3
-tác phẩm	5
-tác động	61
-tách	4
-tái	13
+tác phẩm	21
+tác động	82
+tách	7
+táchợp	2
+tái	26
 tái chế	2
-tái hiện	1
-tái tạo	3
-tái xuất	1
+tái cử	1
+tái hiện	2
+tái tạo	13
 tái định canh	2
-tái định cư	7
-tái định vị	4
-tám	10
-tán	2
-tán phát	4
-tán thành	6
-tánh	4
-táo bạo	2
+tái định cư	10
+tám	20
+tán	1
+tán dương	1
+tán phát	2
+tán thành	4
+tánh	2
 táo tác	1
-tâm	16
-tâm huyết	5
+tâm	11
+tâm huyết	9
+tâm hồn	1
 tâm khảm	1
 tâm linh	1
 tâm lý	10
 tâm sự	2
-tâm thần	6
+tâm thần	5
 tâm thức	1
+tâm trạng	3
 tâm tình	1
-tâm tư	3
-tân	10
-tân an	2
-tân bình	3
+tâm tình thư giãn	1
+tâm tư	2
+tân	17
+tân an	1
+tân bình	1
 tân chánh	1
 tân châu	1
-tân hà	4
+tân hà	3
 tân hội	1
-tân lập	2
-tân phú	9
-tân phước	2
+tân lạc	2
+tân lập	1
+tân phú	131
+tân phước	1
 tân sơn	1
+tân thanh	2
+tân thanh lâm	18
 tân thuận	1
 tân thành	1
-tân tiến	1
 tân tiến sĩ	2
-tân đức	2
-tây	15
-tây bắc	1
+tân xuân	2
+tân đức	1
+tây	17
+tây bắc	124
 tây hồ	1
-tây nguyên	41
-tây sơn	4
+tây nguyên	89
+tây ninh	123
+tây sơn	3
+tèo	1
 tê giác	13
-tê liệt	1
-tên	198
-tên tuổi	2
-tìm	61
-tìm hiểu	26
-tìm kiếm	19
-tình	4
-tình ca	2
+tên	154
+tên tuổi	3
+tìm	316
+tìm hiểu	63
+tìm kiếm	40
+tình	10
+tình ca	1
 tình chung	1
-tình cảm	2
+tình cảm	8
 tình cảm động	1
-tình huống	22
-tình hình	188
-tình hình dịch	6
-tình nguyện	5
-tình nguyện viên	1
+tình huống	15
+tình hình	580
+tình hình dịch	8
+tình nguyện	4
 tình nhân	1
-tình tiết	1
-tình trạng	83
+tình trạng	217
 tình tự	1
-tình yêu	11
+tình yêu	15
 tình yêu thương	1
 tìnhvào	1
+tí	1
 tía	2
 tích	4
-tích cực	65
-tích hợp	100
-tích tụ	2
-tích ứng	1
+tích cực	95
+tích hợp	163
+tích tụ	4
 tím	1
-tín	37
-tín chỉ	2
-tín dụng	4
-tín hiệu	6
-tín nghĩa	4
-tín nhiệm	1
+tín	21
+tín chỉ	1
+tín dụng	6
+tín hiệu	5
+tín nghĩa	2
+tín ngưỡng	3
 tín đồ	4
-tính	139
-tính chuyện	1
-tính chất	12
-tính năng	3
-tính toán	13
-tính tự chủ	1
-tít	1
+tính	622
+tính chất	13
+tính mạng	5
+tính năng	25
+tính toán	31
+tít	2
 tò mò	1
-tòa	9
-tòa án	13
+tòa	8
+tòa soạn	3
+tòa án	261
 tòng	4
 tòng phu	1
 tòng tử	1
 tóan	2
+tóc	3
 tóe	1
-tóm	2
-tóm tắt	4
-tô	7
-tô hiến thành	6
-tôi	24
-tôn	15
-tôn giáo	8
-tôn trọng	7
+tóm tắt	34
+tô	8
+tô hiến thành	3
+tôi	36
+tôn	10
+tôn giáo	33
+tôn trọng	13
 tôn tạo	1
-tôn vinh	1
-tông	2
-tù	7
-tù phạm	1
+tôn vinh	6
+tông	3
+tù	25
 tù trưởng	3
 tù trưởng nữ	1
 tù và	1
-tùng	21
+tùng	14
 tùng lâm	1
-tùy	14
+tùy	10
 tùy thân	1
-tú	6
-túi	1
-túy	7
-tăng	137
-tăng cường	101
-tăng giá	2
+tú	4
+túi	4
+túy	2
+tý	2
+tăng	125
+tăng cường	151
 tăng ni	1
-tăng trưởng	30
-tăng tốc	8
-tĩnh	5
+tăng trưởng	69
+tăng tốc	20
+tđkt	1
+tĩnh	126
 tĩnh lặng	1
 tĩnh mịch	1
-tơ	2
-tơ tằm	5
-tư	42
-tư cách	15
-tư duy	5
+tơ	3
+tơ lụa	3
+tơ tằm	4
+tư	43
+tư cách	14
+tư duy	4
 tư duy năng động	1
-tư liệu	4
-tư nhân	15
-tư nhân trung lập	4
-tư pháp	357
+tư liệu	2
+tư nhân	6
+tư nhân trung lập	2
+tư pháp	867
 tư pháp thuộc	2
-tư tưởng	29
-tư vấn	78
-tươi	5
+tư thục	344
+tư tưởng	58
+tư vấn	225
+tưzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzxczxczxcxzcxzcxzcxzcxzc	1
+tươi	3
 tươi mát	2
 tươi đẹp	2
-tương lai	30
-tương quan	4
+tương	59
+tương lai	20
 tương thân	4
-tương thích	11
+tương thích	8
 tương truyền	1
-tương tác	8
-tương tự	10
+tương tác	10
+tương tự	13
 tương ái	4
-tương đương	11
-tương đối	13
-tương đồng	1
-tương ứng	10
-tưới	7
-tường	9
-tường vi	2
+tương đương	37
+tương đối	9
+tương ứng	5
+tước	2
+tưới	1
+tường	12
+tường thuật	3
 tưởng	4
-tưởng chừng	1
-tượng	3
+tưởng nhớ	4
+tưởng niệm	4
+tượng	8
+tượng đài	2
 tạ	3
-tạha	1
-tại	833
-tại chỗ	7
+tạc	3
+tại	1986
+tại chỗ	6
 tại gia	1
-tại sao	1
-tạm	33
+tại sao	5
+tạm	57
 tạm bợ	1
-tạm thời	6
+tạm thời	15
 tạm trú	1
-tạm ứng	2
-tạo	189
-tạo dựng	19
+tạm ứng	1
+tạo	330
+tạo dựng	1
 tạo hóa	4
 tạo lập	5
-tạp	1
-tạp chí	27
-tạp hóa	3
-tạp hóa nga	1
+tạp chí	15
+tạp hóa	11
 tạp vụ	1
-tải	45
+tải	171
+tản văn	1
 tảng	2
 tảo hôn	4
-tấm	7
-tấm gương	1
-tấn	23
-tấn công	5
-tấnha	1
-tấnmáng	1
+tấm	20
+tấm gương	7
+tấn	14
+tấn công	11
+tấn phong	1
 tấnnăm	5
 tấnnămmột	1
 tấp	1
 tất	1
-tất cả	44
+tất cả	40
 tất nhiên	1
+tất thảy	1
+tất thắng	3
 tất yếu	6
-tầm	41
+tầm	46
 tầm mắt	5
 tầm vóc	1
-tầm vông	9
-tần	1
+tầm vông	1
+tần	39
 tần suất	1
-tần số	1
-tầng	111
-tầng lớp	8
+tần số	62
+tầng	144
+tầng lớp	17
 tẩy rửa	1
-tận	3
-tận dụng	11
+tận	2
+tận dụng	26
 tận hưởng	7
+tận lực	1
 tận mắt	1
 tận thu	1
 tận tâm	1
-tận tình	9
-tập	12
-tập huấn	61
-tập hợp	7
-tập luyện	2
-tập quán	5
-tập sự	43
-tập thể	22
-tập trung	211
-tập tính	1
-tập đoàn	15
-tậpcác	1
-tậpnghiên	2
-tắc nghẽn	2
+tận tình	7
+tận tụy	1
+tập	80
+tập huấn	100
+tập hợp	12
+tập luyện	1
+tập quán	3
+tập sự	26
+tập thể	88
+tập trung	287
+tập đoàn	22
+tậpnghiên	1
+tậtsang	1
 tắm	4
 tắm táp	1
-tắt	4
-tằm	12
-tặng	28
-tẻh	67
+tắt	5
+tằm	3
+tặc	4
+tặng	37
+tẻh	258
 tẽ	1
 tế	3
-tế bào	3
-tết	9
-tết nguyên đán	9
-tệ nạn	2
-tệp	1
-tỉ lệ	2
-tỉ mỉ	2
-tỉa	2
-tỉnh	1883
-tỉnh bộ	4
-tỉnh lộ	1
-tỉnh thành	8
-tỉnh thành phố	16
-tỉnh táo	1
-tỉnh uỷ	3
-tỉnh đoàn	6
-tỉnh ủy	66
-tỉnh ủy ban	5
+tết	11
+tết nguyên đán	8
+tếxã	2
+tệ nạn	4
+tệp	7
+tỉ giá	1
+tỉ lệ	12
+tỉn	1
+tỉnh	12793
+tỉnh bộ	5
+tỉnh lộ	86
+tỉnh thành	7
+tỉnh thành phố	36
+tỉnh táo	2
+tỉnh uỷ	8
+tỉnh uỷ viên	2
+tỉnh đoàn	4
+tỉnh ủy	409
+tỉnh ủy ban	6
 tỉnh ủy ban chấp hành	1
-tỉnh ủy viên	2
+tỉnh ủy viên	3
 tỉnhthành	1
-tỉnhtrong	1
+tịch	1
 tịch thu	3
+tọa	3
 tọa lạc	2
-tọa đàm	3
-tỏ	2
-tỏa	16
+tọa đàm	2
+tỏ	1
+tỏa	42
 tố	1
-tố cáo	92
+tố cáo	134
 tố giác	1
-tố lan	6
-tố tụng	19
-tốc	1
-tốc độ	38
-tối	10
-tối giản	2
-tối ngày	1
-tối qua	1
-tối thiểu	6
-tối đa	17
-tối đa số	1
-tối ưu	3
-tối ưu hóa hệ	2
-tốn	3
+tố lan	1
+tố tụng	37
+tốc	7
+tốc độ	77
+tối	37
+tối cao	1
+tối ngày	2
+tối thiểu	11
+tối đa	16
+tối ưu	5
+tối ưu hóa	9
+tối ưu hóa hệ	1
+tốn	1
 tốn kém	2
-tống	2
-tốt	155
-tốt nghiệp	7
-tốt đẹp	5
-tồn tại	25
-tồn đọng	9
-tổ	89
-tổ chức	859
+tống	1
+tống tiền	7
+tốp	1
+tốt	321
+tốt nghiệp	5
+tốt đẹp	17
+tồn tại	29
+tồn đọng	8
+tổ	94
+tổ chức	3184
 tổ chức nghiệp vụ	1
-tổ dân phố	14
+tổ dân phố	16
+tổ hợp	2
+tổ hợp tác	20
 tổ phó	1
-tổ quốc	17
-tổ quốc việt	7
-tổ thành	1
-tổ trưởng	3
-tổn	1
-tổn hại	2
-tổn thương	3
-tổn thất	1
-tổng	82
-tổng bí thư	3
-tổng cộng	4
-tổng cục	15
-tổng cục trưởng	3
-tổng hợp	91
-tổng hợp danh mục	1
-tổng kết	30
+tổ quốc	20
+tổ quốc phục vụ	1
+tổ quốc việt	13
+tổ thành	2
+tổ trưởng	4
+tổn thương	2
+tổng	63
+tổng bí thư	14
+tổng chi	2
+tổng công ty	2
+tổng cộng	1
+tổng cục	38
+tổng cục trưởng	6
+tổng giám đốc	6
+tổng hợp	393
+tổng kết	60
 tổng kết khối	1
-tổng quan	3
-tổng quát	4
-tổng sản phẩm	1
-tổng số	50
+tổng quan	4
+tổng quát	1
+tổng sản phẩm	3
+tổng số	44
+tổng số lượng	1
 tổng thanh tra	12
-tổng thu	1
-tổng thư ký	8
-tổng thể	17
-tổng thống	1
-tổng đài	8
+tổng thu	2
+tổng thuật	3
+tổng thư ký	9
+tổng thể	19
+tổng thống	44
+tổng đài	9
 tộc	2
-tội	13
-tội danh	1
-tội phạm	19
+tội	15
+tội phạm	142
+tội ác	1
 tớ	1
-tới	130
-tờ	7
+tới	190
+tờ	18
 tờ khai	2
-tờ rơi	2
-tờ trình	22
+tờ rơi	1
+tờ trình	29
 tụ tập	1
-tụ điểm	3
+tụ điểm	122
+tục	1
 tục truyền	1
-tụt	3
-tụy	1
+tụccông	6
+tụt	1
+tụt hậu	4
 tủ	1
-tủ sách	4
+tủ sách	10
 tứ đức	2
-tức	1
 tức giận	1
 tức là	6
-tức thời	2
-từ	561
+tức thời	1
+từ	1294
 từ bỏ	5
-từ chối	11
+từ chối	10
 từ chức	1
-từ ngữ	1
-từ thiện	1
-từng	111
-tử	1
-tử thi	1
+từ thiện	2
+từ từ	1
+từ điển	2
+từng	129
+tử	9
 tử thần	2
 tử trận	1
-tử vong	5
-tự	69
+tử vong	1
+tự	89
 tự biên soạn	1
-tự chủ	5
+tự chủ	15
 tự cường	3
-tự do	13
-tự giác	3
-tự hào	1
+tự do	25
+tự giác	12
+tự hào	5
 tự lực	4
-tự nguyện	8
-tự nhiên	21
-tự phê bình	4
+tự nguyện	10
+tự nhiên	19
+tự phát	2
+tự phê bình	8
 tự ti	1
 tự tin	2
 tự tiện	3
 tự trị	1
 tự trọng	2
-tự vệ	5
+tự tạo	16
+tự vệ	2
 tự xưng	6
-tự ý	5
-tự động	10
+tự ý	10
+tự động	6
+tự động chạm	1
 tự động hoá	1
-tự động hóa	8
-tựa	2
-tỷ	55
-tỷ lệ	104
-tỷ trọng	6
+tự động hóa	22
+tự động hóa việt	3
+tựa	3
+tỷ	61
+tỷ giá	1
+tỷ lệ	108
+tỷ trọng	5
 t’rưng	1
 u	1
 u tịch	1
+uae	1
+ubbc	1
 ubdtcsdt	4
-ubkt	19
-ubkttulamdonggovvn	2
+ubkttulamdonggovvn	1
 ubmttq	2
-ubmttqvn	1
-ubnd	353
-ubndbaolamlamdonggovvn	2
-ubndbaoloclamdonggovvn	2
-ubndcattienlamdonggovvn	2
-ubnddahuoailamdonggovvn	2
-ubnddalatlamdonggovvn	2
-ubnddamronglamdonggovvn	2
-ubnddatehlamdonggovvn	2
-ubnddilinhlamdonggovvn	2
-ubnddonduonglamdonggovvn	2
-ubndductronglamdonggovvn	2
+ubmttqvn	2
+ubnd	1033
+ubndbaolamlamdonggovvn	1
+ubndbaoloclamdonggovvn	1
+ubndcattienlamdonggovvn	1
+ubnddahuoailamdonggovvn	1
+ubnddalatlamdonggovvn	1
+ubnddamronglamdonggovvn	1
+ubnddatehlamdonggovvn	1
+ubnddilinhlamdonggovvn	1
+ubnddonduonglamdonggovvn	1
+ubndductronglamdonggovvn	1
 ubndkh	1
-ubndlacduonglamdonggovvn	2
-ubndlamdonggovvn	2
-ubndlamhalamdonggovvn	2
-ubndmt	1
+ubndlacduonglamdonggovvn	1
+ubndlamdonggovvn	1
+ubndlamhalamdonggovvn	1
 ubndtd	1
 ubndth	4
-ubndvx	2
+ubndvx	6
 ubndxd	1
-ubndđc	3
-udnd	1
-uk	2
+ubndđc	1
+ubtvqh	3
+ubtwmttqvn	1
 um tùm	1
 unbd	1
-unesco	1
-university	3
+unclos	1
+under	1
+unesco	6
+ung	2
+ung thư	2
+unicom	1
+unit	1
+united	2
+universities	1
+university	2
+until	1
+uoc	1
 uoát	1
-upload	5
-usa	4
+up	3
+upload	9
+upu	8
+urban	5
+us	2
 usaid	1
-usd	14
+usb	1
+usd	28
 usdmnăm	1
+usdnăm	1
 usdsừng	1
+use	1
+using	2
 utm_campaign	2
 utm_medium	2
-uvbtvtrưởng	1
+uy	1
 uy nghiêm	1
-uy tín	16
-uyên	7
-uyển chuyển	1
+uy tín	19
+uy tín phục vụ	1
+uyên	3
+uản	3
 uốn lượn	2
+uốn éo	1
 uống	3
 uỷ ban	1
 uỷ ban nhân dân	4
-uỷ viên	1
-v	8
-va	2
-va chạm	2
-vaccine	15
-vai	2
-vai trò	76
+uỷ viên	2
+v	13
+va	10
+va chạm	6
+vaccination	1
+vaccine	29
+vai trò	86
 valley	2
+valparaiso	1
+van	1
+vanduclamdonggovvn	1
+vang dội	1
 vang vọng	1
-vat	8
-vay	28
+vay	22
 vay mượn	1
-vb	1738
-vbtpl	1214
-vbtplbl	1022
+vb	1134
+vbqp	1
+vbqppl	22
+vbtpl	607
+vbtplbl	511
 vc	1
-ve	1
-ven	3
+vdictcom	1
+ve	12
+vegas	3
+ven	2
 veo	1
-vgp	3
-vh	2
-vhtt	6
-vhttdl	1
-vhtttt	1
-vi	33
-vi mô	35
-vi phạm	153
-vi rút	3
+vessels	1
+vgp	1
+vgpquang	4
+vh	1
+vhtt	7
+vhttdl	8
+vi	78
+vi mô	11
+vi phạm	177
 vi sinh	2
+vi sinh vật học	1
 vi vu	3
 vi vút	2
-viber	1
-video	29
-videokiemtiencom	1
-vieclamlamdonggmailcom	3
-vieclamlamdongvn	13
+video	71
+videoaudio	1
+vieclamlamdonggmailcom	2
+vieclamlamdongvn	10
 vieclamvietnamgovvn	1
-viet	1
-vietcombank	9
-vietgap	4
-vietnam	9
+viet	2
+vietcombank	4
+vietgap	3
+vietjet	2
+vietnam	21
+vietnamese	3
+vietnameseflagged	1
+vietnamfrance	1
 vietnamnet	1
-vietqvn	2
-viettel	4
+vietnamnetvn	1
+vietnamplus	1
+vietnamsiliconvaley	1
+vietnamthailand	1
+vietnam’s	2
+vietqvn	5
+viettel	7
+viettelstudy	2
 viettimesvn	1
 view	2
-vii	2
+vii	3
 viii	2
-vilg	1
+vilg	60
 villa	2
-vinaphone	1
+villages	2
+vilnius	1
+vina	1
+vinai	2
+vinamilk	2
+vinaphone	2
+vineco	60
 vinh	2
+vinh danh	12
+vinh dự	5
 vinh quy	1
-vip	2
-virus	10
-vitro	1
-viên	60
-viên chức	126
-viếng	4
-viết	24
+vioedu	1
+violence	1
+violet	2
+violetvn	1
+virus	24
+visafe	4
+vision	4
+visit	2
+visits	1
+viêm	2
+viên	75
+viên chức	469
+viếng	3
+viết	479
 viễn	1
 viễn du	1
-viễn thông	31
-việ	1
-việc	852
-việc làm	137
-việc nhà nước	3
+viễn thám	89
+viễn thông	156
+việ	2
+việc	1301
+việc làm	277
+việc nhà nước	2
+việcthông	2
 việcviệc	3
 việcvị	1
 việcđầu	1
-viện	37
-viện kiểm sát nhân dân tối cao	1
-viện trưởng	2
-việt	365
-việt hùng	1
-việt kiều	1
-việt thành	1
-việt trì	2
-vjste	1
-vksndlamdonggovvn	2
-vlxd	4
+việcđề nghị	2
+viện	240
+viện kiểm sát	2
+viện kiểm sát nhân dân	2
+viện kiểm sát nhân dân tối cao	2
+viện phí	2
+viện trưởng	3
+việt	1228
+việt hóa	2
+việt hùng	2
+việt trì	1
+việtpháp	3
+vk	1
+vksndlamdonggovvn	1
+vl	15
+vlig	6
+vlxd	2
+vmooc	1
 vmv	1
-vn	3
-vnanetvn	1
-vnchndllamdonggovvn	2
-vnexpressnet	3
+vn	6
+vnchndllamdonggovvn	1
+vneconomyvn	1
+vnedu	1
+vnexpress	1
+vnexpressnet	1
 vnh	1
-vnisa	1
-vnnic	6
-vnpt	2
-vnsecurity	2
-vnulic	12
-voi	13
+vnnic	29
+vnpt	23
+vnptedu	1
+vnptfooter	2
+vnpttravelldggmailcom	16
+vnulic	6
+voh	1
+voi	15
 voice	1
-vov	1
-vp	44
-vpcc	193
-vphdndlamdonggovvn	2
-vpls	304
-vpn	1
-vptulamdonggovvn	2
-vpubndlamdonggovvn	2
-vqgbdnblamdonggovvn	2
-vr	2
-vrl	2
+von_signedpdf	1
+vondoc	1
+vote	1
+vov	2
+vp	55
+vpcc	120
+vpcp	3
+vphdndlamdonggovvn	1
+vpls	162
+vps	5
+vptulamdonggovvn	1
+vpubnd	32
+vpubndlamdonggovvn	41
+vqgbdnblamdonggovvn	1
+vr	1
 vs	2
-vt	10
-vtc	2
-vttv	2
-vtv	1
-vtvvn	1
+vt	262
+vtc	1
+vthk	341
+vttv	1
+vtv	2
 vu	1
 vua	1
-vufind	2
-vui	27
-vui chơi	7
-vui lòng	1
-vui mừng	2
+vufind	1
+vui	35
+vui chơi	9
+vui lòng	2
+vui mừng	3
 vui nhộn	1
-vunhlamdonggovvn	2
-vv	58
-vvaf	1
-vvbáo	1
-vvcung	4
-vvghi	1
-vvgóp	2
-vvgửi	1
-vvkết	1
-vvlúc	2
-vvlịch	1
+vui sướng	1
+vui vẻ	1
+vunhlamdonggovvn	1
+vv	90
+vvcủa	1
 vvnhằm	3
-vvphối	1
-vvtham	1
-vvtriển	2
-vvtrả	1
-vvtổng	1
-vvviệc	1
-vvvề	4
-vvđề	1
-vy	5
-và	4047
-vàhoặc	8
+vy	6
+và	8375
 vài	7
 vài ba	1
-vàng	15
+vàng	9
 vàng rực rỡ	1
-vành khuyên	1
-vành đai	5
-vào	428
-vào cuộc	6
+vành đai	4
+vào	481
+vào cuộc	4
+vào sổ	4
 vách	4
-ván	2
-vân	23
-vân cơ	2
+ván	1
+vân	21
+vân cơ	1
+vây ráp	2
 vãn cảnh	1
-vè	4
+vè	3
 vèo vèo	1
-vé	12
-vê	1
-vì	70
-vì lẽ	2
+vé	14
+vê	3
+vì	87
+vì lẽ	1
 vì sao	3
-vì thế	10
-vì vậy	23
-ví dụ	24
-ví như	2
+vì thế	6
+vì vậy	36
+ví	5
+ví dụ	11
+ví như	3
 ví von	1
 vò	1
 vòi	1
-vòm	1
-vòng	19
-vòng tròn	2
+vòng	40
+vòng tay	3
 vòng vèo	2
+vòng vòng	40
 vóc	1
 vóc dáng	1
 vô	1
-vô cùng	9
-vô cảm	3
-vô gia cư	2
-vô hình	2
-vô tuyến	1
-vô tình	2
-vô tận	2
+vô cùng	7
+vô cảm	1
+vô hình	3
+vô tuyến	61
+vô tình	1
+vô tận	1
 vô vàn	2
-võ	82
+võ	69
 võ bị	1
 võ nhai	2
-vùng	194
+vùng	251
 vùng cao	1
-vùng miền	2
-vùng sâu	5
-vùng sâu vùng xa	10
-vùng xa	3
-vùng đất	9
+vùng miền	4
+vùng sâu vùng xa	12
+vùng đất	6
 vùng đất sét	1
 vú	1
-văn	249
+văn	237
 văn bài	1
-văn bản	237
-văn bằng	18
-văn cảnh	3
+văn bản	2409
+văn bản bộ	1
+văn bằng	7
 văn dung	1
-văn giang	2
-văn hiệp	1
-văn hoàng	11
-văn hoá	10
-văn hóa	110
-văn hùng	3
+văn hiệp	5
+văn hoàng	12
+văn hoá	27
+văn hóa	281
+văn hùng	2
 văn hải	1
-văn học	4
-văn hồng	1
-văn kiện	4
-văn liệu	3
-văn lộc	10
-văn lợi	3
-văn lực	1
+văn học	7
+văn kiện	127
+văn liệu	2
+văn lộc	14
+văn lợi	2
+văn lực	2
 văn minh	17
-văn nghệ	2
-văn nghệ sĩ	1
-văn nhân	2
+văn nghệ	6
+văn nhân	1
 văn nhựt	1
-văn phong	2
-văn phòng	4176
-văn phương	8
-văn sơn	6
-văn thành	8
-văn thái	3
-văn thư	14
-văn tiến	9
-văn trí	5
-văn tài	2
+văn phong	1
+văn phòng	2802
+văn phương	6
+văn sơn	3
+văn thành	6
+văn thái	7
+văn thư	23
+văn tiến	5
+văn trí	3
+văn tài	1
 văn vũ	2
-văn độ	2
-văn đức	4
+văn độ	1
+văn đức	5
 vĩ	3
-vĩ mô	3
-vĩ đại	1
-vĩnh	7
+vĩ mô	5
+vĩ đại	5
+vĩnh	4
 vĩnh bảo	1
-vĩnh châu	1
 vĩnh cửu	2
-vĩnh phúc	4
+vĩnh long	123
+vĩnh lợi	25
+vĩnh phúc	128
 vĩnh thạnh	2
-vĩnh trinh	2
-vĩnh yên	1
-vũ	78
-vũ khí	7
-vũ khí hóa học	1
-vũ linh	2
-vũ quang	1
-vũ trang	3
+vĩnh trinh	1
+vĩnh yên	2
+vũ	46
+vũ khí	4
+vũ linh	1
+vũ tiến	4
+vũ trụ	1
 vũ điệu	1
 vũng	1
-vũng tàu	3
-vươn	12
-vương	28
-vương quốc	3
-vương vãi	1
-vương đình	4
-vướng	4
-vướng mắc	48
-vườn	25
+vũng tàu	126
+vươn	21
+vương	30
+vương quốc	11
+vương tôn	1
+vương đình	22
+vướng	2
+vướng mắc	170
+vườn	70
 vườn ươm	1
-vượt	42
-vượt bậc	3
-vượt trội	2
+vượng	1
+vượt	60
+vượt bậc	1
+vượt trội	1
 vượt tuyến	1
-vạch	2
+vạch	4
+vạch mặt	1
 vạm vỡ	1
-vạn	15
+vạn	10
 vạn hạnh	2
-vạn phúc	1
 vạt	1
 vải	1
-vấn	7
-vấn nạn	1
+vấn	6
+vấn nạn	3
 vấn vương	1
-vấn đề	139
+vấn đề	148
 vấp	1
-vất vả	2
+vất vả	1
 vần vũ	1
-vẫn	112
-vận	4
-vận chuyển	10
-vận dụng	5
-vận hành	32
-vận tải	123
-vận động	52
-vận động viên	1
-vật chất	10
+vẫn	77
+vận	3
+vận chuyển	12
+vận dụng	6
+vận hành	34
+vận tải	974
+vận động	63
+vật chất	22
 vật chất thải bỏ	1
+vật chứng	1
 vật dụng	3
-vật liệu	14
-vật lý	3
-vật lý hóa học	1
-vật lực	2
-vật nuôi	9
+vật liệu	141
+vật lý	36
+vật nuôi	6
 vật tư	13
-vật tư trang thiết bị	1
-vậy	32
-vắc xin	4
-vắng	5
-vắng mặt	6
+vậy	26
+vắc xin	5
+vắng	8
+vắng mặt	4
 vắt	4
-vẻ	13
-vẻ vang	2
+vẻ	18
+vẻ vang	4
 vẽ	2
 vết	7
-vết thương	2
-về	1489
+vết thương	1
+về	2569
 vể	1
-vệ	9
-vệ sinh	15
+vệ	6
+vệ sinh	137
 vệ sĩ	4
-vệ tinh	1
+vệ tinh	2
+vệ tinh thành phố	1
 vỉa hè	1
-vị	20
-vị thế	11
-vị trí	123
+vị	25
+vị thế	17
+vị trí	112
 vịt trời	1
 vọng	3
-vốn	99
-vội	1
+vốn	87
 vội vàng	1
+vội vã	1
 vớ	1
-với	1285
-vỡ	2
-vợ	3
-vợ chồng	7
-vụ	39
-vụ lợi	12
-vụ việc	91
-vụ án	11
-vứt	1
+với	1411
+vỡ	3
+vỡ nợ	1
+vợ	2
+vợ chồng	5
+vụ	294
+vụ lợi	4
+vụ việc	92
+vụ án	13
 vừ	1
-vừa	71
-vừa mới	2
-vừa qua	11
-vừa rồi	1
-vững	17
-vững bước	1
-vững chắc	9
-vững mạnh	21
-vững vàng	3
+vừa	115
+vừa mới	1
+vừa qua	15
+vững	19
+vững bước	4
+vững chắc	12
+vững mạnh	29
+vững vàng	5
+vự	1
 vực	7
 vực thẳm	1
-vựng	1
-vỹ	2
+vỹ	1
+w	3
 ward	1
-web	1
-website	378
-wef	46
-west	2
-wifi	1
+warm	4
+warnery	1
+washington	1
+water	1
+way	4
+wb	8
+web	5
+webpart	1
+website	601
+wennesland	1
+wetlands	5
+where	2
+whitsun	1
+who	11
+wifi	2
 wifiggg	1
-win	2
-windowsnet	2
+windows	1
 winwin	1
-wipo	2
-wipopublish	2
+with	4
+withdraw	1
+without	1
 woang	2
-wto	5
-wwwlamdonggovvn	109
-x	17
-xa	28
+world	1
+worldwide	2
+wto	1
+wwtechfestlamdonggovvn	2
+wwwlamdonggovvn	148
+wwwmediaqdndvn	2
+x	167
+xa	24
 xa hoa	2
-xa rời	3
+xa lạ	1
+xa rời	1
+xa vời	1
 xa xa	1
+xa xôi	1
 xa xăm	1
 xa xưa	1
-xanh	71
+xanh	91
 xanh biếc	4
 xanh ngắt	1
-xanh tươi	3
-xd	6
-xdctgt	2
-xe	82
-xe buýt	4
+xanh tươi	1
+xcg	86
+xd	36
+xdcq	1
+xdctgt	1
+xe	424
+xe buýt	249
+xe cơ giới	172
 xe jeep	2
-xe khách	6
-xe máy	14
-xe máy cày	1
+xe khách	9
+xe lăn	2
+xe lửa	1
+xe máy	130
 xe tăng	1
 xe tải	4
 xe tải biển	1
-xem	28
+xem	289
 xem lại	2
-xem xét	63
-xen	3
-xh	18
-xi	10
+xem xét	96
+xen	2
+xh	24
+xi	17
 xi măng	1
-xiaotangshan	1
-xii	10
-xiii	34
-xin	28
+xii	16
+xiii	29
+xin	33
+xin phép	1
 xinh	1
 xinh tươi	1
 xinh xinh	2
 xinh xắn	1
 xinh đẹp	4
-xiv	5
-xix	1
+xiv	7
+xix	3
 xklđ	1
 xlr	1
 xnk	2
-xoai	1
-xong	13
+xoan	8
+xong	11
+xoàn	1
 xoáy	1
-xoắn	2
-xu hướng	27
-xu thế	3
-xung kích	1
-xung lực	1
+xu hướng	18
+xu thế	19
+xuantnlamdonggovvn	1
+xung kích	5
+xung lực	2
 xung phong	1
-xung quanh	6
-xung đột	11
-xuyên	12
-xuyên suốt	1
-xuyên tạc	5
+xung quanh	3
+xung đột	9
+xuyên	16
+xuyên tạc	10
 xuyến	1
-xuân	47
-xuân hùng	3
-xuân hương	9
-xuân hải	2
-xuân hồng	1
-xuân kiên	2
+xuân	38
+xuân bảo	2
+xuân hương	11
+xuân hải	1
+xuân kiên	1
 xuân la	1
-xuân phúc	6
-xuân sơn	2
-xuân thanh	6
-xuân thành	4
-xuân thọ	4
-xuân trường	15
-xuân vinh	1
-xuân đài	1
+xuân phúc	16
+xuân sơn	1
+xuân thanh	3
+xuân thành	1
+xuân thọ	5
+xuân trường	9
+xuân đài	10
 xuôi	1
-xuôi chiều	3
-xuất	2
-xuất bản	47
-xuất cảnh	3
+xuôi chiều	1
+xuất	5
+xuất bản	168
+xuất bản chính trị quốc	9
+xuất bản in	1
+xuất bản âm nhạc	2
+xuất cảnh	2
 xuất giá	1
-xuất hiện	18
-xuất khẩu	29
-xuất ngũ	2
-xuất nhập khẩu	3
-xuất phát	13
-xuất sắc	15
-xuất trình	1
-xuất xứ	4
-xuống	37
+xuất hiện	32
+xuất khẩu	33
+xuất ngũ	1
+xuất nhập khẩu	13
+xuất phát	15
+xuất sắc	33
+xuất xứ	2
+xuố	1
+xuống	33
 xuống cấp	2
 xuống dốc	2
-xuống đường	1
-xv	25
-xx	1
+xv	97
+xvi	1
+xvii	1
+xviii	1
+xx	2
+xxi	1
+xxii	1
+xxiii	1
+xxiv	1
 xào xạc	3
-xác lập	26
-xác minh	35
-xác nhận	34
-xác thực	4
-xác đáng	2
-xác định	139
+xác lập	10
+xác minh	34
+xác nhận	39
+xác thực	6
+xác đáng	1
+xác định	287
 xách	1
 xách tay	2
-xâm hại	1
+xâm hại	10
 xâm lăng	3
 xâm lược	1
+xâm nhiễm	1
 xâm nhập	3
-xâm phạm	9
+xâm phạm	6
 xâu	2
-xây	5
+xây	6
 xây cất	1
-xây dựng	657
-xây dựng hình thành	1
-xã	271
-xã hội	415
-xã hội chủ nghĩa	8
-xã hội hoá	3
-xã hội hóa	13
-xã hội hóa triệu	1
-xã hội đồng bộ	1
-xã thôn	6
+xây dựng	1917
+xã	782
+xã hội	1349
+xã hội chủ nghĩa	7
+xã hội chủ nghĩa việt	62
+xã hội diễn đàn	2
+xã hội hoá	4
+xã hội hóa	11
+xã hội điển hình như	1
+xã hội đồng nghĩa vụ	1
+xã thôn	7
 xã đoàn	1
-xét	20
-xét duyệt	11
-xét nghiệm	15
-xét xử	8
+xãtổ	2
+xécbia	1
+xét	121
+xét duyệt	24
+xét nghiệm	32
+xét xử	127
 xê dịch	3
 xí nghiệp	1
 xích	1
-xóa	13
-xóa đói giảm nghèo	4
+xóa	14
+xóa đói giảm nghèo	5
 xóm	5
+xôi	2
 xõa	1
 xúc	1
 xúc cảm	1
-xúc tiến	17
-xúc động	2
+xúc giác	1
+xúc tiến	13
+xúc tác	5
+xúc động	11
 xúi giục	2
-xăng	5
-xưa	2
+xăng	17
+xưa	5
 xưa kia	1
-xương máu	1
 xướng tên	1
-xảy	40
-xấp xỉ	1
-xấu	8
+xả	8
+xảy	48
+xấu	9
 xấu số	1
-xếp	33
-xếp hạng	24
-xếp loại	4
-xịt	2
-xốt	2
-xứ	2
+xếp	105
+xếp hạng	20
+xếp loại	9
+xịt	1
+xổ số	191
+xứ	1
 xứ sở	1
-xứng đáng	4
-xử	1
-xử lý	241
-xử lý do	3
+xứng đáng	8
+xử lý	260
+xử lý do	12
 xử lý dịch	1
 xử lý tài chính	1
 xử lý tài sản	2
-xử phạt	29
+xử lý tài xế	5
+xử phạt	153
 xử trí	1
 xựng	1
-y	13
-y bác sĩ	1
-y dược học	1
-y dược khoa học	1
-y học	6
-y khoa	1
-y sinh	2
-y sĩ	2
+y	10
+y học	3
+y sinh	5
+y sĩ	1
 y sở	3
-y tế	156
-y tế nông nghiệp	1
+y tế	365
 ya	2
+years	1
+yemen	4
 yersin	7
+yoga	1
 yomost	1
+york	4
 yoshimoto	1
+your	2
 youtube	4
 yuan	1
-yyayj	2
 yàng	2
-yên	7
+yên	253
+yên bái	123
 yên bình	1
 yên bắc ninh	1
-yên lạc	4
+yên lạc	8
+yên nghĩa	1
 yên tâm	2
 yên tĩnh	2
-yêu	13
-yêu cầu	194
+yêu	24
+yêu chuộng	1
+yêu cầu	340
+yêu cầu nguyện vọng	1
 yêu cầu thủ trưởng	2
 yêu kiều	1
 yêu mến	2
-yêu thích	1
-yêu thương	2
+yêu thích	3
+yêu thương	7
 yêu đời	1
-yến	3
-yếu	26
-yếu kém	7
-yếu tố	27
-z	4
-zalo	21
+yến	2
+yết	1
+yếu	69
+yếu kém	5
+yếu thế	5
+yếu tố	63
+yếu điểm	1
+z	2
+zalo	16
 zalomsg	2
-zd_khgicfu	2
-zen	2
-zoom	3
+zd_khgicfu	1
+zealand	5
+zen	1
+zerocovid	4
+zoom	2
 zorbing	2
+|	414
 §	4
-©	430
-­	8
+©	548
+­	10
+×	2
+à	2
+àm	2
 ào	1
-á	12
-ái	4
+á	22
+á châu	1
+ác	1
+ái	3
+ái quốc	3
 ái ân	2
-án	25
-án ngữ	1
-ánh	16
+án	33
+ánh	11
 ánh sáng	3
 áo	2
+áo dài	14
+áo giáp	2
+áo khoác	2
 áo phao	1
-áp dụng	72
-áp lực	1
+áp dụng	56
+áp lực	6
 áp đặt	2
+âm	1
 âm lịch	1
 âm mưu	1
 âm nhạc	2
-âm thanh	7
-âm tính	1
+âm thanh	19
+âm tính	3
 âm u	2
-ân	23
+ân	12
 ân cần	1
+ân nhân	1
 ân sở	1
-âu	6
+âng	1
+âu	3
 âu cơ	2
+ây	2
+ã	3
 ép	2
-ép buộc	3
+ép buộc	1
 êm	1
 êm dịu	1
 êm đềm	2
 êm ả	2
-ít	19
-ít nhất	3
+ình	1
+ính	2
+ít	21
+ít nhất	11
 ða	1
 ðatanla	1
 ðranliên	1
@@ -7640,7 +8809,6 @@ zorbing	2
 ðá	1
 ðó	1
 ðạ	1
-ðảng	2
 ðầu	1
 ðến	1
 ðịa	1
@@ -7648,586 +8816,665 @@ zorbing	2
 ðồng	2
 ðức trọng	1
 ðứng	1
-ô nhiễm	21
-ô tô	22
+ô nhiễm	17
+ô tô	675
 ôm	2
-ôm ấp	1
-ôn hòa	4
+ôn hòa	2
 ôn luyện	2
-ôn tập	1
+ôn tập	4
 ôn đới	2
-ông	249
-ông bà	1
+ông	480
+ông bà	3
 ôtô	1
-ùn tắc	1
-úc	4
+ùn tắc	3
+úc	1
 út	1
-úy	2
-ý	25
-ý chí	4
+úy	1
+ý	198
+ý chí	5
 ý chí nguyện vọng	1
-ý kiến	159
-ý kiến quốc hội	3
-ý kiến tạo	1
-ý nghĩa	24
-ý thức	26
-ý tưởng	6
-ý định	4
-ăn	12
-ăn mừng	1
-ăn năn	1
+ý kiến	649
+ý kiến quốc hội	1
+ý muốn	1
+ý nghĩa	27
+ý thức	33
+ý tưởng	59
+ý định	2
+ăn	39
+ăn học	2
+ăn kiêng	1
+ăn mặn	1
 ăn quả	1
-ăn uống	8
-đ	27
-đa	15
+ăn uống	4
+ăng	1
+đ	35
+đa	30
 đa chiều	6
-đa dạng	20
-đa dạng hóa	7
+đa dạng	25
+đa dạng hoá	1
+đa dạng hóa	8
 đa dạng sinh học	2
-đa khoa	7
+đa khoa	3
 đa ngành	3
-đa phương	10
-đa phần	2
-đa số	20
+đa năng	1
+đa phương	9
+đa phương tiện	6
+đa phần	3
+đa số	15
 đaivà	1
-đam	77
-đam mê	2
-đambri	2
+đam	222
+đam mê	4
+đambri	3
 đan	12
-đan xen	4
-đang	242
+đan xen	3
+đang	381
+đanh thép	1
+đankia	1
+đao	8
 đau	3
 đau buồn	2
 đau khổ	1
 đau đớn	1
-đbqh	47
-đc	41
-đd	2
-đe dọa	4
-đem	11
-đen	3
+đb	67
+đbqh	105
+đc	62
+đd	1
+đe dọa	10
+đem	9
+đen	13
 đeo	1
 đeo bám	1
-đg	2
-đgv	4
-đgvsố	2
-đh	10
-đi	146
-đi lại	2
+đeum	60
+đg	1
+đgv	2
+đgvsố	1
+đh	6
+đhđ	1
+đi	226
+đi lại	7
+đi tắt	2
 đi đôi	2
 đi đường	1
 đia	1
-đinh	45
+đinh	28
 điêu	1
 điêu khắc	1
 điêu đứng	1
-điền	5
-điều	261
+điền	3
+điều	234
 điều chuyển	1
-điều chỉnh	64
-điều chỉnh thể tích	1
-điều dưỡng	1
+điều chỉnh	350
 điều hoà	1
-điều hành	52
-điều khiển	10
-điều khoản	12
-điều kiện	115
-điều luật	20
+điều hành	524
+điều hòa	3
+điều khiển	13
+điều khoản	9
+điều kiện	284
+điều luật	27
 điều lệ	7
-điều phối	7
+điều phối	8
+điều phối viên	2
 điều tiết	1
-điều tra	46
-điều trị	12
-điều động	2
-điều ước	10
-điểm	116
+điều tra	203
+điều trị	10
+điều động	46
+điều ước	3
+điểm	289
 điểm nóng	3
+điểm số	4
+điểm tựa	3
 điểm xuyết	1
-điển hình	12
+điểmnghị	1
+điển	5
+điển hình	9
+điển hình nhân tố	1
+điển hình như	2
 điển hình thành công	1
-điện	59
+điện	414
+điện báo	1
 điện khí hoá	1
 điện lưới	1
-điện lạnh	2
-điện thoại	469
-điện thoại di động	12
+điện lạnh	1
+điện lực	125
+điện máy	1
+điện thoại	805
+điện thoại di động	18
 điện thông báo	1
-điện toán	2
-điện tích cực	2
-điện tử	91
-điện ảnh	9
-điệp	17
+điện toán	1
+điện tử	1157
+điện tử học liệu	1
+điện ảnh	13
+điệp	11
 điệp trùng trùng	1
 điệu	1
-đkhđ	6
-đkvb	3974
+đk	1
+đkhđ	3
+đkvb	1987
+đl	136
+đmst	38
 đngười	1
 đngườithang	1
 đngườitháng	1
 đngườituần	1
-đo	45
-đo lường	7
-đo đạc	25
-đoan	8
-đoàn	233
-đoàn kết	38
-đoàn kết hợp tác	1
-đoàn thể	46
-đoàn thể địa phương	1
+đo	83
+đo lường	66
+đo đạc	251
+đoàn	502
+đoàn kết	41
+đoàn kết hợp tác	3
+đoàn thể	179
+đoàn thể địa phương	2
 đoàn tụ	1
-đoàn viên	6
-đoán	2
-đoạn	13
-đt	9
-đtm	5
-đtvm	10
+đoàn viên	5
+đoán	3
+đoạn	31
+đoạt	10
+đt	113
+đtm	3
+đtnđ	61
 đu	4
+đua	16
 đung đưa	1
-đuối	27
+đuối	26
 đuổi	5
-đà	3887
+đà	3354
 đà điểu	1
-đài	2
-đài phát thanh	1
-đài phát thanh truyền hình	7
-đài truyền hình	2
+đài	129
+đài phát thanh truyền hình	5
+đài truyền hình	5
 đàlạt	1
-đàm	1
-đàn	17
+đàm	4
+đàm thoại	1
+đàn	11
 đàn ông	2
 đàn đá	1
-đào	18
-đào tạo	110
-đá	25
+đào	16
+đào tạo	769
+đá	26
 đá hoa cương	2
-đám	1
-đám mây	10
-đáng	14
-đáng kể	16
-đánh	14
-đánh cắp	1
-đánh giá	161
-đánh máy	4
+đám	3
+đám mây	3
+đáng	16
+đáng giá	8
+đáng kể	13
+đánh	17
+đánh bạc	1
+đánh cắp	3
+đánh dấu	2
+đánh giá	779
+đánh máy	5
 đánh phá	1
-đánh thắng	1
+đánh thuế	1
 đánh thức	1
 đánh đuổi	1
 đáo	3
-đáp	1
-đáp án	1
-đáp ứng	78
-đáp ứng nghĩa vụ	1
-đâm	3
+đáp	452
+đáp ứng	102
+đâm	1
 đân	1
-đâu	2
-đây	215
-đây đó	1
-đâytại	3
-đã	906
+đâu	8
+đây	251
+đã	1707
 đãi	3
-đãi ngộ	4
-đèn	1
-đèn chiếu	2
-đèo	6
-đê	3
-đê bao	1
+đãi ngộ	5
+đèn chiếu	1
+đèo	10
+đê	2
+đêli	2
 đêm	10
-đình	15
-đình chỉ	17
+đình	8
+đình chỉ	34
 đình công	1
-đình trung	1
-đình trệ	1
-đích	4
+đích	8
 đích xác	1
-đòa	2
-đòi	3
-đòi hỏi	20
-đòn bẩy	6
-đó	445
-đói	2
+đính	15
+đính chính	1
+đòa	1
+đòi	4
+đòi hỏi	13
+đó	528
+đói	1
 đói khát	1
-đón	12
-đón nhận	1
-đón tiếp	1
-đóng	13
+đón	32
+đón nhận	2
+đón tiếp	2
+đón đầu	2
+đóng	11
+đóng băng	1
 đóng dấu	12
-đóng gói	2
-đóng góp	60
-đô thị	26
-đô thị hóa	4
-đôi	5
+đóng gói	6
+đóng góp	99
+đô la	1
+đô thị	67
+đô thị hóa	1
+đôi	7
 đôi lứa	1
-đôn	2
-đôn đốc	42
-đông	47
-đông bắc	3
+đôn	1
+đôn đốc	44
+đông	57
+đông bắc	4
+đông nam	4
 đông tây	1
-đông á	2
-đông đảo	6
-đông đủ	1
+đông xuân	2
+đông đảo	15
+đông đủ	2
 đùa nghịch	1
+đùi	1
 đùm	2
+đùn đẩy	2
 đúc	1
 đúc kết	2
-đúng	132
-đúng mực	1
-đúng đắn	6
-đăng	20
-đăng cai	1
-đăng kiểm	3
-đăng ký	242
-đăng tải	14
+đúng	133
+đúng hạn	103
+đúng đắn	5
+đăng	22
+đăng kiểm	285
+đăng kí	54
+đăng ký	423
+đăng tải	23
+đđ	4
 đđẩy	1
 đĩa	1
-đĩnh	2
-đơn	154
-đơn cử	2
+đĩa quang học	1
+đĩnh	1
+đơn	395
+đơn cử	1
 đơn giá	21
-đơn giản	12
-đơn giản hóa	2
-đơn giản hóa thủ tục	2
-đơn phương	8
-đơn thuần	2
-đơn vị	264
-đưa	122
+đơn giản	8
+đơn giản hóa	1
+đơn phương	6
+đơn thuần	1
+đơn vị	1138
+đưa	158
 đưng	1
-đương nhiên	1
-đương đầu	1
-đường	149
+đương nhiệm	2
+đường	304
 đường biển	1
 đường băng	1
-đường bộ	10
-đường cao tốc	10
-đường cát	1
-đường dây	3
-đường dây nóng	1
-đường dẫn	1
-đường giao thông	1
+đường bộ	157
+đường cao tốc	16
+đường dây	15
+đường dây nóng	10
+đường dẫn	2
 đường hoàng hoa	2
 đường hàng không	1
-đường lối	23
-đường phố	2
+đường lối	21
+đường phố	144
 đường quốc lộ	1
 đường sinh	1
-đường tránh	1
-đường trường	1
-đường trục	4
-đường vòng	1
+đường sắt	7
+đường thủy	27
+đường trường	3
+đường trục	1
+đường vòng	3
 đường ống	4
-được	1317
-đạ	120
-đạ tẻh	2
+được	2058
+đạ	703
+đạ tẻh	4
+đạhuoai	2
 đại	18
-đại biểu	179
+đại biểu	514
 đại bàng	1
-đại chúng	2
-đại diện	80
-đại dịch	54
-đại học	135
-đại học viện	26
-đại hội	37
-đại liên	2
-đại lào	2
-đại nga	2
-đại nghĩa	20
-đại ngàn	4
+đại chúng	4
+đại diện	209
+đại dương	1
+đại dịch	73
+đại gia súc	2
+đại học	150
+đại học hành chính	1
+đại học viện	3
+đại học đường	2
+đại hội	71
+đại hội đồng	2
+đại lào	1
+đại lý	2
+đại nga	1
+đại nghĩa	10
+đại ngàn	3
 đại ninh	1
+đại sứ	46
+đại sứ quán	12
+đại tá	4
+đại tướng	3
 đại từ	2
-đại đoàn kết	11
+đại đoàn kết	15
 đạng	1
-đạo	3
-đạo lý	2
-đạo văn	2
-đạo đức	25
-đạt	220
+đạo	2
+đạo lý	3
+đạo văn	1
+đạo đức	44
+đạt	453
 đạt tình	1
-đảm	1
-đảm bảo	163
-đảm nhiệm	1
+đạtẻhlần	2
+đảm bảo	232
+đảm nhiệm	4
 đảm nhận	2
-đảng	153
-đảng bộ	27
-đảng cộng sản	1
+đảng	479
+đảng bộ	65
+đảng cộng sản	5
 đảng phong trào	1
-đảng viên	68
-đảng đoàn	1
-đảng ủy	58
-đảnh	2
+đảng tccsđ	13
+đảng trưởng	5
+đảng uỷ	11
+đảng viên	239
+đảng đoàn	34
+đảng đoàn thể	4
+đảng ủy	108
+đảng ủy ban	2
+đảng ủy sở	4
+đảng ủy viên	1
+đảnh	1
 đảo	1
-đảo ngược	1
-đất	374
-đất nước	38
-đất đai	111
+đảo ngược	2
+đất	2734
+đất nước	84
+đất đai	340
 đất đỏ	1
-đấu	3
-đấu giá	150
+đấu	89
+đấu giá	282
 đấu giá sàn	1
-đấu mạch	2
-đấu thầu	5
-đấu tranh	30
+đấu thầu	152
+đấu tranh	31
 đấu trí	1
-đầm	3
-đầu	117
-đầu cơ	2
+đầm	2
+đầu	303
+đầu bài	1
+đầu bảng	1
+đầu cuối	2
 đầu máy	1
-đầu mối	6
-đầu ra	4
+đầu mối	14
+đầu ra	2
 đầu sách	1
-đầu thú	1
-đầu tiên	40
-đầu tư	433
+đầu tiên	75
+đầu tàu	1
+đầu tư	1842
 đầu tư doanh nghiệp	1
-đầu tư sản xuất	6
-đầy	15
-đầy đủ	61
+đầu tư sản xuất	4
+đầy	14
+đầy tháng	1
+đầy đủ	168
 đầy ắp	1
 đẩy	16
-đẩy lùi	6
-đẩy mạnh	63
-đậm	4
-đậm nét	1
-đập	7
-đậu	3
-đắc	3
+đẩy lùi	8
+đẩy mạnh	103
+đậm	2
+đập	8
+đậu	4
+đắc	1
 đắc lực	3
-đắk	6
+đắk	254
 đắklăk	1
 đắm mình	1
-đắm say	1
+đắm say	2
 đắng	1
 đắp	1
 đắt	1
-đắt giá	1
 đắt đỏ	1
-đằng	4
+đằng	3
 đằng xa	1
-đẳng	2
-đặc biệt	151
-đặc nhiệm	2
-đặc sản	25
-đặc sắc	3
-đặc thù	25
-đặc trưng	11
+đẳng	1
+đặc biệt	159
+đặc cách	1
+đặc hữu	16
+đặc phái viên	1
+đặc sản	20
+đặc sắc	2
+đặc thù	86
+đặc trưng	16
 đặc tính	1
-đặc xá	3
-đặc điểm	22
-đặng	20
-đặng quốc	1
-đặng sỹ	1
-đặng thị	9
-đặng thị minh	1
-đặng thị phượng	2
-đặng thị tuyết	2
-đặng văn	2
-đặng đức	2
-đặt	58
+đặc xá	1
+đặc điểm	17
+đặng	11
+đặng minh	2
+đặng ngọc	1
+đặng thị	5
+đặng thị phượng	1
+đặng thị tuyết	1
+đặng trí dũng	1
+đặng đình	2
+đặt	60
 đặt chân	2
-đặt hàng	9
-đẹp	41
+đặt hàng	4
+đẹp	54
 đẹp mắt	1
+đẻ	2
 đế	3
-đếm	1
-đến	781
-đề	29
-đề bài	1
-đề bạt	4
-đề cao	13
-đề cương	17
-đề cập	9
-đề cử	4
-đề kháng	1
-đề nghị	143
+đến	3334
+đề	50
+đề bài	6
+đề bạt	6
+đề cao	18
+đề cương	27
+đề cập	3
+đề cử	1
+đề kháng	2
+đề mục	8
+đề nghị	250
 đề phòng	1
-đề tài	17
-đề xuất	119
+đề tài	219
+đề xuất	127
 đề xuất trình	2
-đề án	46
+đề án	270
 đền	1
-đền bù	5
+đền bù	4
 đền ơn	1
-đều	68
-đều đặn	1
-để	924
-đệ trình	1
-đệm	10
-đỉnh	11
+đều	64
+đều đặn	2
+để	1290
+đệm	1
+đỉnh	8
+đỉnh đầu	1
 đỉnhnơi	1
-địa	8
-địa bàn	285
-địa chí	2
-địa chính	14
+đị	10
+địa	6
+địa bàn	848
+địa chí	1
+địa chính	16
 địa chất	1
-địa chỉ	254
-địa chỉ số	11
-địa danh	4
-địa hình	5
+địa chỉ	279
+địa chỉ số	46
+địa danh	3
+địa giới	9
+địa hình	9
 địa hạt	1
-địa lý	9
-địa phương	333
-địa phương trình	2
+địa lý	7
+địa phương	512
+địa phương pháp	1
+địa phương trình	116
 địa phươngtrung	1
-địa phận	2
-địa điểm	31
-định	9
+địa phận	1
+địa điểm	193
+địch	1
+định	136
 định canh	2
 định cư	4
-định danh	2
-định giá	8
-định hình	4
-định hướng	51
-định kỳ	36
-định mức	9
+định danh	1
+định dạng	3
+định giá	6
+định hình	1
+định hướng	101
+định kỳ	313
+định mức	7
+định nghĩa	1
+định nghĩa là	1
 định tỉnh	1
-định vị	5
-địnhnơi	2
-đọc	17
-đỏ	8
+định vị	1
+định xuất	1
+địnhnơi	1
+địnhvăn	1
+đọc	442
+đỏ	27
 đỏ rực	1
-đốcthủ	1
-đối chiếu	2
-đối diện	3
-đối mặt	10
-đối ngoại	3
+đối chiếu	3
+đối diện	10
+đối mặt	5
+đối ngoại	237
+đối ngoại nhân dân	2
+đối ngoại tỉnh	2
 đối phó	1
-đối thoại	24
-đối thủ	7
+đối thoại	12
+đối thủ	6
 đối trọng	1
-đối tác	31
-đối tượng	130
+đối tác	19
+đối tác chiến lược	13
+đối tượng	403
 đối tượng lĩnh vực	1
 đối tượng thanh tra	35
-đối với	340
+đối với	562
+đối xứng	5
 đối xử	1
 đối ứng	1
-đốt	2
+đốin	1
+đống	1
+đốt	5
 đốt phá	1
 đồ	2
+đồ chơi	4
 đồ họa	2
 đồ sộ	1
 đồ uống	3
-đồ án	5
-đồ ăn	1
-đồi	51
-đồi núi	2
-đồng	1605
-đồng bào	110
-đồng bằng	4
-đồng bộ	30
-đồng chí	76
+đồ án	12
+đồi	53
+đồi núi	3
+đồn	1
+đồng	4760
+đồng bàn giao	5
+đồng bào	117
+đồng bằng	5
+đồng bộ	55
+đồng chí	168
 đồng cảm	2
+đồng cấp	1
 đồng cấp ủy	1
-đồng hành	12
-đồng hương	1
+đồng hành	20
+đồng hương	2
 đồng hỷ	1
 đồng khoá	1
-đồng khóa	10
-đồng loạt	4
-đồng lòng	13
-đồng lần	3
+đồng khóa	18
+đồng không	1
+đồng kỳ	3
+đồng lam	145
+đồng loạt	2
+đồng lòng	12
+đồng lần	45
+đồng nghiệp	1
 đồng nghĩa	1
-đồng nhân	1
-đồng nhân dân	1
+đồng nhiệm kỳ	8
 đồng nhân dịp	1
-đồng nhất	1
-đồng phạm	1
-đồng phục vụ	1
-đồng quy định	1
-đồng song	1
-đồng sự	1
-đồng thuận	5
-đồng thời	110
+đồng phát động	1
+đồng phạm	3
+đồng quy định	2
+đồng thuận	6
+đồng thác	1
+đồng thời	158
 đồng thời cơ sở	1
 đồng thời gian	1
-đồng thời kỳ	6
 đồng thời sự	1
 đồng thời trang bị	1
-đồng tác giả	2
+đồng tiền	2
+đồng tác giả	1
 đồng tâm	2
 đồng tình	7
-đồng tính	1
-đồng ý	16
+đồng tính	175
+đồng vị	2
+đồng ý	23
 đồng đại học	1
+đồng đều	1
+đồng đội ngũ	1
 đồng ủy ban	1
-đồngha	2
-đồnghanăm	1
-đồngkg	4
-đồngmnăm	6
+đồnggiải	24
+đồngm	1
+đồngmnăm	5
 đồngngười	3
-đồngngườinăm	2
 đồngngườituần	1
 đồngnăm	1
+đồngphút	2
 đồngtrẻ	1
-đổ	10
-đổi	13
-đổi mới	123
-đổi thay	1
+đổ	11
+đổ lỗi	4
+đổi	150
+đổi mới	341
+đổi thay	2
 đổinâng	1
-đổng	3
-đỗ	83
-đỗ trọng	4
-độ	60
+đổng	9
+đỗ	52
+đỗ quyên	8
+đỗ trọng	2
+độ	55
 độ ẩm	2
-độc	2
-độc hại	1
-độc lập	15
-độc nhất	3
-độc quyền	8
-độc thân	1
-độc đoán	3
-độc đáo	5
-đội	22
-đội hình sự	1
-đội ngũ	49
-đội phó	1
-đội trưởng	1
+độc	17
+độc giả	3
+độc hại	3
+độc lập	19
+độc nhất	1
+độc quyền	4
+độc đoán	1
+độc đáo	9
+đội	28
+đội hình	3
+đội ngũ	129
+đội viên	1
 độn	2
-động	10
-động cơ	2
-động lực	22
+động	11
+động cơ	1
+động học	1
+động kinh doanh	1
+động lực	18
+động lực học	1
 động sản	3
-động viên	20
-động vật	8
-độnghợp	4
-đột biến	2
-đột kích	4
+động tác	2
+động viên	26
+động vật	23
+động_	4
+độnghợp	2
+độngthương	1
+đột biến	9
+đột kích	3
 đột ngột	1
 đột nhập	1
-đột phá	5
-đột xuất	28
-đời	31
-đời sống	52
-đờn	1
+đột phá	7
+đột xuất	34
+đời	32
+đời sống	70
+đời thường	2
+đời tư	1
+đỡ	1
+đỡ đầu	1
 đợi	2
-đợt	33
-đủ	51
-đức	160
+đợt	56
+đủ	110
+đức	356
 đức bà	1
-đức huy	1
 đức hạnh	1
-đức trọng	30
+đức trọng	155
 đức tính	1
-đứng	50
-đứng tên	1
-đứt	2
+đức độ	5
+đứng	73
+đứt	1
+đứt gãy	4
 đừng	6
-đựng	1
-ơn	3
+ơ	1
+ơi	1
+ơn	1
 ưa	1
-ưu	2
-ưu tiên	20
-ưu tú	2
-ưu việt	1
-ưu điểm	3
-ưu đãi	50
-ươm	4
+ưu	48
+ưu tiên	44
+ưu tú	6
+ưu việt	3
+ưu điểm	4
+ưu đãi	77
+ươ	1
+ươm	11
+ươn	1
 ương	1
-ước	7
-ước mơ	1
+ước	11
 ước tính	4
-ại	1
-ảnh	68
-ảnh hưởng	54
+ượt	1
+ảnh	142
+ảnh dương	1
+ảnh hưởng	78
 ảnhagathedrieux	1
+ảnhcalimkim	1
 ảnhdulichmadagui	1
 ảnhigottravel	1
 ảnhlao	1
@@ -8238,59 +9485,92 @@ zorbing	2
 ảnhtungthompo	1
 ảnhtạ	2
 ảnhwetrek	1
-ảo	11
+ảo	10
 ảo ảnh	1
-ấm	3
-ấm áp	1
-ấn	5
-ấn tượng	8
-ấn định	1
-ấp	8
-ấy	12
+ấk	1
+ấm	2
+ấm no	1
+ấm áp	2
+ấn	4
+ấn phẩm	44
+ấn tượng	11
+ấp	67
+ấy	15
 ầm	2
 ầm ì	1
 ầm ầm	1
-ẩm	1
-ẩm thực	2
+ẩm thực	12
 ẩm ướt	1
 ẩn	1
 ẩn chứa	1
 ẩn giấu	1
+ẩu đả	1
+ẩy	3
+ập	1
 ếch	1
+ết	1
+ể	2
 ốm đau	3
 ống	1
 ốp lát	1
-ốt	6
-ồ ạt	1
 ổ	1
 ổn	2
-ổn định	41
+ổn định	49
+ội	1
 ớt	1
-ớt ngọt	1
-ở	418
+ở	845
 ủi	1
-ủng hộ	19
-ủy	16
-ủy ban	321
+ủng hộ	20
+ủy	29
+ủy ban	647
 ủy ban nhân	1
-ủy ban nhân dân	3
-ủy quyền	39
-ủy viên	27
-ứng	5
-ứng cử	7
+ủy ban nhân dân	251
+ủy quyền	35
+ủy viên	55
+ứng	6
+ứng cứu	1
+ứng cử	14
 ứng cử viên	5
-ứng dụng	163
-ứng phó	44
-ứng tuyển	2
-ứng viên	2
-ứng xử	10
-ỷ	1
-​	30
+ứng dụng	429
+ứng phó	50
+ứng tuyển	1
+ứng xử	130
+ự	1
+ỷ	3
+​	101
 —	23
-’	8
-“	427
-”	432
-•	6
+’	30
+“	699
+”	629
+‟	1
+•	12
 ′	4
+‹	3
+›	3
 ■	1
 □	4
+☎	16
+	131
+	1
+	398
+	1
+	1
+	1
+	97
+	97
+	60
+	20
+	1
+	87
+	3
+	97
+	97
+	7
+	1
+	1
+	87
+️	16
+🌐	16
+📌	16
+📧	16
+📱	16
