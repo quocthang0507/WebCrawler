@@ -11,7 +11,7 @@ def sentence_tokenize(text: str):
     sents = sent_tokenize(text)
     result = []
     for s in sents:
-        s = s.strip(punctuation)
+        s = s.lstrip(punctuation).strip()
         if not s.isdecimal():
             result.append(s)
     return result

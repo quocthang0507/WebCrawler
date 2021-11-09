@@ -80,23 +80,24 @@ def get_urls_from_url(url: str, ext: str = '.vgp'):
     return urls
 
 
-urls_in_home = get_urls_from_url(url['url'])
-found_urls = []
-data_folder = os.path.join(os.getcwd(), 'data')
-output_urls_file = os.path.join(data_folder, 'urls_baochinhphu.txt')
+if __name__ == '__main__':
+    urls_in_home = get_urls_from_url(url['url'])
+    found_urls = []
+    data_folder = os.path.join(os.getcwd(), 'data')
+    output_urls_file = os.path.join(data_folder, 'urls_baochinhphu.txt')
 
-with open(output_urls_file, mode='w', encoding='utf8') as writer:
-    for url in urls_in_home:
-        if url not in found_urls:
-            found_urls.append(url)
-            writer.write(f'{url}\n')
-        while url:
-            # Lấy các url nằm trên trang này
-            urls = get_urls_from_url(url)
-            for u in urls:
-                if u not in found_urls:
-                    found_urls.append(u)
-                    writer.write(f'{u}\n')
-            print_blue(f'Tổng cộng: {len(found_urls)}')
-            # Di chuyển sang page tiếp theo (nếu có)
-            url = get_next_page_from_url(url)
+    with open(output_urls_file, mode='w', encoding='utf8') as writer:
+        for url in urls_in_home:
+            if url not in found_urls:
+                found_urls.append(url)
+                writer.write(f'{url}\n')
+            while url:
+                # Lấy các url nằm trên trang này
+                urls = get_urls_from_url(url)
+                for u in urls:
+                    if u not in found_urls:
+                        found_urls.append(u)
+                        writer.write(f'{u}\n')
+                print_blue(f'Tổng cộng: {len(found_urls)}')
+                # Di chuyển sang page tiếp theo (nếu có)
+                url = get_next_page_from_url(url)
