@@ -64,7 +64,7 @@ def get_urls_from_url(url: str, ext: str = '.vgp'):
     if soup == None:
         end_time = time.time()
         print_red(
-            f'Đã có lỗi khi truy cập địa chỉ {url} này, trong {round(end_time-start_time, 2)} giây')
+            f'Đã có lỗi khi truy cập địa chỉ {url} này, trong {round(end_time - start_time, 2)} giây')
         return []
 
     for link in soup.find_all('a'):
@@ -76,7 +76,7 @@ def get_urls_from_url(url: str, ext: str = '.vgp'):
                 urls.append(url)
     end_time = time.time()
     print_blue(
-        f'Đã lấy được {len(urls)} URL, trong {round(end_time-start_time, 2)} giây')
+        f'Đã lấy được {len(urls)} URL, trong {round(end_time - start_time, 2)} giây')
     return urls
 
 

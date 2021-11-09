@@ -1,5 +1,5 @@
 import os
-import datetime
+import time
 
 from Sitemap_BaoChinhPhu import get_beautifulsoup_from_url
 from underthesea import sent_tokenize
@@ -26,6 +26,8 @@ def read_urls(filepath: str):
 
 
 def get_text(url: str):
+    start_time = time.time()
+
     soup = get_beautifulsoup_from_url(url)
 
     result = []
@@ -37,10 +39,20 @@ def get_text(url: str):
                     sents = sentence_tokenize(p.get_text())
                     for s in sents:
                         result.append(s)
+            end_time = time.time()
+            print_blue(
+                f'Đã lấy văn bản trong {url}, trong {round(end_time - start_time, 2)} giây')
+    else:
+        end_time = time.time()
+        print_red(
+            f'Đã có lỗi khi truy cập trang web {url}, trong {round(end_time - start_time, 2)} giây')
     return result
 
 
 def print_blue(x): return cprint(x, 'blue')
+
+
+def print_red(x: str): return cprint(x, 'red')
 
 
 if __name__ == '__main__':
@@ -53,5 +65,3 @@ if __name__ == '__main__':
         for url in read_urls(urls_file):
             for t in get_text(url, get_full_text=False):
                 writer.write(f'{t}\n')
-            print_blue(
-                f'Đã lấy xong trang web: {url} vào lúc {datetime.datetime.now()}')
