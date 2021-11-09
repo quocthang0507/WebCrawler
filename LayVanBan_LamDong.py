@@ -47,7 +47,7 @@ def get_text(url: str, get_full_text: bool = True):
             divs = soup.find_all("div", {"class": "content_62b3f161"})
         for div in divs:
             for p in div.find_all('p'):
-                if p != None and p.get_text().strip():
+                if p and p.get_text().strip():
                     sents = sentence_tokenize(p.get_text())
                     for s in sents:
                         result.append(s)
@@ -82,8 +82,8 @@ def read_urls(filepath: str):
 
 if __name__ == '__main__':
     data_folder = os.path.join(os.getcwd(), 'data')
-    urls_file = os.path.join(data_folder, 'urls.txt')
-    output_text_file = os.path.join(data_folder, 'crawled_sentences.txt')
+    urls_file = os.path.join(data_folder, 'urls_lamdong.txt')
+    output_text_file = os.path.join(data_folder, 'crawled_sentences_lamdong.txt')
 
     with open(output_text_file, 'w', encoding='utf8') as writer:
         for url in read_urls(urls_file):
