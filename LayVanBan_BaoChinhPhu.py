@@ -64,14 +64,15 @@ if __name__ == '__main__':
     data_folder = os.path.join(os.getcwd(), 'data')
     urls_file = os.path.join(data_folder, 'urls_baochinhphu.txt')
     output_text_file = os.path.join(
-        data_folder, 'crawled_sentences_baochinhphu_2.txt')
+        data_folder, 'crawled_sentences_baochinhphu.txt')
 
     with open(output_text_file, 'w', encoding='utf8') as writer:
         for url in read_urls(urls_file):
             sents = get_text(url)
             if len(sents) > 0:
                 for s in sents:
-                    if s.strip():
+                    s = s.strip()
+                    if s:
                         writer.write(f'{s}\n')
             else:
                 print_red(

@@ -83,11 +83,14 @@ def read_urls(filepath: str):
 if __name__ == '__main__':
     data_folder = os.path.join(os.getcwd(), 'data')
     urls_file = os.path.join(data_folder, 'urls_lamdong.txt')
-    output_text_file = os.path.join(data_folder, 'crawled_sentences_lamdong.txt')
+    output_text_file = os.path.join(
+        data_folder, 'crawled_sentences_lamdong.txt')
 
     with open(output_text_file, 'w', encoding='utf8') as writer:
         for url in read_urls(urls_file):
-            for t in get_text(url, get_full_text=False):
-                writer.write(f'{t}\n')
+            for s in get_text(url, get_full_text=False):
+                s = s.strip()
+                if s:
+                    writer.write(f'{s}\n')
             print_blue(
                 f'Đã lấy xong trang web: {url} vào lúc {datetime.datetime.now()}')

@@ -15,7 +15,7 @@ def print_red(x: str): return cprint(x, 'red')
 def ignore_spec_chars(text: str):
     '''Loại bỏ các ký tự không cần thiết'''
     skip_chars = ['-', ':', ',', '.', '+', ';', '<', '>', "'", '*', '!',
-                  '(', ')', '"', '/', '‰', '%', '…', '‘', '–', '?', '@', '°']
+                  '(', ')', '"', '/', '‰', '%', '…', '‘', '–', '?', '@', '°', '“', '”']
     return ''.join([c for c in text if c not in skip_chars and not c.isdigit()])
 
 
@@ -26,6 +26,8 @@ def tokenize(sentence: str, lower: bool = True, tokenizer_id: int = 1):
 
     # Bỏ qua các ký tự không cần thiết
     sentence = ignore_spec_chars(sentence).strip()
+    if not sentence:
+        return []
     if tokenizer_id == 0:
         tokens = sentence.split()
     elif tokenizer_id == 1:
@@ -33,8 +35,7 @@ def tokenize(sentence: str, lower: bool = True, tokenizer_id: int = 1):
                   for i in ViTokenizer.tokenize(sentence).split()]
     elif tokenizer_id == 2:
         tokens = word_tokenize(sentence)
-
-    return tokens
+    return [i.strip() for i in tokens if i.strip()]
 
 
 def group_by_and_count(df: DataFrame, cols=['Vietnamese'], new_col_name='Occurrences'):
@@ -120,30 +121,31 @@ def filter_aligned_words(aligned_df: DataFrame, crawled_df: DataFrame):
 crawl_data_folder = os.path.join(os.getcwd(), 'data')
 excel_folder = r'C:\Users\La Quoc Thang\OneDrive - dlu.edu.vn\CÔNG VIỆC\TuDienKHoChuru\Dữ liệu'
 
-text_file = os.path.join(crawl_data_folder, 'crawled_text.txt')
-tokens_file = os.path.join(crawl_data_folder, 'vi_tokens.txt')
+text_file = os.path.join(
+    crawl_data_folder, 'crawled_sentences_baochinhphu_2.txt')
+group_tokens_file = os.path.join(
+    crawl_data_folder, 'crawled_group_tokens_chinhphu_2.txt')
+tokens_file = os.path.join(
+    crawl_data_folder, 'crawled_tokens_chinhphu_2.txt')
 align_file = os.path.join(excel_folder, 'SongNgu_GiongTu_Cần kiểm tra.xlsx')
 align_sheet_name = 'Dot 1+2+3'
 filtered_align_file = os.path.join(excel_folder, 'SongNgu_GiongTu_Đã lọc.xlsx')
 
-'''
 # Dataframe lưu kết quả
 result_df = pd.DataFrame(columns=['Vietnamese'])
 
 # Tách từ từ dữ liệu
-with open(text_file, 'r', encoding='utf8') as reader:
+with open(text_file, 'r', encoding='utf8') as reader, open(tokens_file, 'w', encoding='utf-8') as writer:
     count = 0
     for line in reader:
         count += 1
-        line = line.strip()
-        if line:
-            tokens = tokenize(line, lower=True, tokenizer_id=2)
-            for token in tokens:
-                len_df = len(result_df)
-                result_df.loc[len_df] = token
-
+        tokens = tokenize(line, lower=True, tokenizer_id=2)
+        for token in tokens:
+            writer.write(f'{token}\n')
         print_red(f'Đã xử lý dòng thứ {count}')
     print('Đã đọc xong file text')
+
+result_df = pd.read_csv(tokens_file, index_col=False, header=None)
 
 # Gom nhóm và thêm số đếm
 print(result_df)
@@ -151,14 +153,13 @@ result_df = group_by_and_count(result_df)
 result_df = sort(result_df)
 print(result_df)
 print(f'Kích thước dữ liệu {len(result_df)}')
-export_file(result_df, tokens_file)
+export_file(result_df, group_tokens_file)
 print_red('Đã xuất danh sách các từ đã thu thập được')
-'''
 
-result_df = load_text_file(tokens_file)
+# result_df = load_text_file(tokens_file)
 
-# Lọc các từ đã gióng dựa trên các từ đã thu thập được
-aligned_df = read_excel(align_file, align_sheet_name)
-result_df = filter_aligned_words(aligned_df, result_df)
-export_df_to_excel(result_df, filtered_align_file, align_sheet_name)
-print_red('Đã xuất danh sách các từ đã gióng')
+# # Lọc các từ đã gióng dựa trên các từ đã thu thập được
+# aligned_df = read_excel(align_file, align_sheet_name)
+# result_df = filter_aligned_words(aligned_df, result_df)
+# export_df_to_excel(result_df, filtered_align_file, align_sheet_name)
+# print_red('Đã xuất danh sách các từ đã gióng')
