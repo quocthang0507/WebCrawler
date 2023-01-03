@@ -42,7 +42,7 @@ browser = webdriver.Edge(executable_path=os.path.join(
 browser.set_page_load_timeout(60)
 
 
-def get_urls_from_url(url: str, urls=[], ext: str = '.aspx'):
+def get_urls_from_url(url: str, urls=[], ext: str = '.aspx', sub_site='/sites/bandantoc'):
     # wait for load fully webpage
     start_time = time.time()
     try:
@@ -63,9 +63,12 @@ def get_urls_from_url(url: str, urls=[], ext: str = '.aspx'):
             if not href.startswith(host_name) and href.startswith('/'):
                 href = urljoin(host_name, href)
             if get_host_name(href) == host_name and href not in urls and '/video/' not in href and 'Authenticate.aspx' not in href:
-                urls.append(href)
-                # if len(urls) == max:
-                #     break
+                if sub_site and sub_site in href:
+                    urls.append(href)
+                else:
+                    urls.append(href)
+                    # if len(urls) == max:
+                    #     break
     end_time = time.time()
     print_blue(
         f'Đã lấy thành công các URL trong {url} trong {round(end_time - start_time, 2)} giây')
@@ -79,7 +82,7 @@ def export_to_file(urls: list, file_name: str = 'urls_lamdong.txt'):
             writer.write(f'{url}\n')
 
 
-if __name__ == '__main__':
+def get_all_sub_site():
     found_urls = []
     file_name = 'urls_lamdong.txt'
     data_folder = os.path.join(os.getcwd(), 'data')
@@ -120,5 +123,45 @@ if __name__ == '__main__':
                 print_blue(f'Đã lấy thêm {len1 - len0} urls')
 
     # export_to_file(urls)
+
+    browser.close()
+
+
+def get_bandantoc_site():
+    found_urls = []
+    file_name = 'urls_lamdong_bandantoc.txt'
+    data_folder = os.path.join(os.getcwd(), 'data')
+    output_urls_file = os.path.join(data_folder, file_name)
+    with open(output_urls_file, mode='w', encoding='utf8') as writer:
+        get_urls_from_url(
+            'https://lamdong.gov.vn/sites/bandantoc/SitePages/Home.aspx', found_urls)
+        # Lay tat ca url tren tung trang web
+        for url in found_urls:
+            urls = []
+            writer.write(f'{url}\n')
+            get_urls_from_url(url, urls)
+
+            len0 = len(found_urls)
+            for u in urls:
+                if u not in found_urls:
+                    found_urls.append(u)
+                    writer.write(f'{u}\n')
+            len1 = len(found_urls)
+            if len1 > len0:
+                print_blue(f'Đã lấy thêm {len1 - len0} urls')
+        # Lay them mot lan nua
+        for url in found_urls:
+            urls = []
+            writer.write(f'{url}\n')
+            get_urls_from_url(url, urls)
+
+            len0 = len(found_urls)
+            for u in urls:
+                if u not in found_urls:
+                    found_urls.append(u)
+                    writer.write(f'{u}\n')
+            len1 = len(found_urls)
+            if len1 > len0:
+                print_blue(f'Đã lấy thêm {len1 - len0} urls')
 
     browser.close()
