@@ -42,7 +42,7 @@ browser = webdriver.Edge(executable_path=os.path.join(
 browser.set_page_load_timeout(60)
 
 
-def get_urls_from_url(url: str, urls=[], ext: str = '.aspx', sub_site='/sites/bandantoc'):
+def get_urls_from_url(url: str, urls=[], ext: str = '.aspx'):
     # wait for load fully webpage
     start_time = time.time()
     try:
@@ -63,10 +63,7 @@ def get_urls_from_url(url: str, urls=[], ext: str = '.aspx', sub_site='/sites/ba
             if not href.startswith(host_name) and href.startswith('/'):
                 href = urljoin(host_name, href)
             if get_host_name(href) == host_name and href not in urls and '/video/' not in href and 'Authenticate.aspx' not in href:
-                if sub_site and sub_site in href:
-                    urls.append(href)
-                else:
-                    urls.append(href)
+                urls.append(href)
                     # if len(urls) == max:
                     #     break
     end_time = time.time()
@@ -165,3 +162,7 @@ def get_bandantoc_site():
                 print_blue(f'Đã lấy thêm {len1 - len0} urls')
 
     browser.close()
+
+
+if __name__ == '__main__':
+    get_all_sub_site()
