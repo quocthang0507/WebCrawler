@@ -31,7 +31,8 @@ def inject_js(url: str, js_file_path: str):
     return data
 
 
-def crawl_text_in_urls(urls_file: str):
+def crawl_text_in_urls():
+    urls_file = r'data\urls_lamdong_2.txt'
     js_file = os.path.join(os.getcwd(), 'script.js')
     output_file = os.path.join(os.getcwd(), 'data', 'crawled_text_lamdong.txt')
 
@@ -40,7 +41,7 @@ def crawl_text_in_urls(urls_file: str):
         urls = reader.writelines()
     with open(output_file, 'w', encoding='utf-8') as writer:
         for url in urls:
-            if url: # excludes blank line
+            if url:  # excludes blank line
                 data = inject_js(url, js_file)
                 for line in data:
                     if line:
@@ -48,10 +49,4 @@ def crawl_text_in_urls(urls_file: str):
 
 
 if __name__ == '__main__':
-    output_file = os.path.join(os.getcwd(), 'data', 'sample_text_py.txt')
-    js_file = os.path.join(os.getcwd(), 'script.js')
-    data = inject_js(
-        'https://demo4.dlu.edu.vn/gioi-thieu-khoa-cong-nghe-thong-tin/', js_file)
-    with open(output_file, 'w', encoding='utf8') as writer:
-        for line in data:
-            writer.write(f"{line}\n")
+    crawl_text_in_urls()
