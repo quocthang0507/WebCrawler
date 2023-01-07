@@ -16,6 +16,9 @@ browser.set_page_load_timeout(60)
 def print_blue(x): return cprint(x, 'blue')
 
 
+def print_red(x): return cprint(x, 'red')
+
+
 def inject_js(url: str, js_file_path: str):
     try:
         # wait for load fully webpage
@@ -27,7 +30,6 @@ def inject_js(url: str, js_file_path: str):
     data = browser.execute_script(script)
     for line in data:
         line = line.replace('\n', '\\n')
-    browser.close()
     return data
 
 
@@ -37,15 +39,20 @@ def crawl_text_in_urls():
     output_file = os.path.join(os.getcwd(), 'data', 'crawled_text_lamdong.txt')
 
     urls = []
-    with open(urls_file, 'r') as reader:
-        urls = reader.writelines()
+    with open(urls_file, 'r', encoding='utf-8') as reader:
+        urls = reader.readlines()
+        urls = [url.strip() for url in urls if url and not url.isspace()]
+
+    total = len(urls)
+    print_blue(f'Có {total} trong danh sách')
+
     with open(output_file, 'w', encoding='utf-8') as writer:
-        for url in urls:
-            if url:  # excludes blank line
-                data = inject_js(url, js_file)
-                for line in data:
-                    if line:
-                        writer.write(f'{url}\t{line}\n')
+        for i, url in enumerate(urls):
+            print_red(f'Đang lấy văn bản ở url thứ {i+1}/{total}')
+            data = inject_js(url, js_file)
+            for line in data:
+                if line:
+                    writer.write(f'{url}\t{line}\n')
 
 
 if __name__ == '__main__':
