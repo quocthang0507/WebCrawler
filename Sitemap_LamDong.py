@@ -64,8 +64,8 @@ def get_urls_from_url(url: str, urls=[], ext: str = '.aspx'):
                 href = urljoin(host_name, href)
             if get_host_name(href) == host_name and href not in urls and '/video/' not in href and 'Authenticate.aspx' not in href:
                 urls.append(href)
-                    # if len(urls) == max:
-                    #     break
+                # if len(urls) == max:
+                #     break
     end_time = time.time()
     print_blue(
         f'Đã lấy thành công các URL trong {url} trong {round(end_time - start_time, 2)} giây')
@@ -164,5 +164,31 @@ def get_bandantoc_site():
     browser.close()
 
 
+def get_more_urls_from_file():
+    urls_in_file = []
+    file_name = 'urls_lamdong.txt'
+    file_name_2 = 'urls_lamdong_2.txt'
+    data_folder = os.path.join(os.getcwd(), 'data')
+    input_urls_file = os.path.join(data_folder, file_name)
+    output_urls_file = os.path.join(data_folder, file_name_2)
+    with open(input_urls_file, 'r', encoding='utf8') as reader:
+        urls_in_file = reader.readlines()
+    with open(output_urls_file, 'w', encoding='utf8') as writer:
+        for url in urls_in_file:
+            urls = []
+            writer.write(f'{url}\n')
+            get_urls_from_url(url, urls)
+            len0 = len(urls_in_file)
+            for u in urls:
+                if u not in urls_in_file:
+                    urls_in_file.append(u)
+                    writer.write(f'{u}\n')
+            len1 = len(urls_in_file)
+            if len1 > len0:
+                print_blue(f'Đã lấy thêm {len1 - len0} urls')
+    browser.close()
+
+
 if __name__ == '__main__':
-    get_all_sub_site()
+    # get_all_sub_site()
+    get_more_urls_from_file()
