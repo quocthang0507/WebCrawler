@@ -16,27 +16,6 @@ browser.set_page_load_timeout(60)
 def print_blue(x): return cprint(x, 'blue')
 
 
-def get_text(url: str):
-    try:
-        # wait for load fully webpage
-        browser.get(url)
-    except:
-        return []
-
-    data = []
-    # page_source into beautiful_soup
-    soup = BeautifulSoup(browser.page_source, 'html.parser')
-    selector = 'body, body *:not(style, script)'
-    elements = soup.select(selector)
-    for element in elements:
-        for node in element.findChildren():
-            text = not isinstance(node, Comment) and node.getText()
-            if text and not text.isspace() and len(text) > 1 and not text.isnumeric():
-                data.append(text.strip())
-    browser.close()
-    return list(set(data))
-
-
 def inject_js(url: str, js_file_path: str):
     try:
         # wait for load fully webpage
@@ -46,6 +25,8 @@ def inject_js(url: str, js_file_path: str):
     script = open(js_file_path, 'r').read()
 
     data = browser.execute_script(script)
+    for line in data:
+        line = line.replace('\n', '\\n')
     browser.close()
     return data
 
@@ -57,5 +38,4 @@ if __name__ == '__main__':
         'https://demo4.dlu.edu.vn/gioi-thieu-khoa-cong-nghe-thong-tin/', js_file)
     with open(output_file, 'w', encoding='utf8') as writer:
         for line in data:
-            line = line.replace('\n', '\\n')
             writer.write(f"{line}\n")
